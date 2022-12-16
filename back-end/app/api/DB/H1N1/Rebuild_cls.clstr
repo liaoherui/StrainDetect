@@ -1,0 +1,4224 @@
+>Cluster1_615
+	>SubCls1_6
+		>A/England/74700489/2017	675
+		>A/Cambodia/905/2017	782
+		>A/DominicanRepublic/514/2018	765
+		>A/Annecy/1878/2017	677
+		>A/DominicanRepublic/487/2018	*	768
+		>A/BurkinaFaso/906/2018	780
+	>SubCls2_7
+		>A/Ehime/11/2017	236
+		>A/Kobe/614/2016	237
+		>A/Austria/953687/2016	294
+		>A/Oman/8208/2016	255
+		>A/Lao/213/2017	260
+		>A/Norway/3591/2016	287
+		>A/Lao/2618/2016	264
+	>SubCls3_1
+		>A/Egypt/4758/2014	1942
+	>SubCls4_1
+		>A/Maldives/192/2017	501
+	>SubCls5_1
+		>A/SouthAfrica/5719/2018	663
+	>SubCls6_8
+		>A/SouthAfrica/3626/2013	1906
+		>A/Kazakhstan/3315/2013	2170
+		>A/India/5416/2012	2177
+		>A/NorthCarolina/9/2013	2165
+		>A/Bangladesh/2002/2013	2135
+		>A/Malaysia/32/2014	2203
+		>A/Nepal/95/2013	2152
+		>A/Ontario/RV3535/2014	1864
+	>SubCls7_1
+		>A/HongKong/12243/2015	282
+	>SubCls8_2
+		>A/Ghana/FIPI-15-0023/2015	284
+		>A/Ghana/DILI-15-0255/2015	285
+	>SubCls9_1
+		>A/Nagano/3550/2015	242
+	>SubCls10_26
+		>A/Fukushima/81/2015	358
+		>A/Catalonia/NSVH100386276/2016	317
+		>A/Ohio/30/2015	419
+		>A/StPetersburg/RII425S/2015	488
+		>A/Utah/17/2015	346
+		>A/Finland/556/2015	247
+		>A/Cambodia/A0725513/2016	37
+		>A/Egypt/7176/2015	469
+		>A/Townsville/4/2016	36
+		>A/Netherlands/2917/2015	449
+		>A/Esteli/33/2016	443
+		>A/England/632/2016	307
+		>A/Jordan/30455/2015	9
+		>A/SaudiArabia/78093/2015	436
+		>A/Mexico/4237/2016	375
+		>A/Gansu-Jiayuguan/SWL1207/2016	459
+		>A/Bangkok/399/2015	484
+		>A/Egypt/1249/2016	468
+		>A/SriLanka/15/2016	383
+		>A/England/678/2016	306
+		>A/England/60520032/2016	308
+		>A/Vladivostok/RII833/2016	300
+		>A/SouthAfrica/5140/2016	387
+		>A/StPetersburg/156/2016	448
+		>A/Paris/1284/2016	397
+		>A/Kyoto/15K002/2016	461
+	>SubCls11_1
+		>A/Saitama/142/2013	2161
+	>SubCls12_1
+		>A/Lao/1458/2017	444
+	>SubCls13_1
+		>A/Jordan/11917/2015	2146
+	>SubCls14_1
+		>A/Guyane/4/2018	522
+	>SubCls15_8
+		>A/SouthAfrica/R07331/2017	751
+		>A/Brisbane/37/2017	745
+		>A/England/62/2017	676
+		>A/NewMexico/19/2017	601
+		>A/Oman/3192/2017	712
+		>A/AbuDhabi/82/2017	836
+		>A/Brazil/5026/2017	803
+		>A/AbuDhabi/18/2017	837
+	>SubCls16_2
+		>A/Mali/7032/2017	400
+		>A/Mali/109/2017	403
+	>SubCls17_5
+		>A/SouthAustralia/27/2018	662
+		>A/Oman/5276/2017	610
+		>A/Navarra/1985/2017	589
+		>A/India/322/2017	630
+		>A/Sydney/9/2018	645
+	>SubCls18_1
+		>A/Singapore/GP2093/2015	289
+	>SubCls19_1
+		>A/Montana/63/2016	320
+	>SubCls20_1
+		>A/Yamanashi/18090/2018	797
+	>SubCls21_1
+		>A/Dnipropetrovsk/441/2015	2071
+	>SubCls22_18
+		>A/Mexico/1374/2015	2090
+		>A/Canberra/15/2014	2083
+		>A/Saga/32/2015	2034
+		>A/Zambia/4-00302/2015	2022
+		>A/Fiji/5/2014	2067
+		>A/Hawaii/64/2014	2025
+		>A/Oita/6/2015	2032
+		>A/Sydney/1109/2014	2102
+		>A/Slovenia/2804/2014	2069
+		>A/Andalucia/803/2015	2043
+		>A/Newcaledonia/58/2014	2098
+		>A/Odessa/232/2015	2072
+		>A/Zambia/4-00308/2015	2021
+		>A/Daegu/2001/2014	2065
+		>A/Guangxi-Qinnan/SWL1118/2015	2057
+		>A/Tsaralalana/1278/2015	2078
+		>A/SouthAfrica/5287/2015	2104
+		>A/Norway/2443/2015	2045
+	>SubCls23_5
+		>A/SouthAfrica/3599/2014	2201
+		>A/SongKhla/139/2014	2202
+		>A/Denmark/101/2013	2138
+		>A/NoveZamky/202/2014	2188
+		>A/Stockholm/26/2013	2116
+	>SubCls24_1
+		>A/Switzerland/202349/2017	494
+	>SubCls25_1
+		>A/Dakar/5/2015	2066
+	>SubCls26_1
+		>A/Tanzania/4761/2017	816
+	>SubCls27_1
+		>A/XinjiangTianshan/SWL11151/2013	2186
+	>SubCls28_1
+		>A/Saga/22/2015	1938
+	>SubCls29_1
+		>A/Jiangsu-Qingpu/SWL11536/2015	2178
+	>SubCls30_6
+		>A/Aichi/101/2015	241
+		>A/Massachusetts/24/2015	232
+		>A/England/53640770/2015	207
+		>A/Brisbane/181/2015	293
+		>A/Stockholm/41/2015	202
+		>A/Aragon/1615/2015	248
+	>SubCls31_1
+		>A/Kenya/102/2016	268
+	>SubCls32_1
+		>A/HongKong/6030/2013	2190
+	>SubCls33_2
+		>A/Jordan/30653/2013	2142
+		>A/Jordan/30663/2013	2143
+	>SubCls34_1
+		>A/Chungnam/794/2015	2064
+	>SubCls35_1
+		>A/Paris/1447/2017	491
+	>SubCls36_16
+		>A/Bolivia/1278/2014	1943
+		>A/Alaska/36/2014	1936
+		>A/Colombia/4280/2015	1996
+		>A/Thailand/CU-C5169/2014	1914
+		>A/HongKong/7345/2014	1962
+		>A/Colombia/4522/2015	1995
+		>A/Bolivia/1115/2014	1944
+		>A/SriLanka/50/2014	1993
+		>A/Phuket/316/2014	2003
+		>A/Paris/1823/2014	2009
+		>A/Catalonia/NSVH110069611/2014	1924
+		>A/Bayofplenty/1/2014	1873
+		>A/SaoPaulo/13-13027/2014	1917
+		>A/Miyazaki/60/2014	1937
+		>A/Thailand/CU-A1205/2014	1915
+		>A/Colombia/845/2015	1994
+	>SubCls37_1
+		>A/Brisbane/198/2015	382
+	>SubCls38_1
+		>A/India/Pun1318508/2013	2124
+	>SubCls39_1
+		>A/Vietnam/CD309/2013	1867
+	>SubCls40_1
+		>A/Kanagawa/206/2016	276
+	>SubCls41_1
+		>A/Mali/106/2017	402
+	>SubCls42_1
+		>A/Paraiba/139178-IEC/2016	337
+	>SubCls43_2
+		>A/SriLanka/10/2016	384
+		>A/Egypt/1612/2016	470
+	>SubCls44_1
+		>A/Newcastle/19/2016	2209
+	>SubCls45_3
+		>A/Sweden/8/2017	303
+		>A/Ceara/141872-IEC/2016	336
+		>A/Croatia/3644/2016	324
+	>SubCls46_3
+		>A/Nevada/10/2014	1845
+		>A/Florida/42/2013	1872
+		>A/Saitama/134/2013	1856
+	>SubCls47_1
+		>A/Brisbane/31/2017	567
+	>SubCls48_1
+		>A/Bangkok/374/2013	1839
+	>SubCls49_1
+		>A/Shizuoka/17S005/2017	546
+	>SubCls50_1
+		>A/Aichi/47/2017	240
+	>SubCls51_5
+		>A/Bangladesh/225/2018	790
+		>A/Qatar/10-VI-18-0043633/2018	831
+		>A/Bangladesh/242/2018	789
+		>A/Bangladesh/979/2018	792
+		>A/Bangladesh/194/2018	791
+	>SubCls52_1
+		>A/Delaware/1/2014	1844
+	>SubCls53_1
+		>A/StPetersburg/148/2016	467
+	>SubCls54_4
+		>A/Lao/221/2019	611
+		>A/Lao/3742/2018	614
+		>A/Lao/1995/2018	615
+		>A/Lao/944/2018	618
+	>SubCls55_5
+		>A/Sydney/31/2018	839
+		>A/Kazakhstan/581/2018	776
+		>A/Yokohama/90/2018	798
+		>A/England/74820386/2017	762
+		>A/Macedonia/243/2018	769
+	>SubCls56_1
+		>A/Jordan/20421/2016	222
+	>SubCls57_1
+		>A/Lao/2790/2016	263
+	>SubCls58_1
+		>A/NewYork/WC-LVD-14-024/2014	1816
+	>SubCls59_1
+		>A/Helsinki/2430/2012	1814
+	>SubCls60_1
+		>A/HongKong/7373/2014	1964
+	>SubCls61_1
+		>A/Wakayama-C/106/2015	2160
+	>SubCls62_1
+		>A/Lao/I229/2014	2162
+	>SubCls63_1
+		>A/Iraq/361/2014	1857
+	>SubCls64_1
+		>A/Jordan/11582/2015	223
+	>SubCls65_1
+		>A/Missouri/1/2014	1847
+	>SubCls66_4
+		>A/India/1657/2017	540
+		>A/Brisbane/17/2017	568
+		>A/Brisbane/66/2017	566
+		>A/Perth/10/2017	564
+	>SubCls67_1
+		>A/India/Pun14584/2014	2120
+	>SubCls68_1
+		>A/BurkinaFaso/151/2017	413
+	>SubCls69_1
+		>A/Vietnam/6042/2016	435
+	>SubCls70_1
+		>A/Egypt/4372/2014	1941
+	>SubCls71_1
+		>A/Bolivia/2021/2016	341
+	>SubCls72_1
+		>A/Perth/339/2017	658
+	>SubCls73_1
+		>A/Bangladesh/681/2018	793
+	>SubCls74_1
+		>A/CoteDIvoire/2093/2013	1866
+	>SubCls75_4
+		>A/XiaMen/SWL314/2013	2130
+		>A/Jiangsu-Tianning/SWL1744/2014	2185
+		>A/Jilin-Dongchang/SWL11/2014	2179
+		>A/Southaustralia/4/2014	2200
+	>SubCls76_1
+		>A/Cambodia/1161/2017	590
+	>SubCls77_1
+		>A/AbuDhabi/130/2018	643
+	>SubCls78_1
+		>A/Bolivia/586/2017	339
+	>SubCls79_1
+		>A/Ecuador/7215/2018	684
+	>SubCls80_1
+		>A/Kanagawa/ZC1736/2018	726
+	>SubCls81_1
+		>A/Norway/1690/2015	2081
+	>SubCls82_1
+		>A/HongKong/223/2017	280
+	>SubCls83_1
+		>A/Fujian-Licheng/SWL1165/2017	455
+	>SubCls84_2
+		>A/Kochi/2/2017	235
+		>A/Taiwan/963/2016	297
+	>SubCls85_1
+		>A/Boston/YGA_01217/2013	1821
+	>SubCls86_1
+		>A/ChiangRai/419/2017	575
+	>SubCls87_2
+		>A/Brazil/536/2017	368
+		>A/Brazil/526/2017	369
+	>SubCls88_2
+		>A/Nepal/3432/2015	230
+		>A/Nepal/3574/2015	225
+	>SubCls89_4
+		>A/India/2287/2017	538
+		>A/Maldives/446/2017	500
+		>A/India/1710/2017	539
+		>A/India/9573/2016	537
+	>SubCls90_1
+		>A/PuertoRico/31/2014	2024
+	>SubCls91_1
+		>A/Tasmania/24/2014	2061
+	>SubCls92_1
+		>A/Cambodia/1340/2015	417
+	>SubCls93_1
+		>A/NewJersey/25/2017	446
+	>SubCls94_1
+		>A/Saitama-C/22/2017	520
+	>SubCls95_1
+		>A/MinasGerais/44/2014	1887
+	>SubCls96_1
+		>A/Newcaledonia/54/2013	1899
+	>SubCls97_1
+		>A/India/4769/2018	629
+	>SubCls98_2
+		>A/India/2249/2018	531
+		>A/India/3196/2018	627
+	>SubCls99_1
+		>A/Brunei/7/2018	795
+	>SubCls100_1
+		>A/India/9574/2016	536
+	>SubCls101_1
+		>A/Taiwan/450/2016	393
+	>SubCls102_2
+		>A/Aichi/114/2016	326
+		>A/Niigata/841/2016	327
+	>SubCls103_1
+		>A/Bangkok/1792/2014	2004
+	>SubCls104_1
+		>A/Ethiopia/969/2014	2164
+	>SubCls105_3
+		>A/Connecticut/45/2016	2211
+		>A/Netherlands/3792/2016	314
+		>A/Indiana/19/2017	323
+	>SubCls106_1
+		>A/Lao/1035/2017	258
+	>SubCls107_1
+		>A/Bangkok/99/2018	754
+	>SubCls108_1
+		>A/Lao/SA270/2014	1858
+	>SubCls109_1
+		>A/Suriname/2158/2017	405
+	>SubCls110_6
+		>A/Michigan/272/2017	509
+		>A/Fukui/14/2017	516
+		>A/Tokyo/EH1608/2017	549
+		>A/California/66/2017	506
+		>A/Macau/SWL604424/2017	543
+		>A/NewZealand/2309/2017	571
+	>SubCls111_2
+		>A/Oman/4783/2016	254
+		>A/Lebanon/1104/2016	217
+	>SubCls112_1
+		>A/Sydney/54/2013	1879
+	>SubCls113_1
+		>A/Hawaii/40/2015	1932
+	>SubCls114_1
+		>A/Srilanka/31/2014	1891
+	>SubCls115_1
+		>A/Stockholm/33/2017	672
+	>SubCls116_1
+		>A/Singapore/GP1908/2015	275
+	>SubCls117_1
+		>A/Kazakhstan/3659/2014	2169
+	>SubCls118_1
+		>A/Peru/3/2015	2015
+	>SubCls119_2
+		>A/Townsville/1019/2014	2101
+		>A/DominicanRepublic/9272/2015	2087
+	>SubCls120_1
+		>A/Fiji/3/2016	359
+	>SubCls121_1
+		>A/Ontario/RV2293/2017	523
+	>SubCls122_1
+		>A/Nepal/2582B/2014	1926
+	>SubCls123_1
+		>A/Cambodia/1095/2017	591
+	>SubCls124_1
+		>A/Pernambuco/138673-IEC/2016	335
+	>SubCls125_2
+		>A/Singapore/KK207/2015	2195
+		>A/Stockholm/39/2015	2114
+	>SubCls126_1
+		>A/Togo/1101/2017	502
+	>SubCls127_2
+		>A/Canberra/14/2015	2193
+		>A/Newcastle/5/2015	2159
+	>SubCls128_1
+		>A/Michigan/45/2015	270
+	>SubCls129_1
+		>A/Mauritius/I-87/2015	1974
+	>SubCls130_4
+		>A/Kyoto/13SK076-2/2014	0
+		>A/Kyoto-C/20/2014	2037
+		>A/Shizuoka/46/2014	2039
+		>A/Lao/1187/2014	1952
+	>SubCls131_1
+		>A/Tochigi/18141/2018	800
+	>SubCls132_1
+		>A/Bangladesh/3003/2013	2134
+	>SubCls133_1
+		>A/Taiwan/554/2015	2107
+	>SubCls134_2
+		>A/Nepal/527/2016	414
+		>A/Nepal/516/2016	415
+	>SubCls135_1
+		>A/Nagasaki/15I037/2016	274
+	>SubCls136_1
+		>A/Oita/15/2014	2033
+	>SubCls137_1
+		>A/Yucatan/250/2013	1838
+	>SubCls138_1
+		>A/Nepal/810/2015	224
+	>SubCls139_1
+		>A/Norway/3133/2017	582
+	>SubCls140_1
+		>A/Argentina/13782/2018	705
+	>SubCls141_1
+		>A/Nepal/257/2014	2150
+	>SubCls142_1
+		>A/Guizhou-Qingzhen/1331/2017	450
+	>SubCls143_1
+		>A/Jordan/20407/2014	1921
+	>SubCls144_3
+		>A/Netherlands/10543/2018	772
+		>A/Bolivia/118/2018	808
+		>A/Slovenia/558/2018	833
+	>SubCls145_2
+		>A/Florida/62/2014	2026
+		>A/Sydney/1003/2015	2100
+	>SubCls146_1
+		>A/HongKong/2246/2017	559
+	>SubCls147_1
+		>A/Mexico/1926/2018	655
+	>SubCls148_1
+		>A/Idaho/7/2018	693
+	>SubCls149_1
+		>A/Singapore/KK1067/2013	2196
+	>SubCls150_1
+		>A/Tasmania/55/2014	2060
+	>SubCls151_1
+		>A/Meknes/217/2018	733
+	>SubCls152_1
+		>A/Bangladesh/8007/2015	208
+	>SubCls153_1
+		>A/Beijing-Xicheng/SWL1814/2016	272
+	>SubCls154_1
+		>A/SouthAfrica/R10140/2018	664
+	>SubCls155_1
+		>A/India/3405/2017	818
+	>SubCls156_1
+		>A/Dakar/14/2016	277
+	>SubCls157_3
+		>A/Singapore/INFSGH-16-0096/2016	365
+		>A/Ulaanbaatar/3494/2016	376
+		>A/Ulaanbaatar/3469/2016	377
+	>SubCls158_1
+		>A/HongKong/3646/2017	472
+	>SubCls159_1
+		>A/Cambodia/X1104315/2013	1897
+	>SubCls160_1
+		>A/Longyan/SWL2457/2014	2126
+	>SubCls161_1
+		>A/Washington/45/2018	692
+	>SubCls162_1
+		>A/Brazil/579/2015	2198
+	>SubCls163_1
+		>A/Bangladesh/1502/2018	788
+	>SubCls164_1
+		>A/Tanzania/661/2015	253
+	>SubCls165_1
+		>A/Saitama/145/2013	1855
+	>SubCls166_1
+		>A/Florida/102/2015	2055
+	>SubCls167_1
+		>A/Nepal/3609/2015	318
+	>SubCls168_1
+		>A/California/45/2017	322
+	>SubCls169_1
+		>A/Yamagata/88/2014	2010
+	>SubCls170_3
+		>A/Cameroon/15V-4100/2015	2082
+		>A/Nagasaki/14N133/2015	2058
+		>A/Myanmar/I008/2015	2105
+	>SubCls171_1
+		>A/RostovOnDon/3171/2017	670
+	>SubCls172_2
+		>A/Goias/16079/2014	1834
+		>A/Goias/16071/2014	1835
+	>SubCls173_3
+		>A/Kocaeli/1135/2014	1966
+		>A/Istanbul/1584/2014	1967
+		>A/SriLanka/60/2014	1992
+	>SubCls174_1
+		>A/Osaka/34/2015	423
+	>SubCls175_1
+		>A/CostaRica/2681/2014	1980
+	>SubCls176_1
+		>A/Arizona/41/2017	594
+	>SubCls177_1
+		>A/SouthAfrica/R10451/2018	749
+	>SubCls178_1
+		>A/Nigeria/3406/2018	714
+	>SubCls179_1
+		>A/India/7078/2017	535
+	>SubCls180_1
+		>A/SouthAfrica/4764/2014	2000
+	>SubCls181_1
+		>A/SriLanka/53/2014	2097
+	>SubCls182_3
+		>A/Darwin/1/2015	2091
+		>A/Townsville/4/2015	2096
+		>A/Darwin/59/2014	2092
+	>SubCls183_1
+		>A/Shizuoka-C/58/2016	425
+	>SubCls184_1
+		>A/Taiwan/80693/2018	849
+	>SubCls185_1
+		>A/Fiji/31/2018	827
+	>SubCls186_1
+		>A/India/2823/2017	817
+	>SubCls187_1
+		>A/Congo/873/2016	220
+	>SubCls188_1
+		>A/DominicanRepublic/227/2018	585
+	>SubCls189_1
+		>A/Peru/10/2015	2016
+	>SubCls190_1
+		>A/India/Pun1313346/2013	2125
+	>SubCls191_1
+		>A/Mozambique/344/2017	310
+	>SubCls192_1
+		>A/CentralAfricanRepublic/674/2015	2113
+	>SubCls193_1
+		>A/Lao/I448/2014	1859
+	>SubCls194_1
+		>A/Bolivia/559/2013	2167
+	>SubCls195_2
+		>A/HongKong/7532/2014	2074
+		>A/HongKong/7561/2014	2073
+	>SubCls196_2
+		>A/England/72100741/2017	492
+		>A/ClermontFerrand/1873/2017	493
+	>SubCls197_1
+		>A/Guyane/1752/2015	2109
+	>SubCls198_2
+		>A/Montana/50/2016	321
+		>A/California/171/2016	2212
+	>SubCls199_1
+		>A/Victoria/2159/2015	218
+	>SubCls200_1
+		>A/Qatar/10-VI-17-0019774/2017	555
+	>SubCls201_1
+		>A/Lao/858/2016	265
+	>SubCls202_1
+		>A/Singapore/TT1275/2015	290
+	>SubCls203_4
+		>A/Townsville/1001/2014	1901
+		>A/Townsville/1000/2014	1902
+		>A/Tasmania/9/2014	1877
+		>A/NewYork/WC-LVD-13-026/2013	1817
+	>SubCls204_1
+		>A/Suriname/288/2018	586
+	>SubCls205_1
+		>A/Bangladesh/256/2018	794
+	>SubCls206_1
+		>A/HuaianQingpu/SWL12052/2014	2117
+	>SubCls207_1
+		>A/Sydney/134/2018	838
+	>SubCls208_1
+		>A/Taiwan/398/2017	486
+	>SubCls209_1
+		>A/Mie/21/2017	515
+	>SubCls210_1
+		>A/Tianjin-Nankai/SWL1627/2016	273
+	>SubCls211_1
+		>A/Guatemala/80/2016	2052
+	>SubCls212_1
+		>A/HongKong/4820/2017	648
+	>SubCls213_2
+		>A/Cambodia/878/2017	416
+		>A/Norway/2339/2017	476
+	>SubCls214_1
+		>A/Sapporo/94/2016	357
+	>SubCls215_3
+		>A/India/1034/2017	532
+		>A/Wakayama-C/106/2017	513
+		>A/Bangladesh/1191/2017	511
+	>SubCls216_1
+		>A/Brazil/83570/2015	2163
+	>SubCls217_1
+		>A/Norway/1925/2014	2137
+	>SubCls218_1
+		>A/Israel/P-352/2014	1981
+	>SubCls219_1
+		>A/Cambodia/X0717312/2013	1898
+	>SubCls220_1
+		>A/Newcastle/1/2018	796
+	>SubCls221_1
+		>A/Yokohama/136/2017	518
+	>SubCls222_1
+		>A/Qatar/10-VI-18-0043130/2018	832
+	>SubCls223_1
+		>A/Ethiopia/63/2014	1940
+	>SubCls224_1
+		>A/Vietnam/Lisn154/2017	434
+	>SubCls225_1
+		>A/Nepal/383/2014	2149
+	>SubCls226_1
+		>A/HongKong/5958/2014	2189
+	>SubCls227_3
+		>A/Norway/4091/2016	319
+		>A/Uppsala/6/2016	305
+		>A/Stockholm/36/2016	304
+	>SubCls228_1
+		>A/Congo/571/2017	781
+	>SubCls229_1
+		>A/Mozambique/297/2017	495
+	>SubCls230_1
+		>A/Delaware/28/2017	418
+	>SubCls231_1
+		>A/Lao/295/2019	612
+	>SubCls232_1
+		>A/Paraguay/3397/2016	437
+	>SubCls233_1
+		>A/Oman/2080/2018	709
+	>SubCls234_1
+		>A/Togo/210/2019	681
+	>SubCls235_1
+		>A/Niigata-C/57/2014	2040
+	>SubCls236_1
+		>A/Cambodia/FSS32788/2016	481
+	>SubCls237_1
+		>A/Brazil/4395/2018	521
+	>SubCls238_2
+		>A/Mexico/4262/2016	374
+		>A/Mexico/4212/2016	372
+	>SubCls239_2
+		>A/Hyogo/3030/2016	422
+		>A/Macau/611211/2016	453
+	>SubCls240_1
+		>A/Bangladesh/1500/2018	787
+	>SubCls241_2
+		>A/Kanagawa/ZC1730/2018	639
+		>A/HongKong/4975/2017	647
+	>SubCls242_1
+		>A/Paraguay/1029/2019	707
+	>SubCls243_1
+		>A/India/1038/2017	717
+	>SubCls244_1
+		>A/NewZealand/1937/2016	390
+	>SubCls245_1
+		>A/Falun/1/2014	2115
+	>SubCls246_2
+		>A/Niigata/796/2018	547
+		>A/Vietnam/216/2018	525
+	>SubCls247_1
+		>A/Okinawa/17T016/2017	723
+	>SubCls248_1
+		>A/Norway/1916/2014	2166
+	>SubCls249_2
+		>A/Shimane/124/2013	1852
+		>A/Shimane/125/2013	1851
+	>SubCls250_1
+		>A/FrenchGuiana/4072/2015	2042
+	>SubCls251_1
+		>A/PuertoRico/16/2014	2158
+	>SubCls252_1
+		>A/Ethiopia/1396/2015	216
+	>SubCls253_1
+		>A/Dnipro/765/2016	361
+	>SubCls254_1
+		>A/NewZealand/963/2017	752
+	>SubCls255_1
+		>A/Jordan/30397/2015	2144
+	>SubCls256_1
+		>A/Zambia/4-334/2018	777
+	>SubCls257_1
+		>A/Bolivia/290/2018	810
+	>SubCls258_1
+		>A/India/Pun14549/2014	2121
+	>SubCls259_1
+		>A/Albania/5073/2014	1878
+	>SubCls260_1
+		>A/Kanagawa/83/2018	604
+	>SubCls261_1
+		>A/Wisconsin/23/2013	1846
+	>SubCls262_1
+		>A/Austria/837931/2015	1928
+	>SubCls263_1
+		>A/Temuco/72971/2015	2014
+	>SubCls264_1
+		>A/Heilongjiang-Taoshan/SWL1649/2014	2184
+	>SubCls265_2
+		>A/DominicanRepublic/324/2018	766
+		>A/Vietnam/Lisn18039/2018	811
+	>SubCls266_1
+		>A/Niigata-C/56/2014	2041
+	>SubCls267_1
+		>A/AbuDhabi/93/2017	556
+	>SubCls268_1
+		>A/Ceara/145605-IEC/2017	334
+	>SubCls269_1
+		>A/Hyogo/1043/2015	238
+	>SubCls270_1
+		>A/Singapore/KK107/2014	1883
+	>SubCls271_1
+		>A/Petropavlovsk-Kamchatski/RII-3466S/2018	581
+	>SubCls272_1
+		>A/Guangdong-Jinping/SWL8157/2019	633
+	>SubCls273_1
+		>A/Lebanon/1237/2016	8
+	>SubCls274_1
+		>A/Khmelnitsky/760/2016	362
+	>SubCls275_1
+		>A/Arizona/33/2017	507
+	>SubCls276_1
+		>A/Mauritius/I-1077/2018	649
+	>SubCls277_1
+		>A/Fukushima/95/2014	2062
+	>SubCls278_1
+		>A/Uganda/6098/2018	813
+	>SubCls279_2
+		>A/Yunnan-Maoshi/SWL1836/2016	457
+		>A/HongKong/2397/2016	473
+	>SubCls280_1
+		>A/Lao/2648/2018	616
+	>SubCls281_1
+		>A/India/Pun1419147/2014	2118
+	>SubCls282_1
+		>A/Myanmar/14M379/2014	2110
+	>SubCls283_1
+		>A/Srilanka/30/2013	1893
+	>SubCls284_1
+		>A/Georgia/17/2017	510
+	>SubCls285_1
+		>A/Louisiana/62/2017	596
+	>SubCls286_1
+		>A/AbuDhabi/136/2018	730
+	>SubCls287_1
+		>A/Victoria/500/2015	2094
+	>SubCls288_1
+		>A/Vietnam/Lisn136/2017	432
+	>SubCls289_1
+		>A/SriLanka/3/2018	569
+	>SubCls290_1
+		>A/Oman/5450/2015	257
+	>SubCls291_1
+		>A/Peru/7878/2013	1828
+	>SubCls292_1
+		>A/Asturias/1161/2013	1865
+	>SubCls293_2
+		>A/SouthAfrica/4044/2014	2002
+		>A/SouthAfrica/4042/2014	2001
+	>SubCls294_2
+		>A/Nicaragua/8173/2015	2051
+		>A/Nicaragua/6261/2015	2050
+	>SubCls295_1
+		>A/Switzerland/176/2018	825
+	>SubCls296_3
+		>A/Ecuador/3798/2018	686
+		>A/Ecuador/3748/2018	685
+		>A/Colombia/7888/2018	748
+	>SubCls297_1
+		>A/LaReunion/2049/2014	2153
+	>SubCls298_1
+		>A/Bretagne/1184/2017	394
+	>SubCls299_1
+		>A/HongKong/7355/2014	1963
+	>SubCls300_1
+		>A/Brisbane/71/2017	565
+	>SubCls301_2
+		>A/Alaska/38/2014	2028
+		>A/Alaska/37/2014	2029
+	>SubCls302_1
+		>A/Bolivia/1723/2018	807
+	>SubCls303_1
+		>A/India/Pun132318/2013	2122
+	>SubCls304_1
+		>A/Guangxi-Gangbei/SWL1481/2013	2181
+	>SubCls305_1
+		>A/Niigata/14F019/2015	1912
+	>SubCls306_1
+		>A/Brisbane/9/2015	1991
+	>SubCls307_1
+		>A/Bangladesh/4008/2015	210
+	>SubCls308_1
+		>A/Tokyo/18172/2018	700
+	>SubCls309_1
+		>A/PrachuapKhiriKhan/314/2016	296
+	>SubCls310_2
+		>A/England/75/2017	583
+		>A/Oman/4775/2017	711
+	>SubCls311_1
+		>A/Pakistan/396/2018	609
+	>SubCls312_1
+		>A/HongKong/4974/2017	558
+	>SubCls313_1
+		>A/Nepal/397/2014	2148
+	>SubCls314_1
+		>A/India/Pun1321025/2013	2123
+	>SubCls315_1
+		>A/Sydney/1013/2013	1904
+	>SubCls316_1
+		>A/Panama/318595/2016	342
+	>SubCls317_1
+		>A/Norway/3188/2018	703
+	>SubCls318_1
+		>A/Bangalore/2008-43/2012	1
+	>SubCls319_1
+		>A/Vietnam/GHS689/2017	431
+	>SubCls320_1
+		>A/Singapore/TT1230/2015	1976
+	>SubCls321_1
+		>A/Tehran/64649/2014	1973
+	>SubCls322_1
+		>A/NewZealand/1057/2017	572
+	>SubCls323_1
+		>A/StPetersburg/RII08/2016	489
+	>SubCls324_1
+		>A/Sakai/21/2017	239
+	>SubCls325_1
+		>A/Macedonia/283/2018	770
+	>SubCls326_1
+		>A/Maryland/100/2017	600
+	>SubCls327_1
+		>A/Vietnam/6045/2016	249
+	>SubCls328_1
+		>A/Norway/1888/2017	524
+	>SubCls329_1
+		>A/Victoria/2130/2014	2059
+	>SubCls330_1
+		>A/India/3743/2013	2176
+	>SubCls331_1
+		>A/Guatemala/6164/2016	2053
+	>SubCls332_1
+		>A/Switzerland/7689/2018	552
+	>SubCls333_1
+		>A/Nepal/504/2014	2151
+	>SubCls334_1
+		>A/Iowa/26/2014	2027
+	>SubCls335_1
+		>A/Niigata/718/2016	244
+	>SubCls336_1
+		>A/Lao/323/2019	613
+	>SubCls337_1
+		>A/Ceara/129363-IEC/2014	2131
+	>SubCls338_1
+		>A/Sendai/52/2017	554
+	>SubCls339_1
+		>A/Guatemala/122/2016	2054
+	>SubCls340_1
+		>A/Taiwan/606/2015	2008
+	>SubCls341_1
+		>A/PuertoMontt/87367/2018	674
+	>SubCls342_1
+		>A/Daegu/1210/2015	2063
+	>SubCls343_1
+		>A/Catalonia/NSVH131078467/2018	691
+	>SubCls344_1
+		>A/Guangdong-Jinping/SWL1278/2018	637
+	>SubCls345_2
+		>A/Pakistan/5/2017	708
+		>A/Oman/1451/2018	710
+	>SubCls346_2
+		>A/Canterbury/3/2017	574
+		>A/Bangladesh/8011/2017	496
+	>SubCls347_1
+		>A/Okayama/27/2014	1850
+	>SubCls348_1
+		>A/Nepal/430/2016	226
+	>SubCls349_1
+		>A/Kentucky/10/2017	2210
+	>SubCls350_1
+		>A/Para/139352-IEC/2016	427
+	>SubCls351_1
+		>A/CostaRica/3550/2014	1884
+	>SubCls352_1
+		>A/LaReunion/2020/2016	309
+	>SubCls353_1
+		>A/SaoPaulo/79522/2014	1832
+	>SubCls354_1
+		>A/Shandong-Fushan/SWL1209/2017	271
+	>SubCls355_1
+		>A/Saga/123/2017	512
+	>SubCls356_1
+		>A/Maldives/369/2018	775
+	>SubCls357_1
+		>A/Zhangzhou/SWL1357/2014	2127
+	>SubCls358_1
+		>A/Fukuoka-C/23/2014	2035
+	>SubCls359_1
+		>A/Congo/770/2016	221
+	>SubCls360_1
+		>A/Aichi/332/2017	424
+	>SubCls361_1
+		>A/Zhangzhou/SWL1229/2014	2128
+	>SubCls362_1
+		>A/Ni/60860013/2016	204
+	>SubCls363_1
+		>A/Bolivia/1912/2018	704
+	>SubCls364_1
+		>A/India/2213/2013	1875
+	>SubCls365_1
+		>A/BurkinaFaso/2105/2017	412
+	>SubCls366_1
+		>A/Finland/619/2016	333
+	>SubCls367_1
+		>A/Norway/2575/2015	2156
+	>SubCls368_1
+		>A/Omsk/RII29/2016	301
+	>SubCls369_1
+		>A/Shenzhen/2019-14178/2018	820
+	>SubCls370_1
+		>A/Norway/2633/2013	2155
+	>SubCls371_1
+		>A/SaudiArabia/1014307787/2018	706
+	>SubCls372_1
+		>A/Ecuador/533/2017	503
+	>SubCls373_1
+		>A/Sapporo/87/2016	485
+	>SubCls374_1
+		>A/Sapporo/107/2013	2204
+	>SubCls375_1
+		>A/Florida/47/2015	2171
+	>SubCls376_1
+		>A/Brazil/1168/2016	371
+	>SubCls377_1
+		>A/Moscow/121/2018	760
+	>SubCls378_1
+		>A/Wisconsin/20/2014	1933
+	>SubCls379_1
+		>A/Peru/199/2013	2132
+	>SubCls380_1
+		>A/Colombia/1466/2016	385
+	>SubCls381_1
+		>A/Newcastle/115/2014	2031
+	>SubCls382_1
+		>A/Brazil/3545/2016	332
+	>SubCls383_1
+		>A/Bahia/29/2015	2020
+	>SubCls384_1
+		>A/Wakayama/75/2015	2036
+	>SubCls385_1
+		>A/HongKong/5997/2014	1971
+	>SubCls386_1
+		>A/Yunnan-Chuxiong/SWL1283/2015	2182
+	>SubCls387_1
+		>A/Taiwan/518/2015	298
+	>SubCls388_1
+		>A/Philippines/212/2017	499
+	>SubCls389_1
+		>A/Tak/68/2017	576
+	>SubCls390_1
+		>A/Lao/995/2017	259
+	>SubCls391_1
+		>A/Uganda/6675/2018	815
+	>SubCls392_1
+		>A/SouthAfrica/5325/2015	2103
+	>SubCls393_1
+		>A/Irkutsk/1727/2018	490
+	>SubCls394_1
+		>A/Myanmar/14M139/2014	2111
+	>SubCls395_1
+		>A/Saransk/CRIE-257/2016	396
+	>SubCls396_1
+		>A/Aichi/17/2018	638
+	>SubCls397_1
+		>A/CostaRica/5068/2016	292
+	>SubCls398_1
+		>A/Taiwan/459/2014	2108
+	>SubCls399_1
+		>A/Moscow/107/2015	1948
+	>SubCls400_1
+		>A/Perth/334/2017	659
+	>SubCls401_1
+		>A/Newcastle/3/2016	325
+	>SubCls402_1
+		>A/India/2167/2013	2175
+	>SubCls403_1
+		>A/Macedonia/584/2019	771
+	>SubCls404_1
+		>A/Finland/473/2014	2079
+	>SubCls405_1
+		>A/Paris/2606/2016	302
+	>SubCls406_1
+		>A/Bolivia/973/2014	15
+	>SubCls407_1
+		>A/NewZealand/2287/2017	570
+	>SubCls408_1
+		>A/Brazil/2085/2015	1939
+	>SubCls409_1
+		>A/BurkinaFaso/2106/2017	411
+	>SubCls410_1
+		>A/Lao/952/2014	1953
+	>SubCls411_1
+		>A/Bangladesh/5002/2015	212
+	>SubCls412_1
+		>A/BurkinaFaso/954/2018	689
+	>SubCls413_1
+		>A/Belgium/G651/2014	2068
+	>SubCls414_1
+		>A/Stockholm/19/2018	671
+	>SubCls415_1
+		>A/Colombia/973/2016	386
+	>SubCls416_1
+		>A/Indiana/3/2013	1848
+	>SubCls417_1
+		>A/Togo/434/2019	682
+	>SubCls418_1
+		>A/Toyama/90/2016	243
+	>SubCls419_1
+		>A/Kumamoto/25/2016	234
+	>SubCls420_1
+		>A/Helsinki/347M/2014	2112
+	>SubCls421_1
+		>A/Taiwan/780/2016	299
+	>SubCls422_1
+		>A/Norway/2417/2013	2192
+	>SubCls423_1
+		>A/Jordan/30219/2014	1920
+	>SubCls424_1
+		>A/Bangladesh/9584/2015	2019
+	>SubCls425_1
+		>A/Niigata/832/2016	328
+	>SubCls426_1
+		>A/Canberra/9/2017	478
+	>SubCls427_1
+		>A/Srinigar/201/2011	1684
+	>SubCls428_1
+		>A/Tomsk/1767/2016	447
+	>SubCls429_1
+		>A/Afghanistan/92/2016	312
+	>SubCls430_1
+		>A/Singapore/KK760/2014	2197
+	>SubCls431_1
+		>A/Netherlands/3165/2017	348
+	>SubCls432_1
+		>A/England/73040632/2017	584
+	>SubCls433_1
+		>A/Fiji/15/2018	826
+	>SubCls434_1
+		>A/Brisbane/209/2017	660
+>Cluster2_1
+	>A/Srinigar/AG_659/2020	*	2
+>Cluster3_217
+	>SubCls1_1
+		>A/Niger/8778/2021	*	1422
+	>SubCls2_1
+		>A/Nigeria/5066/2020	1408
+	>SubCls3_1
+		>A/CoteDIvoire/344/2020	76
+	>SubCls4_1
+		>A/Kharkiv/215/2019	904
+	>SubCls5_1
+		>A/SriLanka/52/2019	99
+	>SubCls6_2
+		>A/Iowa/59/2018	872
+		>A/Wisconsin/505/2018	868
+	>SubCls7_1
+		>A/Iowa/1/2021	1340
+	>SubCls8_1
+		>A/Oman/4123/2019	1360
+	>SubCls9_1
+		>A/CoteDIvoire/1801/2021	1461
+	>SubCls10_1
+		>A/SouthAfrica/13023/2021	1484
+	>SubCls11_1
+		>A/Wisconsin/14/2021	1448
+	>SubCls12_1
+		>A/Bhutan/1002/2019	856
+	>SubCls13_1
+		>A/Bolivia/31/2020	882
+	>SubCls14_1
+		>A/Nigeria/5065/2020	1312
+	>SubCls15_1
+		>A/Macedonia/1308/2019	862
+	>SubCls16_1
+		>A/Nebraska/14/2019	1339
+	>SubCls17_1
+		>A/Lebanon/99/2020	50
+	>SubCls18_1
+		>A/Kyiv/335/2020	1373
+	>SubCls19_1
+		>A/Neimenggu-Maozhouli/SWL1120/2020	1362
+	>SubCls20_1
+		>A/Niigata/939/2019	1346
+	>SubCls21_1
+		>A/Nan/214/2019	1392
+	>SubCls22_1
+		>A/AbuDhabi/108/2019	1302
+	>SubCls23_1
+		>A/Bhutan/1058/2019	855
+	>SubCls24_1
+		>A/Darwin/6/2018	923
+	>SubCls25_2
+		>A/Kosovo/575/2019	11
+		>A/Bangladesh/3029/2019	4
+	>SubCls26_1
+		>A/Toamasina/806/2020	29
+	>SubCls27_1
+		>A/Nakhonphanom/430/2019	936
+	>SubCls28_1
+		>A/Nonthaburi/96/2018	937
+	>SubCls29_3
+		>A/Odessa/377/2019	1374
+		>A/Suriname/1012/2019	1315
+		>A/Iowa/56/2019	1341
+	>SubCls30_1
+		>A/Tasmania/604/2019	1325
+	>SubCls31_1
+		>A/Darwin/191/2018	924
+	>SubCls32_1
+		>A/Paris/2321/2019	1309
+	>SubCls33_1
+		>A/Niger/10217/2021	1414
+	>SubCls34_3
+		>A/HongKong/2661/2019	1377
+		>A/Victoria/2455/2019	1366
+		>A/Guangdong-Maonan/SWL1536/2019	1364
+	>SubCls35_1
+		>A/Niger/8864/2021	1423
+	>SubCls36_1
+		>A/Zambia/1049/2022	1428
+	>SubCls37_1
+		>A/StKitts/9221/2020	1355
+	>SubCls38_2
+		>A/BurkinaFaso/2618/2019	64
+		>A/Stockholm/28/2019	97
+	>SubCls39_1
+		>A/CoteDIvoire/1798/2021	1460
+	>SubCls40_1
+		>A/CoteDIvoire/1014/2020	77
+	>SubCls41_1
+		>A/Kenya/123/2022	1470
+	>SubCls42_1
+		>A/CoteDIvoire/1496/2021	1464
+	>SubCls43_1
+		>A/Jiangxi-Zhanggong/SWL1305/2019	894
+	>SubCls44_1
+		>A/Bangladesh/1190512029/2019	6
+	>SubCls45_1
+		>A/Newcastle/20/2019	875
+	>SubCls46_1
+		>A/HongKong/105/2019	907
+	>SubCls47_7
+		>A/Mauritius/I-975/2018	1379
+		>A/Norway/3401/2018	865
+		>A/Oman/2377/2019	1359
+		>A/Norway/3433/2018	895
+		>A/Congo/281/2019	1337
+		>A/Brisbane/1025/2019	1389
+		>A/Nagano/2126/2019	1345
+	>SubCls48_1
+		>A/Victoria/1001/2019	933
+	>SubCls49_1
+		>A/Lebanon/156/2020	51
+	>SubCls50_1
+		>A/Dakar/1/2021	1476
+	>SubCls51_2
+		>A/Brunei/35/2020	1278
+		>A/Malaysia/RP0073/2020	1308
+	>SubCls52_1
+		>A/Sweden/61/2018	850
+	>SubCls53_1
+		>A/Nigeria/6146/2021	1405
+	>SubCls54_1
+		>A/Moscow/227/2019	52
+	>SubCls55_1
+		>A/India/3757/2019	87
+	>SubCls56_1
+		>A/Bangladesh/3190710016/2019	1324
+	>SubCls57_1
+		>A/Colombia/1078/2021	1388
+	>SubCls58_1
+		>A/Suriname/22/2020	44
+	>SubCls59_1
+		>A/Nigeria/5063/2020	1313
+	>SubCls60_1
+		>A/Indonesia/NIHRDLPG841/2020	1300
+	>SubCls61_1
+		>A/Aichi/242/2019	876
+	>SubCls62_1
+		>A/Kuwait/5140/2019	1321
+	>SubCls63_1
+		>A/Tanzania/1644/2019	1356
+	>SubCls64_1
+		>A/Ohio/3/2021	1447
+	>SubCls65_1
+		>A/Niger/10183/2021	1418
+	>SubCls66_1
+		>A/Taiwan/83476/2019	1397
+	>SubCls67_1
+		>A/Auxonne/309/2021	1224
+	>SubCls68_1
+		>A/Victoria/702/2019	1387
+	>SubCls69_1
+		>A/Pennsylvania/2/2021	1449
+	>SubCls70_1
+		>A/India/681/2019	890
+	>SubCls71_1
+		>A/Nigeria/6062/2021	1407
+	>SubCls72_2
+		>A/AbuDhabi/51/2019	1370
+		>A/AbuDhabi/52/2019	1368
+	>SubCls73_1
+		>A/Macedonia/1335/2019	861
+	>SubCls74_1
+		>A/Singapore/GP1696/2019	911
+	>SubCls75_1
+		>A/Liaoning-Laobian/SWL1203/2020	1298
+	>SubCls76_2
+		>A/Suriname/620/2019	1317
+		>A/Suriname/586/2019	1316
+	>SubCls77_1
+		>A/Wakayama/21/2019	13
+	>SubCls78_1
+		>A/Kenya/161/2022	1466
+	>SubCls79_1
+		>A/Ehime/120/2019	1280
+	>SubCls80_1
+		>A/Kyiv/334/2020	92
+	>SubCls81_1
+		>A/Zhejiang-Shangcheng/SWL1788/2019	892
+	>SubCls82_1
+		>A/SouthAfrica/9499/2019	935
+	>SubCls83_1
+		>A/Qatar/16-VI-21-3837777/2021	1477
+	>SubCls84_1
+		>A/Togo/378/2021	1327
+	>SubCls85_1
+		>A/Paris/28350/2021	1220
+	>SubCls86_2
+		>A/Kanagawa/IC1892/2019	24
+		>A/Perth/10/2019	35
+	>SubCls87_1
+		>A/Bhutan/1618/2020	1226
+	>SubCls88_1
+		>A/Brunei/36/2020	1277
+	>SubCls89_1
+		>A/Qatar/16-VI-19-0048807/2019	901
+	>SubCls90_1
+		>A/Nigeria/6011/2021	1406
+	>SubCls91_1
+		>A/SriLanka/44/2019	98
+	>SubCls92_1
+		>A/Marrakech/1737/2019	902
+	>SubCls93_1
+		>A/Sergipe/13444/2020	1382
+	>SubCls94_1
+		>A/Niger/8836/2021	1421
+	>SubCls95_1
+		>A/SriLanka/52/2018	927
+	>SubCls96_1
+		>A/Singapore/MOH0114/2019	1381
+	>SubCls97_1
+		>A/Bangladesh/9010/2019	859
+	>SubCls98_1
+		>A/StPetersburg/RII-233/2019	1372
+	>SubCls99_1
+		>A/Mexico/2362/2019	1383
+	>SubCls100_1
+		>A/NorthernIreland/2421/2019	10
+	>SubCls101_1
+		>A/India/1561/2019	891
+	>SubCls102_1
+		>A/Kyiv/516/2018	905
+	>SubCls103_2
+		>A/Yokohama/163/2019	1347
+		>A/Gunma/106/2019	1348
+	>SubCls104_1
+		>A/Moscow/93/2020	83
+	>SubCls105_1
+		>A/Shizuoka/33/2019	1282
+	>SubCls106_1
+		>A/Tours/37554/2021	1486
+	>SubCls107_1
+		>A/Lipetsk/204/2018	886
+	>SubCls108_1
+		>A/Orenburg/8/2020	81
+	>SubCls109_1
+		>A/CoteDIvoire/1626/2021	1351
+	>SubCls110_1
+		>A/Saitama/172/2019	879
+	>SubCls111_1
+		>A/Bulgaria/13/2019	858
+	>SubCls112_1
+		>A/Sydney/460/2019	91
+	>SubCls113_1
+		>A/Anguilla/3561/2019	884
+	>SubCls114_1
+		>A/Hunan-Yongshun/SWL382/2019	22
+	>SubCls115_1
+		>A/Darwin/189/2018	1384
+	>SubCls116_1
+		>A/HongKong/3036/2019	906
+	>SubCls117_1
+		>A/Nakhonphanom/104/2019	1393
+	>SubCls118_1
+		>A/Dakar/21/2021	1475
+	>SubCls119_1
+		>A/Nigeria/6098/2021	1403
+	>SubCls120_1
+		>A/Guangdong-Chengqu/SWL1683/2019	1363
+	>SubCls121_1
+		>A/PuntaArenas/19112/2020	1314
+	>SubCls122_1
+		>A/Vladivostok/125/2019	885
+	>SubCls123_1
+		>A/SaudiArabia/173/2019	80
+	>SubCls124_1
+		>A/Togo/299/2021	1326
+	>SubCls125_1
+		>A/Mauritius/I-345/2019	908
+	>SubCls126_1
+		>A/Niger/7880/2020	47
+	>SubCls127_2
+		>A/Togo/120/2021	1440
+		>A/Togo/103/2021	1439
+	>SubCls128_1
+		>A/Madagascar/4987/2019	28
+	>SubCls129_1
+		>A/Tanzania/821/2019	1357
+	>SubCls130_1
+		>A/Myanmar/1269/2019	40
+	>SubCls131_1
+		>A/Guam/9867/2019	1330
+	>SubCls132_1
+		>A/Nigeria/4098/2019	3
+	>SubCls133_1
+		>A/BurkinaFaso/2625/2019	63
+	>SubCls134_1
+		>A/Victoria/2089/2019	863
+	>SubCls135_1
+		>A/Niger/7879/2020	46
+	>SubCls136_1
+		>A/Krasnoyarsk/RII-05/2019	903
+	>SubCls137_1
+		>A/Guyane/1878/2019	939
+	>SubCls138_1
+		>A/Kanagawa/AC1882/2019	897
+	>SubCls139_1
+		>A/Nigeria/5988/2021	1402
+	>SubCls140_1
+		>A/Maine/1/2021	1450
+	>SubCls141_1
+		>A/Bhutan/211/2019	1320
+	>SubCls142_1
+		>A/Nagano-C/31/2020	1283
+	>SubCls143_2
+		>A/Niger/8871/2021	1425
+		>A/Niger/8873/2021	1424
+	>SubCls144_1
+		>A/Afghanistan/2391/2019	49
+	>SubCls145_1
+		>A/Lao/3342/2019	84
+	>SubCls146_1
+		>A/BurkinaFaso/2692/2021	1442
+	>SubCls147_1
+		>A/Nigeria/4568/2020	1223
+	>SubCls148_1
+		>A/Kenya/168/2022	1469
+	>SubCls149_1
+		>A/Liaoning-Xishi/SWL1101/2020	1297
+	>SubCls150_1
+		>A/SouthAfrica/R04933/2022	1410
+	>SubCls151_1
+		>A/Paraguay/9858/2019	887
+	>SubCls152_1
+		>A/Qatar/10-VI-19-0049421/2019	25
+	>SubCls153_1
+		>A/Niger/10148/2021	1413
+	>SubCls154_1
+		>A/Lao/3691/2019	1296
+	>SubCls155_1
+		>A/Togo/1288/2021	1433
+	>SubCls156_1
+		>A/Alsace/48918/2021	1485
+	>SubCls157_1
+		>A/Bhutan/860/2019	857
+	>SubCls158_1
+		>A/NosyBe/345/2020	30
+	>SubCls159_1
+		>A/Serbia/71/2020	1375
+	>SubCls160_1
+		>A/Taiwan/70786/2019	1399
+	>SubCls161_1
+		>A/SriLanka/50/2018	928
+	>SubCls162_1
+		>A/Saga/247/2019	1344
+	>SubCls163_1
+		>A/SriLanka/40/2019	925
+	>SubCls164_1
+		>A/Hawaii/70/2019	1276
+	>SubCls165_1
+		>A/Indonesia/NIHRDSMG700/2020	1301
+	>SubCls166_1
+		>A/Vietnam/44/2019	1354
+	>SubCls167_1
+		>A/Madagascar/5254/2019	27
+	>SubCls168_1
+		>A/Bangladesh/1190712002/2019	5
+	>SubCls169_1
+		>A/Cheboksary/116/2020	1358
+	>SubCls170_1
+		>A/Macedonia/618/2018	7
+	>SubCls171_1
+		>A/Myanmar/19M166/2019	41
+	>SubCls172_1
+		>A/Taiwan/83414/2019	1398
+	>SubCls173_1
+		>A/Sagamihara/13/2020	1285
+	>SubCls174_1
+		>A/Nigeria/6079/2021	1404
+	>SubCls175_1
+		>A/Victoria/195/2019	1386
+	>SubCls176_1
+		>A/Brisbane/PHV005/2019	1319
+	>SubCls177_1
+		>A/Madagascar/5415/2019	26
+	>SubCls178_1
+		>A/Guangdong-Xiangzhou/SWL8223/2019	1365
+	>SubCls179_1
+		>A/Togo/1274/2021	1432
+	>SubCls180_1
+		>A/Kenya/172/2022	1468
+	>SubCls181_2
+		>A/Niger/10186/2021	1419
+		>A/Niger/10411/2022	1420
+	>SubCls182_1
+		>A/Mauritius/I-11/2019	1378
+	>SubCls183_1
+		>A/Moscow/77/2020	82
+	>SubCls184_1
+		>A/HongKong/3034/2019	1376
+	>SubCls185_1
+		>A/Taiwan/97729/2019	1396
+	>SubCls186_1
+		>A/Okinawa/93/2019	1299
+	>SubCls187_1
+		>A/Bhutan/1639/2020	1225
+	>SubCls188_1
+		>A/Niger/10126/2021	1416
+	>SubCls189_1
+		>A/Yokohama/141/2019	877
+	>SubCls190_1
+		>A/SouthAfrica/R05624/2019	38
+	>SubCls191_1
+		>A/Bolivia/1918/2019	883
+	>SubCls192_1
+		>A/Victoria/16/2020	1286
+	>SubCls193_1
+		>A/Kenya/158/2022	1467
+	>SubCls194_1
+		>A/Moscow/154-161V/2021	1401
+	>SubCls195_1
+		>A/Kyiv/8/2020	94
+	>SubCls196_1
+		>A/Ishikawa/110/2019	1284
+>Cluster4_1
+	>A/Yamaguchi/35/2014	*	12
+>Cluster5_2
+	>SubCls1_1
+		>A/Singapore/GP1511/2019	*	95
+	>SubCls2_1
+		>A/Tokyo/19083/2019	14
+>Cluster6_1
+	>A/Nizwa/5713/2019	*	16
+>Cluster7_1
+	>A/Oman/4090/2019	*	17
+>Cluster8_3
+	>SubCls1_2
+		>A/Lao/748/2020	*	18
+		>A/Lao/879/2020	20
+	>SubCls2_1
+		>A/Lao/684/2020	19
+>Cluster9_1
+	>A/Lao/3592/2019	*	21
+>Cluster10_24
+	>SubCls1_7
+		>A/England/431/2015	399
+		>A/Suriname/1289/2016	408
+		>A/Kanagawa/ZC14/2016	*	463
+		>A/Mali/42/2016	404
+		>A/Lithuania/2223/2016	465
+		>A/Tokyo/16155/2016	426
+		>A/Okinawa/15T014/2016	23
+	>SubCls2_1
+		>A/Colombia/3732/2017	480
+	>SubCls3_1
+		>A/Oman/5450/2016	439
+	>SubCls4_1
+		>A/Hubei-Wuchang/SWL1331/2016	460
+	>SubCls5_2
+		>A/Victoria/15/2016	378
+		>A/NewZealand/841/2016	391
+	>SubCls6_1
+		>A/Kanagawa/IC43/2016	462
+	>SubCls7_1
+		>A/Victoria/640/2016	379
+	>SubCls8_1
+		>A/Singapore/KK1011/2015	366
+	>SubCls9_1
+		>A/Ecuador/33/2017	409
+	>SubCls10_1
+		>A/Suriname/1437/2016	406
+	>SubCls11_1
+		>A/Norway/4555/2016	477
+	>SubCls12_1
+		>A/HongKong/3649/2017	471
+	>SubCls13_1
+		>A/Cameroon/4979/2016	32
+	>SubCls14_1
+		>A/NewZealand/815/2016	389
+	>SubCls15_1
+		>A/ElSalvador/700/2016	479
+	>SubCls16_1
+		>A/Bolivia/800/2017	428
+	>SubCls17_1
+		>A/Bolivia/638/2017	429
+>Cluster11_1
+	>A/NosyBe/144/2020	*	31
+>Cluster12_1
+	>A/Singapore/GP793/2015	*	33
+>Cluster13_62
+	>SubCls1_1
+		>A/Netherlands/492/2012	*	1652
+	>SubCls2_2
+		>A/Singapore/DMS1227/2011	109
+		>A/Singapore/DMS1239/2012	107
+	>SubCls3_1
+		>A/Bangkok/INS3_681/2012	1676
+	>SubCls4_1
+		>A/Johannesburg/150/2011	199
+	>SubCls5_1
+		>A/Stockholm/25/2012	1615
+	>SubCls6_1
+		>A/Victoria/730/2011	34
+	>SubCls7_1
+		>A/Tomsk/IIV-19/2012	1621
+	>SubCls8_5
+		>A/Singapore/DMS1230/2011	108
+		>A/Gansu-Qinzhou/SWL199/2012	1697
+		>A/Vladivostok/28/2012	1672
+		>A/Xinjiang-Hetian/swl515/2012	1698
+		>A/Stockholm/47/2011	1664
+	>SubCls9_4
+		>A/Brisbane/409/2011	1660
+		>A/Stockholm/16/2012	1616
+		>A/Kumamoto-C/39/2011	1641
+		>A/Stockholm/48/2011	1617
+	>SubCls10_1
+		>A/Johannesburg/32/2011	200
+	>SubCls11_1
+		>A/Bangladesh/6154/2012	1628
+	>SubCls12_1
+		>A/Oman/1102/2011	172
+	>SubCls13_1
+		>A/Xinjiang-Hetian/swl161/2012	1699
+	>SubCls14_1
+		>A/Singapore/13/2012	1711
+	>SubCls15_1
+		>A/SriLanka/21386/2010	1144
+	>SubCls16_1
+		>A/SriLanka/23127/2010	120
+	>SubCls17_1
+		>A/Venezuela/80/2011	164
+	>SubCls18_1
+		>A/Bolivia/193/2011	166
+	>SubCls19_1
+		>A/SriLanka/1735/2011	121
+	>SubCls20_1
+		>A/HongKong/6293/2012	1639
+	>SubCls21_1
+		>A/Sapporo/4/2012	1663
+	>SubCls22_1
+		>A/Stockholm/48/2012	1661
+	>SubCls23_1
+		>A/Gansu-Anding/SWL1172/2012	1696
+	>SubCls24_1
+		>A/Darwin/1/2013	1655
+	>SubCls25_1
+		>A/Gansu-Anding/SWL1188/2012	1695
+	>SubCls26_1
+		>A/Singapore/DMS1232/2012	1620
+	>SubCls27_1
+		>A/Indonesia/NIHRDI-PLK0036/2012	1643
+	>SubCls28_1
+		>A/Waikato/2/2012	1650
+	>SubCls29_1
+		>A/Singapore/DMS1201/2011	110
+	>SubCls30_1
+		>A/Perth/46/2012	1658
+	>SubCls31_1
+		>A/Texas/90/2012	1640
+	>SubCls32_1
+		>A/Netherlands/507/2012	1651
+	>SubCls33_1
+		>A/Thailand/SN11783/2012	1622
+	>SubCls34_1
+		>A/RioGrandedoNorte/116953/2012	126
+	>SubCls35_2
+		>A/Florida/19/2011	178
+		>A/Natal/117057/2012	165
+	>SubCls36_1
+		>A/Darwin/48/2013	1656
+	>SubCls37_1
+		>A/Singapore/DMS1234/2012	1619
+	>SubCls38_1
+		>A/DominicanRepublic/5542/2011	193
+	>SubCls39_1
+		>A/Perth/33/2012	1659
+	>SubCls40_1
+		>A/Indonesia/NIHRDI-DPS805/2012	1644
+	>SubCls41_1
+		>A/Indonesia/NIHRDI-TGR521/2012	1571
+	>SubCls42_1
+		>A/Lebanon/11L043/2012	1625
+	>SubCls43_1
+		>A/Ontario/RV1255/2011	161
+	>SubCls44_1
+		>A/Shizuoka/59/2012	1686
+	>SubCls45_1
+		>A/Ethiopia/205/2012	1688
+	>SubCls46_1
+		>A/Argentina/1171/2011	180
+	>SubCls47_1
+		>A/Bangladesh/1027/2012	1631
+	>SubCls48_1
+		>A/Bangladesh/3341/2012	1632
+	>SubCls49_1
+		>A/Argentina/656/2011	181
+	>SubCls50_1
+		>A/Uganda/2707/2011	167
+	>SubCls51_1
+		>A/Brazil/AVS08/2011	131
+	>SubCls52_1
+		>A/RioGrandedoSul/542/2011	138
+	>SubCls53_1
+		>A/Kenya/7495/2011	175
+>Cluster14_1
+	>A/Phetchaburi/160/2019	*	39
+>Cluster15_19
+	>SubCls1_2
+		>A/Bolivia/219/2020	78
+		>A/Bolivia/245/2020	*	79
+	>SubCls2_1
+		>A/Iowa/2/2021	73
+	>SubCls3_1
+		>A/Ontario/RV4818/2020	75
+	>SubCls4_1
+		>A/India/233/2020	85
+	>SubCls5_1
+		>A/Bhutan/329/2020	45
+	>SubCls6_4
+		>A/Victoria/2570/2019	54
+		>A/Wisconsin/588/2019	71
+		>A/Wisconsin/56/2020	69
+		>A/Arkansas/4/2020	72
+	>SubCls7_1
+		>A/Hawaii/27/2020	67
+	>SubCls8_1
+		>A/Denmark/3280/2019	61
+	>SubCls9_1
+		>A/Wisconsin/335/2020	68
+	>SubCls10_1
+		>A/Parana/1992	60
+	>SubCls11_2
+		>A/India/Pun-NIV312851/2021	952
+		>A/India/Pun-NIV316440/2021	951
+	>SubCls12_1
+		>A/SaoPaulo/1575205-IAL/2020	43
+	>SubCls13_1
+		>A/Illinois/2/2020	42
+	>SubCls14_1
+		>A/Christchurch/503/2020	96
+>Cluster16_19
+	>SubCls1_1
+		>A/Christchurch/515/2020	*	1022
+	>SubCls2_1
+		>A/Bangladesh/2025/2020	48
+	>SubCls3_1
+		>A/Indonesia/NIHRDMLG715/2020	90
+	>SubCls4_4
+		>A/Delaware/55/2019	977
+		>A/HongKong/4713/2019	1017
+		>A/Washington/23/2020	978
+		>A/Arkansas/8/2020	983
+	>SubCls5_1
+		>A/Washington/19/2020	979
+	>SubCls6_1
+		>A/Fujian-Fengze/SWL11027/2020	1005
+	>SubCls7_1
+		>A/Malaysia/RP0089/2020	101
+	>SubCls8_1
+		>A/Darwin/116/2020	1021
+	>SubCls9_1
+		>A/Mozambique/IR088/2020	963
+	>SubCls10_1
+		>A/Victoria/1/2020	987
+	>SubCls11_1
+		>A/SouthAfrica/6433/2020	100
+	>SubCls12_1
+		>A/Hawaii/26/2020	66
+	>SubCls13_1
+		>A/Darwin/123/2020	1020
+	>SubCls14_1
+		>A/NewCaledonia/2/2020	1023
+	>SubCls15_1
+		>A/Guangdong-Maonan/SWL197/2020	1006
+	>SubCls16_1
+		>A/Yunnan-Guandu/SWL110/2020	1007
+>Cluster17_1
+	>A/Victoria/116/2020	*	53
+>Cluster18_35
+	>SubCls1_1
+		>A/Guyane/406/2022	*	1503
+	>SubCls2_1
+		>A/Ohio/10/2022	1498
+	>SubCls3_1
+		>A/Rouen/46942/2021	1488
+	>SubCls4_1
+		>A/Guyane/131/2022	1502
+	>SubCls5_2
+		>A/SouthAustralia/304/2022	1511
+		>A/Netherlands/10049/2022	1490
+	>SubCls6_1
+		>A/Guyane/364/2022	1506
+	>SubCls7_2
+		>A/Zambia/354/2021	57
+		>A/Zambia/1119/2022	56
+	>SubCls8_1
+		>A/Netherlands/11524/2022	1492
+	>SubCls9_1
+		>A/Netherlands/10717/2022	1489
+	>SubCls10_1
+		>A/Congo/16/2022	65
+	>SubCls11_1
+		>A/England/222321421/2022	1409
+	>SubCls12_1
+		>A/Belgium/H0041/2022	1509
+	>SubCls13_1
+		>A/FortDeFrance/51021/2022	1513
+	>SubCls14_1
+		>A/Canberra/531/2022	1510
+	>SubCls15_1
+		>A/Netherlands/10726/2022	1400
+	>SubCls16_1
+		>A/Guyane/332/2022	1504
+	>SubCls17_1
+		>A/Kosovo/214/2021	1501
+	>SubCls18_1
+		>A/Zambia/4455/2022	1429
+	>SubCls19_1
+		>A/Netherlands/10196/2021	1495
+	>SubCls20_1
+		>A/Catalonia/NSVH101717090/2022	1445
+	>SubCls21_1
+		>A/Netherlands/1111/2022	1508
+	>SubCls22_1
+		>A/Guyane/234/2022	1505
+	>SubCls23_1
+		>A/Cameroon/7073/2021	1481
+	>SubCls24_1
+		>A/England/221460274/2022	1494
+	>SubCls25_1
+		>A/Zambia/7101/2022	55
+	>SubCls26_1
+		>A/Denmark/2739/2022	1496
+	>SubCls27_1
+		>A/Chile/8372/2022	1493
+	>SubCls28_1
+		>A/Guyane/223/2022	1507
+	>SubCls29_1
+		>A/Zambia/7288/2022	1431
+	>SubCls30_1
+		>A/FortDeFrance/51025/2022	1512
+	>SubCls31_1
+		>A/PaysDeLoire/12611/2022	1514
+	>SubCls32_1
+		>A/Florida/38/2022	1499
+	>SubCls33_1
+		>A/WestVirginia/20/2022	1497
+>Cluster19_1
+	>A/Togo/578/2020	*	58
+>Cluster20_1
+	>A/SouthKorea/12024/2020	*	59
+>Cluster21_1
+	>A/BurkinaFaso/2617/2019	*	62
+>Cluster22_1
+	>A/Wisconsin/55/2020	*	70
+>Cluster23_2
+	>SubCls1_1
+		>A/Aichi/101/2020	*	74
+	>SubCls2_1
+		>A/India/965/2020	86
+>Cluster24_7
+	>SubCls1_1
+		>A/Tasmania/27/2015	*	1969
+	>SubCls2_1
+		>A/Panama/315031/2014	1868
+	>SubCls3_1
+		>A/Dnipro/766/2016	363
+	>SubCls4_1
+		>A/Myanmar/19M052/2019	89
+	>SubCls5_2
+		>A/England/93060680/2019	1318
+		>A/Norway/2148/2019	1338
+	>SubCls6_1
+		>A/Macau/607102/2019	88
+>Cluster25_1
+	>A/Dnipropetrovsk/413/2020	*	93
+>Cluster26_2
+	>SubCls1_1
+		>A/California/7/2009	*	102
+	>SubCls2_1
+		>A/Tehran/52774/2013	123
+>Cluster27_13
+	>SubCls1_1
+		>A/Paraguay/188/2011	*	170
+	>SubCls2_1
+		>A/Santiago/15129/2011	140
+	>SubCls3_1
+		>A/SaoPaulo/2-24927/2011	125
+	>SubCls4_1
+		>A/Guyane/118/2012	158
+	>SubCls5_1
+		>A/Santiago/17529/2011	139
+	>SubCls6_1
+		>A/FuZhou/SWL1155/2012	1624
+	>SubCls7_1
+		>A/Phuket/294/2012	1662
+	>SubCls8_1
+		>A/Oman/292/2012	1648
+	>SubCls9_1
+		>A/SriLanka/19/2012	1623
+	>SubCls10_1
+		>A/Stockholm/36/2011	103
+	>SubCls11_1
+		>A/Vermont/16/2011	155
+	>SubCls12_1
+		>A/Paraguay/105/2011	169
+	>SubCls13_1
+		>A/Oman/1528/2011	1649
+>Cluster28_1
+	>A/Stockholm/35/2011	*	104
+>Cluster29_4
+	>SubCls1_1
+		>A/Osaka/10K346/2011	*	137
+	>SubCls2_1
+		>A/Malmo/5/2011	105
+	>SubCls3_1
+		>A/Umea/1/2011	106
+	>SubCls4_1
+		>A/Hiroshima-C/28/2011	156
+>Cluster30_25
+	>SubCls1_2
+		>A/Bangalore/2071-38/2012	*	1534
+		>A/Ghana/DILI-0518/2012	1597
+	>SubCls2_1
+		>A/Brisbane/346/2011	1607
+	>SubCls3_1
+		>A/Newcaledonia/11/2011	1610
+	>SubCls4_1
+		>A/Srinigar/1118/2011	1559
+	>SubCls5_1
+		>A/SouthAustralia/178/2012	1611
+	>SubCls6_2
+		>A/Singapore/DMS1236/2012	1533
+		>A/Srinigar/827/2011	1560
+	>SubCls7_1
+		>A/XiaMen/SWL135/2013	1537
+	>SubCls8_1
+		>A/Tokyo/32378/2013	1565
+	>SubCls9_1
+		>A/Southauckland/24/2011	1581
+	>SubCls10_1
+		>A/India/7764/2012	1583
+	>SubCls11_1
+		>A/Hangzhou/B54/2013	1555
+	>SubCls12_1
+		>A/India/8557/2012	1584
+	>SubCls13_1
+		>A/Christchurch/105/2011	1582
+	>SubCls14_1
+		>A/Singapore/DMS1312/2013	1532
+	>SubCls15_1
+		>A/India/P1112874/2011	1527
+	>SubCls16_1
+		>A/Saitama/301/2011	1567
+	>SubCls17_1
+		>A/Bangalore/597-39/2012	1535
+	>SubCls18_1
+		>A/Japan/AF2872/2011	1543
+	>SubCls19_1
+		>A/Nepal/VIROAF5CS/2012	111
+	>SubCls20_1
+		>A/Mauritius/716/2012	1598
+	>SubCls21_1
+		>A/Townsville/124/2011	1606
+	>SubCls22_1
+		>A/Bhopal/1664/2011	1531
+	>SubCls23_1
+		>A/Taiwan/5506/2011	1529
+>Cluster31_4
+	>SubCls1_1
+		>A/Perth/33/2011	*	195
+	>SubCls2_2
+		>A/Guangdong/147/2011	132
+		>A/Guangdong-Xiangzhou/1623/2011	179
+	>SubCls3_1
+		>A/Qingdao/F166/2011	112
+>Cluster32_102
+	>SubCls1_1
+		>A/JiangsuTinghu/SWL1358/2013	*	1724
+	>SubCls2_1
+		>A/India/P1114854/2011	1671
+	>SubCls3_1
+		>A/Bangalore/1326-52/2011	1143
+	>SubCls4_1
+		>A/Bangalore/2285-44/2012	1728
+	>SubCls5_1
+		>A/HoChiMinh/10551/2011	1145
+	>SubCls6_1
+		>A/Tanzania/42/2011	1185
+	>SubCls7_1
+		>A/Newcastle/14/2011	1563
+	>SubCls8_1
+		>A/Bangladesh/8324/2011	1683
+	>SubCls9_4
+		>A/Lamia/6794/2011	1687
+		>A/Taiwan/90157/2011	1541
+		>A/Stockholm/2/2011	1665
+		>A/Goa/46/2011	1669
+	>SubCls10_2
+		>A/Karaj/5924/2010	1156
+		>A/Brunei/15/2011	1191
+	>SubCls11_2
+		>A/Uganda/MUWRP-233/2010	115
+		>A/Uganda/MUWRP-236/2010	116
+	>SubCls12_2
+		>A/Brisbane/156/2011	1213
+		>A/Brisbane/158/2011	1212
+	>SubCls13_1
+		>A/Saitama/289/2011	1180
+	>SubCls14_1
+		>A/Uganda/MUWRP-240/2011	113
+	>SubCls15_1
+		>A/India/447/2012	1777
+	>SubCls16_2
+		>A/Oman/SQUH-51/2012	1673
+		>A/India/5756/2011	1694
+	>SubCls17_2
+		>A/Victoria/504/2011	1206
+		>A/Singapore/DMS1162/2011	1125
+	>SubCls18_1
+		>A/Guangdong/40/2011	1130
+	>SubCls19_1
+		>A/Kenya/266/2013	1680
+	>SubCls20_1
+		>A/Taiwan/66179/2010	1153
+	>SubCls21_1
+		>A/Yamaguchi/35/2010	1172
+	>SubCls22_1
+		>A/Delhi/55/2011	1522
+	>SubCls23_1
+		>A/Thailand/SS10421/2011	1132
+	>SubCls24_1
+		>A/Aomori/39/2011	1219
+	>SubCls25_1
+		>A/Sydney/PM1/2011	1129
+	>SubCls26_1
+		>A/Tula/CRIE-STA/2011	1546
+	>SubCls27_1
+		>A/Hunan-Jishou/SWL1124/2011	1586
+	>SubCls28_1
+		>A/Nepal/662/2013	1744
+	>SubCls29_1
+		>A/Suriname/82/2011	1572
+	>SubCls30_1
+		>A/Bangladesh/2110/2011	1551
+	>SubCls31_2
+		>A/Helsinki/942/2012	1670
+		>A/Bangalore/1103-51/2011	1675
+	>SubCls32_1
+		>A/Tanzania/412/2011	168
+	>SubCls33_1
+		>A/Delhi/56/2011	1521
+	>SubCls34_2
+		>A/Newcaledonia/6/2011	197
+		>A/Argentina/7/2011	182
+	>SubCls35_1
+		>A/Brisbane/35/2013	1806
+	>SubCls36_3
+		>A/PuertoRico/4/2011	1163
+		>A/Qingdao/F07/2011	1523
+		>A/PuertoRico/9/2011	1162
+	>SubCls37_2
+		>A/Madagascar/566/2012	1199
+		>A/Madagascar/863/2012	1197
+	>SubCls38_1
+		>A/Madagascar/149/2011	1201
+	>SubCls39_1
+		>A/Kenya/3294/2011	1577
+	>SubCls40_1
+		>A/Helsinki/11IH2213/2011	1149
+	>SubCls41_1
+		>A/Moscow/WRAIR4305T/2011	1154
+	>SubCls42_1
+		>A/Songkhla/40/2012	1218
+	>SubCls43_1
+		>A/NizhnyNovgorod/CRIE-ZCA/2011	1545
+	>SubCls44_1
+		>A/Ayutthaya/283/2012	1216
+	>SubCls45_1
+		>A/Peru/15/2013	141
+	>SubCls46_1
+		>A/Sydney/516/2011	1203
+	>SubCls47_1
+		>A/Syria/33/2011	147
+	>SubCls48_1
+		>A/Moscow/CRIE-7/2011	1544
+	>SubCls49_1
+		>A/Kochi/40/2011	1171
+	>SubCls50_1
+		>A/Thailand/MR10489/2011	1136
+	>SubCls51_1
+		>A/Taiwan/71592/2010	134
+	>SubCls52_1
+		>A/Madagascar/8753/2011	1200
+	>SubCls53_2
+		>A/Bangalore/2327-56/2011	1141
+		>A/Bangalore/1974-55/2011	1142
+	>SubCls54_1
+		>A/Beijing/83/2012	1150
+	>SubCls55_1
+		>A/NewYork/9/2011	1685
+	>SubCls56_1
+		>A/Brisbane/185/2011	1608
+	>SubCls57_1
+		>A/Chita/RII08/2012	129
+	>SubCls58_1
+		>A/Syria/50/2011	146
+	>SubCls59_1
+		>A/Hebei-Yuhua/SWL1187/2011	1189
+	>SubCls60_1
+		>A/Texas/10/2011	1562
+	>SubCls61_3
+		>A/Karlstad/1/2011	1517
+		>A/England/5100298/2010	1530
+		>A/Boston/DOA35/2011	1528
+	>SubCls62_1
+		>A/Ecuador/IEC00027/2010	135
+	>SubCls63_1
+		>A/Hokkaido/12/2011	1193
+	>SubCls64_1
+		>A/Ukraine/135/2011	1194
+	>SubCls65_1
+		>A/Saitama/319/2011	1179
+	>SubCls66_1
+		>A/HongKong/3973/2011	1195
+	>SubCls67_1
+		>A/Brisbane/86/2011	1208
+	>SubCls68_1
+		>A/Nanping/SWL1109/2011	122
+	>SubCls69_1
+		>A/Brisbane/72/2011	196
+	>SubCls70_1
+		>A/Hunan-Xiangtan/SWL141/2011	1190
+	>SubCls71_1
+		>A/Nonthaburi/78/2011	1217
+	>SubCls72_1
+		>A/India/1214/2012	1776
+	>SubCls73_1
+		>A/Singapore/GP4682/2010	1155
+	>SubCls74_1
+		>A/Singapore/DMS1225/2011	1123
+	>SubCls75_1
+		>A/Singapore/DMS1223/2011	1124
+	>SubCls76_1
+		>A/PuertoRico/25/2011	1161
+	>SubCls77_1
+		>A/Thailand/MR10580/2012	1135
+	>SubCls78_1
+		>A/Indonesia/269_S51_L001/2011	1553
+	>SubCls79_1
+		>A/Madagascar/695/2012	1198
+	>SubCls80_1
+		>A/Tennessee/F2090A/2011	1525
+	>SubCls81_1
+		>A/Panama/309335/2011	1576
+	>SubCls82_1
+		>A/Thailand/CU-B4773/2011	1138
+	>SubCls83_1
+		>A/Voronezh/21/2011	201
+	>SubCls84_1
+		>A/Gyeongnam/3526/2012	1192
+	>SubCls85_1
+		>A/Srinigar/126/2011	154
+	>SubCls86_1
+		>A/Goa/47/2011	1668
+>Cluster33_1
+	>A/Uganda/MUWRP-243/2011	*	114
+>Cluster34_1
+	>A/Tottori/ST407/2009	*	117
+>Cluster35_2
+	>A/CzechRepublic/111/2011	*	119
+	>A/CzechRepublic/112/2011	118
+>Cluster36_1
+	>A/Tehran/53411/2013	*	124
+>Cluster37_1
+	>A/Khorasan/5363/2011	*	127
+>Cluster38_1
+	>A/Alborz/5733/2011	*	128
+>Cluster39_1
+	>A/India/GWL-01/2011	*	130
+>Cluster40_2
+	>SubCls1_1
+		>A/Sainshand/1940/2012	*	1657
+	>SubCls2_1
+		>A/Taiwan/90153/2011	133
+>Cluster41_4
+	>SubCls1_1
+		>A/NewJersey/3/2011	*	176
+	>SubCls2_1
+		>A/Washington/34/2012	1747
+	>SubCls3_1
+		>A/Ecuador/IEC00032/2010	136
+	>SubCls4_1
+		>A/Arizona/2/2011	151
+>Cluster42_1
+	>A/BurkinaFaso/595/2012	*	142
+>Cluster43_1
+	>A/BurkinaFaso/540/2012	*	143
+>Cluster44_1
+	>A/BurkinaFaso/26/2012	*	144
+>Cluster45_1
+	>A/Syria/180/2011	*	145
+>Cluster46_13
+	>SubCls1_1
+		>A/Adjame/GR558/2012	*	163
+	>SubCls2_1
+		>A/Cameroon/LEID-03-11-1616/2011	192
+	>SubCls3_1
+		>A/Yopougon/GR553/2012	162
+	>SubCls4_1
+		>A/Ethiopia/198/2012	159
+	>SubCls5_1
+		>A/Nigeria/5382/2011	174
+	>SubCls6_1
+		>A/Ghana/FS-11-1803/2011	187
+	>SubCls7_1
+		>A/Yaounde/11V-19275GVFI/2011	189
+	>SubCls8_1
+		>A/Ethiopia/180/2012	160
+	>SubCls9_1
+		>A/Yaounde/11V-18762/2011	190
+	>SubCls10_1
+		>A/Saitama/88/2012	157
+	>SubCls11_1
+		>A/Cameroon/LEID/04/11/1671/2011	191
+	>SubCls12_1
+		>A/Ghana/FS-11-206/2011	188
+	>SubCls13_1
+		>A/Minnesota/16/2012	148
+>Cluster47_3
+	>SubCls1_1
+		>A/Bangalore/1808-53/2011	*	1536
+	>SubCls2_1
+		>A/India/4947/2011	1585
+	>SubCls3_1
+		>A/Illinois/2/2010	149
+>Cluster48_2
+	>SubCls1_1
+		>A/Florida/34/2011	*	177
+	>SubCls2_1
+		>A/California/32/2011	150
+>Cluster49_1
+	>A/Srinigar/385/2011	*	152
+>Cluster50_1
+	>A/Srinigar/234/2011	*	153
+>Cluster51_1
+	>A/Pakistan/680/2011	*	171
+>Cluster52_1
+	>A/Nigeria/7781/2012	*	173
+>Cluster53_3
+	>SubCls1_1
+		>A/Dakar/22/2012	*	183
+	>SubCls2_1
+		>A/Dakar/29/2011	185
+	>SubCls3_1
+		>A/Ghana/FS-0895/2012	186
+>Cluster54_1
+	>A/Dakar/3/2012	*	184
+>Cluster55_1
+	>A/Brazil/229/2012	*	194
+>Cluster56_1
+	>A/Southaustralia/162/2012	*	198
+>Cluster57_1
+	>A/Kenya/17/2016	*	203
+>Cluster58_1
+	>A/England/62320772/2016	*	205
+>Cluster59_5
+	>SubCls1_1
+		>A/Nonthaburi/46/2018	*	668
+	>SubCls2_1
+		>A/Okinawa/13T001/2013	2011
+	>SubCls3_1
+		>A/Indonesia/Nihrd-Plk135/2016	2187
+	>SubCls4_1
+		>A/England/50/2016	206
+	>SubCls5_1
+		>A/ChiangRai/11/2018	669
+>Cluster60_10
+	>SubCls1_1
+		>A/Cardiff/4341/2017	*	678
+	>SubCls2_1
+		>A/Bangladesh/9001/2015	209
+	>SubCls3_1
+		>A/SaoPaulo/6-31256/2013	1837
+	>SubCls4_1
+		>A/Bangladesh/3002/2015	211
+	>SubCls5_1
+		>A/Brazil/8500/2013	1862
+	>SubCls6_1
+		>A/Para/122682/2013	1823
+	>SubCls7_1
+		>A/MinasGerais/1394/2013	1888
+	>SubCls8_1
+		>A/Brazil/5921/2013	1863
+	>SubCls9_1
+		>A/Parana/1402/2013	1885
+	>SubCls10_1
+		>A/Parana/1294/2013	1886
+>Cluster61_1
+	>A/Bangladesh/3011/2015	*	213
+>Cluster62_5
+	>SubCls1_1
+		>A/Nepal/147/2016	*	228
+	>SubCls2_1
+		>A/Paris/14/2016	487
+	>SubCls3_1
+		>A/SaoPaulo/888/2014	1836
+	>SubCls4_1
+		>A/Afghanistan/112/2016	214
+	>SubCls5_1
+		>A/DominicanRepublic/9252/2015	2088
+>Cluster63_5
+	>SubCls1_1
+		>A/Lao/F1400/2018	*	620
+	>SubCls2_1
+		>A/Afghanistan/87/2016	215
+	>SubCls3_1
+		>A/Uganda/6100/2018	814
+	>SubCls4_1
+		>A/Vietnam/Lisn148/2017	433
+	>SubCls5_1
+		>A/Buea/19V-3508/2019	561
+>Cluster64_7
+	>SubCls1_1
+		>A/SuratThani/428/2016	*	392
+	>SubCls2_1
+		>A/Tunisia/1033/2017	219
+	>SubCls3_1
+		>A/NewYork/WC-LVD-14-048/2014	1815
+	>SubCls4_1
+		>A/Henan-Jiefang/SWL1132/2017	352
+	>SubCls5_1
+		>A/Oman/6472/2016	343
+	>SubCls6_2
+		>A/Macau/613501/2016	351
+		>A/Lao/3345/2016	344
+>Cluster65_10
+	>SubCls1_1
+		>A/AbuDhabi/178/2017	*	732
+	>SubCls2_1
+		>A/Congo/2275/2014	1841
+	>SubCls3_1
+		>A/Nigeria/3579/2018	713
+	>SubCls4_1
+		>A/Jiangxi-Yuehu/SWL1185/2019	819
+	>SubCls5_1
+		>A/Nepal/248/2016	227
+	>SubCls6_1
+		>A/Singapore/EN104/2015	1978
+	>SubCls7_1
+		>A/Oman/6227/2015	256
+	>SubCls8_1
+		>A/Singapore/KK014/2015	1979
+	>SubCls9_1
+		>A/AbuDhabi/108/2018	835
+	>SubCls10_1
+		>A/Nepal/1232B/2014	1927
+>Cluster66_4
+	>SubCls1_1
+		>A/Tanzania/1177/2018	*	526
+	>SubCls2_1
+		>A/Kenya/104/2016	266
+	>SubCls3_1
+		>A/Santiago/108999/2018	673
+	>SubCls4_1
+		>A/Nepal/142/2016	229
+>Cluster67_2
+	>SubCls1_1
+		>A/Norway/2544/2015	*	231
+	>SubCls2_1
+		>A/Jordan/11902/2015	2145
+>Cluster68_1
+	>A/Oita/23/2016	*	233
+>Cluster69_1
+	>A/Yokohama/95/2015	*	245
+>Cluster70_1
+	>A/Chiba/49/2015	*	246
+>Cluster71_6
+	>SubCls1_1
+		>A/Tanzania/2899/2016	*	251
+	>SubCls2_1
+		>A/Tanzania/4777/2017	250
+	>SubCls3_1
+		>A/Yunnan-Xishan/SWL1170/2014	2180
+	>SubCls4_1
+		>A/Tanzania/690/2015	252
+	>SubCls5_1
+		>A/Moscow/RII18/2013	2206
+	>SubCls6_1
+		>A/Moscow/18/2013	2208
+>Cluster72_1
+	>A/Lao/4392/2016	*	261
+>Cluster73_1
+	>A/Lao/6/2016	*	262
+>Cluster74_1
+	>A/Kenya/109/2016	*	267
+>Cluster75_1
+	>A/India/1399/2015	*	269
+>Cluster76_1
+	>A/Indonesia/Nihrd-Mrk323/2016	*	278
+>Cluster77_1
+	>A/Kharkiv/594/2015	*	279
+>Cluster78_4
+	>SubCls1_3
+		>A/Paraguay/5487/2015	2049
+		>A/Argentina/11551/2015	2046
+		>A/Paraguay/1164/2015	*	2048
+	>SubCls2_1
+		>A/HongKong/2318/2016	281
+>Cluster79_1
+	>A/HongKong/11688/2015	*	283
+>Cluster80_4
+	>SubCls1_1
+		>A/Victoria/504/2015	*	1987
+	>SubCls2_1
+		>A/Taiwan/1437/2017	578
+	>SubCls3_1
+		>A/Para/129415-IEC/2014	2012
+	>SubCls4_1
+		>A/Mauritius/I-463/2015	286
+>Cluster81_1
+	>A/Singapore/KK0942/2016	*	288
+>Cluster82_1
+	>A/Singapore/GP1775/2015	*	291
+>Cluster83_1
+	>A/Colombia/1157/2016	*	295
+>Cluster84_1
+	>A/Texas/157/2016	*	311
+>Cluster85_1
+	>A/Bahia/1858/2016	*	313
+>Cluster86_1
+	>A/RioGrandedoSul/1898/2016	*	315
+>Cluster87_1
+	>A/RioGrandedoSul/1894/2016	*	316
+>Cluster88_1
+	>A/Saitama/94/2016	*	329
+>Cluster89_8
+	>SubCls1_1
+		>A/Nepal/1598/2015	*	1842
+	>SubCls2_1
+		>A/Concepcion/42000/2015	1827
+	>SubCls3_1
+		>A/Colombia/498/2015	1895
+	>SubCls4_1
+		>A/Brazil/126/2015	1860
+	>SubCls5_1
+		>A/Brazil/8394/2016	330
+	>SubCls6_1
+		>A/Santiago/37244/2015	1825
+	>SubCls7_1
+		>A/Liaoning-Tiexi/SWL1274/2019	636
+	>SubCls8_1
+		>A/Colombia/6863/2015	1894
+>Cluster90_1
+	>A/Brazil/3537/2016	*	331
+>Cluster91_2
+	>SubCls1_1
+		>A/India/9929/2017	*	533
+	>SubCls2_1
+		>A/Pernambuco/138700/2016	338
+>Cluster92_1
+	>A/Bolivia/351/2017	*	340
+>Cluster93_3
+	>SubCls1_1
+		>A/Norway/2514/2015	*	2154
+	>SubCls2_1
+		>A/Utah/25/2017	345
+	>SubCls3_1
+		>A/Mexico/4283/2016	373
+>Cluster94_1
+	>A/Wellington/6/2016	*	347
+>Cluster95_1
+	>A/Yunnan-Wuhua/1938/2016	*	349
+>Cluster96_1
+	>A/Yunnan-Simao/1989/2016	*	350
+>Cluster97_1
+	>A/Neimenggu-Erlianhaote/SWL1510/2015	*	353
+>Cluster98_4
+	>SubCls1_1
+		>A/Lebanon/20/2018	*	773
+	>SubCls2_2
+		>A/Nagasaki/15I010/2016	354
+		>A/Niigata/15F185/2016	355
+	>SubCls3_1
+		>A/Hubei-Xiling/SWL1315/2017	454
+>Cluster99_3
+	>SubCls1_1
+		>A/Brisbane/202/2016	*	381
+	>SubCls2_1
+		>A/Victoria/501/2016	356
+	>SubCls3_1
+		>A/Brisbane/262/2016	380
+>Cluster100_1
+	>A/Sendai/85/2016	*	360
+>Cluster101_4
+	>SubCls1_1
+		>A/Bahia/133/2017	*	370
+	>SubCls2_1
+		>A/Maldives/1496/2017	679
+	>SubCls3_1
+		>A/HongKong/2352/2016	364
+	>SubCls4_1
+		>A/Dnipro/415/2018	734
+>Cluster102_8
+	>SubCls1_1
+		>A/SaudiArabia/106153704/2017	*	528
+	>SubCls2_1
+		>A/CostaRica/6171/2016	367
+	>SubCls3_1
+		>A/Kentucky/26/2017	2213
+	>SubCls4_1
+		>A/SaudiArabia/2362806503/2017	527
+	>SubCls5_1
+		>A/Bahrain/263/2017	505
+	>SubCls6_1
+		>A/Bangladesh/1005/2017	497
+	>SubCls7_1
+		>A/Oman/3205/2017	530
+	>SubCls8_1
+		>A/Norway/2146/2017	560
+>Cluster103_2
+	>SubCls1_1
+		>A/NewZealand/1150/2016	*	388
+	>SubCls2_1
+		>A/HongKong/99/2019	842
+>Cluster104_8
+	>SubCls1_1
+		>A/Oman/1116/2017	*	442
+	>SubCls2_1
+		>A/Oman/816/2017	440
+	>SubCls3_3
+		>A/Pakistan/1383/2016	438
+		>A/Novosibirsk/121/2016	395
+		>A/Oman/133/2017	441
+	>SubCls4_1
+		>A/Okayama/25/2017	421
+	>SubCls5_1
+		>A/Indonesia/Nihrd-Plb492/2017	464
+	>SubCls6_1
+		>A/Qatar/34-VI-17-0001851/2017	466
+>Cluster105_1
+	>A/CzechRepublic/71b/2016	*	398
+>Cluster106_1
+	>A/Mali/199/2017	*	401
+>Cluster107_1
+	>A/Suriname/1295/2016	*	407
+>Cluster108_1
+	>A/Kagawa/441/2016	*	410
+>Cluster109_1
+	>A/Hiroshima-C/1/2017	*	420
+>Cluster110_1
+	>A/Vietnam/Lisn18005/2018	*	430
+>Cluster111_12
+	>SubCls1_1
+		>A/Yamanashi/14332/2014	*	1853
+	>SubCls2_1
+		>A/Newcastle/6/2014	1849
+	>SubCls3_1
+		>A/Lao/F0361/2018	445
+	>SubCls4_1
+		>A/DistrictOfColumbia/2/2014	1824
+	>SubCls5_1
+		>A/Guatemala/58/2014	1871
+	>SubCls6_1
+		>A/Nonthaburi/375/2014	1908
+	>SubCls7_1
+		>A/Townsville/11/2014	1890
+	>SubCls8_1
+		>A/Thailand/CU-B11363/2014	1820
+	>SubCls9_1
+		>A/Israel/31/2013	1889
+	>SubCls10_1
+		>A/Cambodia/Y1218309/2014	1896
+	>SubCls11_1
+		>A/Malaysia/15/2014	1909
+	>SubCls12_1
+		>A/Nigeria/8550/2013	1869
+>Cluster112_4
+	>SubCls1_1
+		>A/Shanghai-Huangpu/13439/2016	*	451
+	>SubCls2_1
+		>A/Maryland/16/2015	2030
+	>SubCls3_1
+		>A/Greece/1519/2018	804
+	>SubCls4_1
+		>A/Egypt/42/2014	1813
+>Cluster113_1
+	>A/Macau/611376/2016	*	452
+>Cluster114_1
+	>A/Guangxi-Binyang/SWL33/2017	*	456
+>Cluster115_1
+	>A/Hunan-Yuhua/SWL11062/2016	*	458
+>Cluster116_2
+	>SubCls1_1
+		>A/Antsirabe/5599/2016	*	474
+	>SubCls2_1
+		>A/Antsirabe/5602/2016	475
+>Cluster117_6
+	>SubCls1_1
+		>A/Santiago/80550/2013	*	2013
+	>SubCls2_1
+		>A/SouthAustralia/16/2017	482
+	>SubCls3_1
+		>A/India/Pun146427/2014	2119
+	>SubCls4_1
+		>A/Singapore/GP611/2015	2194
+	>SubCls5_1
+		>A/Lao/220/2018	715
+	>SubCls6_1
+		>A/India/5869/2017	631
+>Cluster118_1
+	>A/NewZealand/1148/2016	*	483
+>Cluster119_3
+	>SubCls1_1
+		>A/Wellington/22/2014	*	1907
+	>SubCls2_1
+		>A/Santiago/66221/2014	1826
+	>SubCls3_1
+		>A/Philippines/980/2017	498
+>Cluster120_1
+	>A/Bahrain/211/2017	*	504
+>Cluster121_1
+	>A/Wisconsin/325/2017	*	508
+>Cluster122_1
+	>A/Hyogo/1060/2017	*	514
+>Cluster123_1
+	>A/Niigata/923/2017	*	517
+>Cluster124_1
+	>A/Kanagawa/207/2017	*	519
+>Cluster125_1
+	>A/Pakistan/77/2017	*	529
+>Cluster126_1
+	>A/India/217/2017	*	534
+>Cluster127_3
+	>SubCls1_1
+		>A/Hubei-Dongbao/SWL1750/2017	*	545
+	>SubCls2_1
+		>A/Shenzhen/2019-14163/2018	541
+	>SubCls3_1
+		>A/Guizhou-Xixiu/SWL1883/2017	544
+>Cluster128_1
+	>A/Yunnan-Hongta/SWL1807/2018	*	542
+>Cluster129_3
+	>SubCls1_2
+		>A/Singapore/KK1297/2017	*	563
+		>A/Kanagawa/IC1729/2018	548
+	>SubCls2_1
+		>A/Singapore/KK1332/2017	562
+>Cluster130_2
+	>SubCls1_1
+		>A/Sendai/55/2017	*	553
+	>SubCls2_1
+		>A/Kanagawa/ZC1708/2017	550
+>Cluster131_1
+	>A/Victoria/897/2017	*	551
+>Cluster132_1
+	>A/Sydney/223/2017	*	557
+>Cluster133_1
+	>A/NewZealand/219/2017	*	573
+>Cluster134_4
+	>SubCls1_1
+		>A/Antsirabe/4579/2018	*	843
+	>SubCls2_1
+		>A/Taiwan/79730/2018	757
+	>SubCls3_1
+		>A/Brest/2003/2019	577
+	>SubCls4_1
+		>A/Norway/4776/2021	650
+>Cluster135_1
+	>A/Taiwan/1407/2017	*	579
+>Cluster136_3
+	>SubCls1_1
+		>A/StPetersburg/RII-562/2018	*	580
+	>SubCls2_1
+		>A/Kazakhstan/9/2018	622
+	>SubCls3_1
+		>A/Kazakhstan/18/2019	621
+>Cluster137_2
+	>SubCls1_1
+		>A/Amazonas/156069-IEC/2019	*	587
+	>SubCls2_1
+		>A/RiodeJaneiro/1255/2018	652
+>Cluster138_3
+	>SubCls1_1
+		>A/Southaustralia/18/2013	*	1905
+	>SubCls2_1
+		>A/Southaustralia/96/2013	1903
+	>SubCls3_1
+		>A/Norway/3351/2017	588
+>Cluster139_1
+	>A/Minnesota/34/2019	*	592
+>Cluster140_8
+	>SubCls1_1
+		>A/CostaRica/1091/2016	*	2089
+	>SubCls2_1
+		>A/NewJersey/13/2018	625
+	>SubCls3_2
+		>A/Pennsylvania/326/2017	598
+		>A/Mississippi/26/2017	597
+	>SubCls4_1
+		>A/Tauranga/3/2018	626
+	>SubCls5_1
+		>A/Minnesota/34/2018	593
+	>SubCls6_1
+		>A/Ulsan/1424/2018	640
+	>SubCls7_1
+		>A/Brisbane/2/2018	634
+>Cluster141_5
+	>SubCls1_1
+		>A/Dnipropetrovsk/382/2019	*	646
+	>SubCls2_1
+		>A/Colombia/7398/2019	661
+	>SubCls3_1
+		>A/Louisiana/1/2020	595
+	>SubCls4_1
+		>A/Guatemala/461/2019	623
+	>SubCls5_1
+		>A/Colorado/24/2019	599
+>Cluster142_1
+	>A/Kobe/362/2018	*	602
+>Cluster143_6
+	>SubCls1_1
+		>A/Uganda/525/2018	*	608
+	>SubCls2_1
+		>A/Beijing-Xicheng/1633/2018	632
+	>SubCls3_1
+		>A/Ayutthaya/68/2018	667
+	>SubCls4_1
+		>A/Sakai/25/2018	603
+	>SubCls5_1
+		>A/Dundgovi/1639/2018	656
+	>SubCls6_1
+		>A/Bolivia/2139/2018	607
+>Cluster144_2
+	>A/Bolivia/4088/2018	*	606
+	>A/Bolivia/4087/2018	605
+>Cluster145_1
+	>A/Lao/2649/2018	*	617
+>Cluster146_3
+	>SubCls1_1
+		>A/Lao/F1827/2018	*	619
+	>SubCls2_1
+		>A/Phetchaburi/1136/2018	755
+	>SubCls3_1
+		>A/Nakhonphanom/339/2018	666
+>Cluster147_1
+	>A/Guatemala/97/2019	*	624
+>Cluster148_1
+	>A/India/4316/2018	*	628
+>Cluster149_1
+	>A/Shanghai-Minxing/SWL1369/2019	*	635
+>Cluster150_2
+	>SubCls1_1
+		>A/Ireland/36789/2018	*	641
+	>SubCls2_1
+		>A/Dominica/431/2015	2047
+>Cluster151_1
+	>A/Qatar/10-vi-18-0040450/2018	*	642
+>Cluster152_1
+	>A/Sydney/59/2018	*	644
+>Cluster153_1
+	>A/Norway/2967/2021	*	651
+>Cluster154_1
+	>A/Parana/1081/2018	*	653
+>Cluster155_1
+	>A/ElSalvador/587/2018	*	654
+>Cluster156_1
+	>A/Victoria/34/2019	*	657
+>Cluster157_1
+	>A/Loei/167/2018	*	665
+>Cluster158_3
+	>SubCls1_1
+		>A/HongKong/62/2015	*	1961
+	>SubCls2_1
+		>A/SouthAfrica/8061/2018	750
+	>SubCls3_1
+		>A/Seoul/1288/2018	680
+>Cluster159_29
+	>SubCls1_1
+		>A/Maine/38/2018	*	694
+	>SubCls2_1
+		>A/Saitama/173/2019	702
+	>SubCls3_1
+		>A/Hiroshima/71/2018	698
+	>SubCls4_1
+		>A/HongKong/3063/2018	735
+	>SubCls5_4
+		>A/Brisbane/65/2018	743
+		>A/Brisbane/69/2018	744
+		>A/BadenWurttemberg/161/2018	690
+		>A/Brisbane/68/2018	742
+	>SubCls6_1
+		>A/Kochi/23/2018	696
+	>SubCls7_1
+		>A/Macau/604290/2018	720
+	>SubCls8_1
+		>A/Brisbane/38/2018	739
+	>SubCls9_1
+		>A/Macau/601579/2019	738
+	>SubCls10_2
+		>A/Taiwan/80642/2018	759
+		>A/Aichi/190/2018	699
+	>SubCls11_1
+		>A/Ecuador/1284/2018	683
+	>SubCls12_1
+		>A/HongKong/110/2019	724
+	>SubCls13_1
+		>A/Taiwan/79432/2018	758
+	>SubCls14_1
+		>A/Taiwan/81123/2018	756
+	>SubCls15_1
+		>A/Brisbane/159/2018	740
+	>SubCls16_1
+		>A/Townsville/21/2018	741
+	>SubCls17_1
+		>A/Kanagawa/IC1848/2019	725
+	>SubCls18_1
+		>A/Ayutthaya/225/2019	753
+	>SubCls19_1
+		>A/Tokyo/18049/2018	701
+	>SubCls20_1
+		>A/Darwin/102/2019	737
+	>SubCls21_1
+		>A/NewJersey/2/2019	716
+	>SubCls22_1
+		>A/HongKong/1098/2018	736
+	>SubCls23_1
+		>A/Yunnan-Linxiang/1769/2018	721
+	>SubCls24_1
+		>A/Colombia/2898/2019	747
+	>SubCls25_1
+		>A/SriLanka/63/2018	746
+>Cluster160_2
+	>A/Bahrain/384/2018	*	687
+	>A/Bahrain/362/2018	688
+>Cluster161_2
+	>A/Newcastle/46/2019	*	695
+	>A/Fukushima/69/2019	729
+>Cluster162_1
+	>A/Yamaguchi/33/2018	*	697
+>Cluster163_2
+	>SubCls1_1
+		>A/Luxembourg/14064674/2014	*	2075
+	>SubCls2_1
+		>A/India/1035/2017	718
+>Cluster164_2
+	>SubCls1_1
+		>A/Fujian-Pingtan/SWL38/2018	*	722
+	>SubCls2_1
+		>A/Hunan-Wuling/1468/2018	719
+>Cluster165_1
+	>A/Tasmania/4/2018	*	727
+>Cluster166_1
+	>A/Fukushima/81/2019	*	728
+>Cluster167_1
+	>A/AbuDhabi/186/2017	*	731
+>Cluster168_1
+	>A/Santiago/90003/2018	*	761
+>Cluster169_1
+	>A/Niger/6219/2018	*	763
+>Cluster170_11
+	>SubCls1_1
+		>A/SouthAuckland/2/2018	*	848
+	>SubCls2_3
+		>A/Kyiv/359/2017	840
+		>A/Switzerland/3330/2017	823
+		>A/Guyane/341/2017	805
+	>SubCls3_1
+		>A/AbuDhabi/105/2018	834
+	>SubCls4_1
+		>A/Mali/121/2018	764
+	>SubCls5_1
+		>A/Bolivia/171/2018	809
+	>SubCls6_1
+		>A/Lithuania/14564/2018	828
+	>SubCls7_1
+		>A/SouthAustralia/49/2018	847
+	>SubCls8_1
+		>A/DominicanRepublic/267/2018	767
+	>SubCls9_1
+		>A/SierraLeone/108/2018	774
+>Cluster171_17
+	>SubCls1_1
+		>A/Florida/97/2018	*	784
+	>SubCls2_1
+		>A/NorthDakota/16/2019	873
+	>SubCls3_1
+		>A/CostaRica/7477/2019	914
+	>SubCls4_1
+		>A/CostaRica/8104/2019	913
+	>SubCls5_1
+		>A/Tokyo/18069/2018	799
+	>SubCls6_1
+		>A/Maryland/42/2019	874
+	>SubCls7_1
+		>A/Yamaguchi/35/2019	896
+	>SubCls8_1
+		>A/RioGrandeDoSul/1048/2019	918
+	>SubCls9_1
+		>A/Guyane/162/2020	881
+	>SubCls10_1
+		>A/Tasmania/1012/2019	931
+	>SubCls11_1
+		>A/Zambia/1-321/2018	778
+	>SubCls12_1
+		>A/MinasGerais/202012676/2019	915
+	>SubCls13_1
+		>A/PortHedland/1000/2019	934
+	>SubCls14_1
+		>A/CoteDIvoire/1904/2017	806
+	>SubCls15_1
+		>A/Sergipe/13445/2020	916
+	>SubCls16_1
+		>A/NewCaledonia/4/2018	846
+	>SubCls17_1
+		>A/Ukraine/7993/2018	824
+>Cluster172_2
+	>SubCls1_1
+		>A/Iowa/12/2019	*	785
+	>SubCls2_1
+		>A/Ecuador/7643/2019	779
+>Cluster173_1
+	>A/Wisconsin/101/2018	*	783
+>Cluster174_1
+	>A/Wyoming/1/2019	*	786
+>Cluster175_1
+	>A/Americana/1164820-IAL/2019	*	801
+>Cluster176_1
+	>A/Maracaju/867540-IAL/2019	*	802
+>Cluster177_1
+	>A/Vietnam/65/2019	*	812
+>Cluster178_5
+	>SubCls1_1
+		>A/HongKong/2272/2018	*	841
+	>SubCls2_1
+		>A/Guangdong-Haizhu/SWL1682/2018	821
+	>SubCls3_1
+		>A/Malaysia/9/2013	1911
+	>SubCls4_1
+		>A/Bangladesh/4004/2015	2018
+	>SubCls5_1
+		>A/Hainan-Wenchang/SWL1776/2018	822
+>Cluster179_1
+	>A/Iceland/68/2019	*	829
+>Cluster180_1
+	>A/Ireland/84630/2018	*	830
+>Cluster181_1
+	>A/Cameroon/8644/2019	*	844
+>Cluster182_1
+	>A/Miyagi/38/2018	*	845
+>Cluster183_1
+	>A/England/285/2019	*	851
+>Cluster184_2
+	>SubCls1_1
+		>A/LaReunion/2130/2019	*	852
+	>SubCls2_1
+		>A/Niger/10048/2021	1417
+>Cluster185_1
+	>A/Bhutan/1484/2019	*	853
+>Cluster186_1
+	>A/Bhutan/531/2019	*	854
+>Cluster187_2
+	>SubCls1_1
+		>A/Bangladesh/9001/2019	*	860
+	>SubCls2_1
+		>A/SriLanka/61/2018	926
+>Cluster188_2
+	>SubCls1_1
+		>A/Nepal/19FL3902/2019	*	864
+	>SubCls2_1
+		>A/Ecuador/236/2019	1329
+>Cluster189_9
+	>SubCls1_1
+		>A/MogiDasCruzes/1218859-IAL/2019	*	880
+	>SubCls2_1
+		>A/SantaCatarina/1168/2019	919
+	>SubCls3_1
+		>A/RioGrandeDoSul/1071/2019	917
+	>SubCls4_1
+		>A/Sydney/1158/2019	930
+	>SubCls5_1
+		>A/Colombia/7389/2019	929
+	>SubCls6_1
+		>A/Delaware/45/2019	866
+	>SubCls7_1
+		>A/Norway/2231/2019	909
+	>SubCls8_1
+		>A/Iowa/33/2019	871
+	>SubCls9_1
+		>A/SouthAustralia/1065/2019	932
+>Cluster190_1
+	>A/Nebraska/15/2018	*	867
+>Cluster191_2
+	>SubCls1_1
+		>A/Iowa/22/2020	*	870
+	>SubCls2_1
+		>A/Iowa/23/2020	869
+>Cluster192_1
+	>A/Yokohama/110/2018	*	878
+>Cluster193_1
+	>A/Oman/4419/2019	*	888
+>Cluster194_1
+	>A/Kazakhstan/9/2019	*	889
+>Cluster195_3
+	>SubCls1_1
+		>A/Argentina/933/2019	*	899
+	>SubCls2_1
+		>A/Hunan-Hecheng/SWL1350/2019	893
+	>SubCls3_1
+		>A/Akita/54/2019	938
+>Cluster196_3
+	>SubCls1_1
+		>A/Bangkok/439/2019	*	1390
+	>SubCls2_1
+		>A/Bangkok/401/2019	1391
+	>SubCls3_1
+		>A/Kanagawa/IC1816/2019	898
+>Cluster197_3
+	>SubCls1_1
+		>A/Ghana/1581/2021	*	1480
+	>SubCls2_1
+		>A/Ghana/231/2021	1479
+	>SubCls3_1
+		>A/Argentina/1357/2019	900
+>Cluster198_1
+	>A/Canberra/394/2019	*	910
+>Cluster199_1
+	>A/CostaRica/4734/2020	*	912
+>Cluster200_1
+	>A/Darwin/739/2019	*	920
+>Cluster201_2
+	>A/Darwin/784/2019	*	921
+	>A/Darwin/783/2019	922
+>Cluster202_86
+	>SubCls1_3
+		>A/India/Pun-NIV339256/2021	*	948
+		>A/India/PUN-NIV323546/2021	1002
+		>A/India/Pun-NIV328363/2021	950
+	>SubCls2_3
+		>A/India/Pun-NIV340124/2021	947
+		>A/India/Pun-NIV323483/2021	949
+		>A/India/PUN-NIV323483/2021	1001
+	>SubCls3_3
+		>A/Bahrain/4067/2021	1060
+		>A/Bahrain/3664/2021	1061
+		>A/Bahrain/3174/2021	1059
+	>SubCls4_1
+		>A/BritishColumbia/10/2022	954
+	>SubCls5_1
+		>A/Ibri/52121896/2021	1086
+	>SubCls6_1
+		>A/NewYork/4/2021	985
+	>SubCls7_1
+		>A/Tasmania/331/2022	1100
+	>SubCls8_1
+		>A/Utah/27/2022	1089
+	>SubCls9_1
+		>A/Newcastle/2/2022	1075
+	>SubCls10_1
+		>A/AbuDhabi/401650/2022	1014
+	>SubCls11_2
+		>A/India/Pune-NIVCOV2220294/2022	946
+		>A/India/Pun-NIVCOV2220294/2022	941
+	>SubCls12_1
+		>A/Morocco/186/2022	1108
+	>SubCls13_2
+		>A/Bangladesh/4017/2021	1051
+		>A/Qatar/16-VI-21-4927911/2021	1105
+	>SubCls14_3
+		>A/Sydney/5/2021	1098
+		>A/Bangladesh/1018/2021	1046
+		>A/Sydney/6/2021	1110
+	>SubCls15_1
+		>A/Qatar/16-VI-22-1535667/2022	1102
+	>SubCls16_2
+		>A/India/Pun-NIV338115/2021	1039
+		>A/India/Pun-NIV338542/2021	1038
+	>SubCls17_1
+		>A/AbuDhabi/4092/2022	1013
+	>SubCls18_1
+		>A/Netherlands/11819/2022	953
+	>SubCls19_2
+		>A/Bangladesh/2020/2021	964
+		>A/Khasab/72126274/2021	993
+	>SubCls20_2
+		>A/Qatar/32-VI-22-1540115/2022	1103
+		>A/Somalia/6/2021	1030
+	>SubCls21_1
+		>A/AbuDhabi/3420357/2021	1106
+	>SubCls22_4
+		>A/Sydney/15/2022	1371
+		>A/Sydney/178/2022	1380
+		>A/Sydney/563/2022	1385
+		>A/AbuDhabi/9657699/2021	1107
+	>SubCls23_1
+		>A/Bangladesh/3006/2021	1049
+	>SubCls24_2
+		>A/SantaCatarina/21671/2022	967
+		>A/SantaCatarina/22282/2022	966
+	>SubCls25_1
+		>A/India/2140/2021	997
+	>SubCls26_1
+		>A/NewYork/4/2022	1073
+	>SubCls27_1
+		>A/Bangladesh/2212/2021	1074
+	>SubCls28_1
+		>A/India/Pune-Nivcov22201048/2022	1096
+	>SubCls29_1
+		>A/India/PUN-NIV324562/2021	1003
+	>SubCls30_1
+		>A/India/PUN-NIV319324/2021	999
+	>SubCls31_1
+		>A/Pakistan/5338/2022	991
+	>SubCls32_1
+		>A/Minnesota/36/2022	1064
+	>SubCls33_1
+		>A/Ohio/29/2022	1067
+	>SubCls34_1
+		>A/Stockholm/10/2021	1119
+	>SubCls35_1
+		>A/Bahrain/5680/2022	973
+	>SubCls36_1
+		>A/StPetersburg/RII-2626S/2022	960
+	>SubCls37_1
+		>A/India/Pun-NIVARI2228/2022	940
+	>SubCls38_1
+		>A/India/PUN-NIV321627/2021	998
+	>SubCls39_1
+		>A/Victoria/4454/2022	1078
+	>SubCls40_1
+		>A/Bangladesh/3023/2021	1048
+	>SubCls41_1
+		>A/Bahrain/2446/2021	974
+	>SubCls42_1
+		>A/Tajikistan/14/2021	1426
+	>SubCls43_2
+		>A/India/PUN-NIV328484/2021	1004
+		>A/India/Pune-NIVCoV351636/2021	943
+	>SubCls44_1
+		>A/Kenya/130/2022	995
+	>SubCls45_1
+		>A/Pakistan/1579/2022	1081
+	>SubCls46_2
+		>A/Bhutan/1221/2022	957
+		>A/Bhutan/1218/2022	958
+	>SubCls47_1
+		>A/Victoria/4383/2022	1053
+	>SubCls48_1
+		>A/Qatar/32-VI-21-6596218/2021	1012
+	>SubCls49_1
+		>A/Pakistan/872/2022	1084
+	>SubCls50_1
+		>A/England/221920364/2022	1043
+	>SubCls51_1
+		>A/BritishColumbia/RV00300/2022	986
+	>SubCls52_1
+		>A/Bangladesh/3211111022/2021	1047
+	>SubCls53_1
+		>A/Bahrain/768/2022	1054
+	>SubCls54_1
+		>A/Qatar/16-VI-22-1535610/2022	1104
+	>SubCls55_1
+		>A/Pakistan/4349/2022	990
+	>SubCls56_1
+		>A/Newcastle/211/2022	1342
+	>SubCls57_1
+		>A/Pakistan/6798/2022	988
+	>SubCls58_1
+		>A/Michigan/19/2021	1071
+	>SubCls59_1
+		>A/Pakistan/5787/2022	1079
+	>SubCls60_1
+		>A/Kenya/159/2022	1088
+	>SubCls61_1
+		>A/Darwin/27/2021	1019
+	>SubCls62_1
+		>A/AbuDhabi/3849/2022	1015
+	>SubCls63_1
+		>A/Pakistan/5428/2022	1083
+	>SubCls64_1
+		>A/Sydney/1306/2022	1008
+	>SubCls65_1
+		>A/Pakistan/8205/2022	1080
+	>SubCls66_1
+		>A/Kenya/138/2022	994
+	>SubCls67_1
+		>A/Sydney/173/2022	1114
+>Cluster203_3
+	>A/India/Aurangabad-QC_21_52/2021	*	942
+	>A/India/Aurangabad-NIVQC52/2021	945
+	>A/India/2152/2021	996
+>Cluster204_3
+	>SubCls1_1
+		>A/Bahrain/6302/2022	*	970
+	>SubCls2_1
+		>A/Bahrain/1511/2022	971
+	>SubCls3_1
+		>A/India/Pune-NIVCoV376234/2021	944
+>Cluster205_25
+	>SubCls1_1
+		>A/England/224180757/2022	*	955
+	>SubCls2_1
+		>A/Brisbane/792/2022	1117
+	>SubCls3_1
+		>A/RiodeJaneiro/21460/2022	1116
+	>SubCls4_4
+		>A/Lisbon/529/2022	1044
+		>A/Netherlands/11850/2022	1035
+		>A/Norway/30483/2022	1111
+		>A/England/223540418/2022	1042
+	>SubCls5_1
+		>A/PuertoRico/30/2022	1066
+	>SubCls6_2
+		>A/Cardiff/8182/2022	1045
+		>A/Victoria/5135/2022	1099
+	>SubCls7_1
+		>A/SaoPaulo/IAL/C9835/2022	1034
+	>SubCls8_1
+		>A/MatoGrossodoSul/IAL/C9857/2022	1033
+	>SubCls9_2
+		>A/SouthAfrica/R08276/2022	1026
+		>A/Minnesota/35/2022	1065
+	>SubCls10_1
+		>A/Netherlands/1296/2022	1090
+	>SubCls11_1
+		>A/Tennessee/38/2022	980
+	>SubCls12_1
+		>A/Netherlands/11772/2022	1040
+	>SubCls13_1
+		>A/Netherlands/1173/2022	1091
+	>SubCls14_2
+		>A/WestVirginia/28/2022	976
+		>A/Victoria/4897/2022	969
+	>SubCls15_1
+		>A/Catalonia/NSVH198254427/2022	1062
+	>SubCls16_1
+		>A/Wisconsin/56/2022	1069
+	>SubCls17_1
+		>A/SouthAfrica/R05753/2022	1025
+	>SubCls18_1
+		>A/Michigan/51/2022	1070
+	>SubCls19_1
+		>A/Tennessee/39/2022	1068
+>Cluster206_1
+	>A/SouthAfrica/R03702/2022	*	956
+>Cluster207_1
+	>A/StPetersburg/RII-2889S/2022	*	959
+>Cluster208_1
+	>A/StPetersburg/RII-2445S/2022	*	961
+>Cluster209_4
+	>SubCls1_1
+		>A/Bahrain/2386/2022	*	972
+	>SubCls2_1
+		>A/Philippines/19/2022	1028
+	>SubCls3_1
+		>A/Carmarthen/251/2022	962
+	>SubCls4_1
+		>A/Philippines/10/2022	1029
+>Cluster210_1
+	>A/Maldives/824/2022	*	965
+>Cluster211_1
+	>A/Parana/21702/2022	*	968
+>Cluster212_1
+	>A/Bahrain/9931/2021	*	975
+>Cluster213_1
+	>A/Tennessee/37/2022	*	981
+>Cluster214_1
+	>A/Tennessee/36/2022	*	982
+>Cluster215_1
+	>A/Georgia/5/2022	*	984
+>Cluster216_1
+	>A/Pakistan/955/2022	*	989
+>Cluster217_1
+	>A/Pakistan/6104/2022	*	992
+>Cluster218_1
+	>A/India/PUN-NIV324552/2021	*	1000
+>Cluster219_1
+	>A/Sydney/1307/2022	*	1009
+>Cluster220_1
+	>A/Kanagawa/IC1920/2020	*	1010
+>Cluster221_2
+	>SubCls1_1
+		>A/Romania/495584/2022	*	1011
+	>SubCls2_1
+		>A/Sydney/14/2022	1016
+>Cluster222_1
+	>A/Darwin/419/2022	*	1018
+>Cluster223_2
+	>SubCls1_1
+		>A/SouthAfrica/R04922/2022	*	1027
+	>SubCls2_1
+		>A/SouthAfrica/R08399/2022	1024
+>Cluster224_4
+	>SubCls1_2
+		>A/NewYork/PV20765/2021	*	1031
+		>A/NewYork/PV20745/2021	1032
+	>SubCls2_1
+		>A/Bangladesh/3210810034/2021	1050
+	>SubCls3_1
+		>A/AlMusannah/72128566/2021	1087
+>Cluster225_2
+	>SubCls1_1
+		>A/India/Pun-NIVSARI22501/2022	*	1036
+	>SubCls2_1
+		>A/Maldives/761/2022	1052
+>Cluster226_2
+	>SubCls1_1
+		>A/India/PUN-NIV319825/2021	*	1097
+	>SubCls2_1
+		>A/India/Pune-NIVCoV345232/2021	1037
+>Cluster227_1
+	>A/BritishColumbia/193/2022	*	1041
+>Cluster228_1
+	>A/Bahrain/4551/2022	*	1055
+>Cluster229_1
+	>A/Bahrain/7723/2022	*	1056
+>Cluster230_4
+	>SubCls1_1
+		>A/Bahrain/7319/2022	*	1057
+	>SubCls2_1
+		>A/Brisbane/2/2022	1118
+	>SubCls3_2
+		>A/Saskatchewan/RV00262/2022	1077
+		>A/Saskatchewan/RV00261/2022	1076
+>Cluster231_1
+	>A/Bahrain/9875/2022	*	1058
+>Cluster232_1
+	>A/Nepal/22FL2393/2022	*	1063
+>Cluster233_1
+	>A/Connecticut/1/2021	*	1072
+>Cluster234_1
+	>A/Pakistan/884/2022	*	1082
+>Cluster235_1
+	>A/Salalah/52222649/2022	*	1085
+>Cluster236_1
+	>A/India/Pune-Nivcov2220829/2022	*	1092
+>Cluster237_3
+	>SubCls1_2
+		>A/India/Pune-Nivcov2221170/2022	1094
+		>A/India/Pune-Nivsari_22_884/2022	*	1095
+	>SubCls2_1
+		>A/India/Pune-Nivsari_22_467/2022	1093
+>Cluster238_1
+	>A/Ancona/2/2021	*	1101
+>Cluster239_1
+	>A/Sydney/30/2022	*	1109
+>Cluster240_1
+	>A/Sydney/1240/2022	*	1112
+>Cluster241_1
+	>A/Sydney/835/2022	*	1113
+>Cluster242_1
+	>A/SaoPaulo/21607/2022	*	1115
+>Cluster243_20
+	>SubCls1_1
+		>A/Venezuela/620/2012	*	1183
+	>SubCls2_1
+		>A/Honduras/9720/2012	1186
+	>SubCls3_1
+		>A/Christchurch/3/2012	1188
+	>SubCls4_1
+		>A/Wisconsin/16/2012	1166
+	>SubCls5_1
+		>A/Boston/DOA90/2012	1152
+	>SubCls6_1
+		>A/PuertoRico/43/2012	1160
+	>SubCls7_1
+		>A/Peru/429/2012	1181
+	>SubCls8_2
+		>A/Nagano-C/21/2012	1177
+		>A/Texas/5/2012	1167
+	>SubCls9_1
+		>A/Norway/771/2012	1202
+	>SubCls10_1
+		>A/Peru/2023/2012	1182
+	>SubCls11_1
+		>A/Victoria/514/2012	1205
+	>SubCls12_1
+		>A/Singapore/DMS1231/2011	1140
+	>SubCls13_1
+		>A/Cambodia/V0902314/2011	1128
+	>SubCls14_1
+		>A/Tucuman/I192/2012	1158
+	>SubCls15_1
+		>A/Brisbane/57/2012	1210
+	>SubCls16_1
+		>A/Cambodia/V1005346/2011	1127
+	>SubCls17_1
+		>A/Utah/16/2012	1187
+	>SubCls18_1
+		>A/Brisbane/19/2012	1211
+	>SubCls19_1
+		>A/Lorraine/1257/2012	1120
+>Cluster244_2
+	>SubCls1_1
+		>A/Stockholm/30/2011	*	1121
+	>SubCls2_1
+		>A/Hiroshima/18/2012	1173
+>Cluster245_1
+	>A/Stockholm/27/2011	*	1122
+>Cluster246_1
+	>A/SriLanka/34/2011	*	1126
+>Cluster247_1
+	>A/Cambodia/V1019341/2011	*	1131
+>Cluster248_1
+	>A/Thailand/SN11667/2011	*	1133
+>Cluster249_60
+	>SubCls1_1
+		>A/Dakar/5/2013	*	1788
+	>SubCls2_1
+		>A/Hyogo/2002/2013	1756
+	>SubCls3_2
+		>A/Townsville/37/2012	1713
+		>A/Kyrgyzstan/220/2013	1693
+	>SubCls4_1
+		>A/Moscow/CRIE-31/2013	1678
+	>SubCls5_1
+		>A/XiaMen/SWL1427/2013	1732
+	>SubCls6_1
+		>A/Southaustralia/1/2013	1809
+	>SubCls7_1
+		>A/Thailand/SN10560/2011	1134
+	>SubCls8_1
+		>A/Dmanisi/823/2013	1702
+	>SubCls9_1
+		>A/NewHampshire/20/2012	1752
+	>SubCls10_1
+		>A/Longyan/SWL1334/2013	1734
+	>SubCls11_2
+		>A/Shimane/108/2013	1755
+		>A/Yamaguchi/36/2013	1754
+	>SubCls12_1
+		>A/CostaRica/5790/2013	1712
+	>SubCls13_2
+		>A/Yucatan/82/2013	1741
+		>A/Yucatan/138/2013	1740
+	>SubCls14_1
+		>A/England/621/2013	1739
+	>SubCls15_1
+		>A/Victoria/533/2013	1803
+	>SubCls16_1
+		>A/Singapore/TT093/2013	1801
+	>SubCls17_1
+		>A/Norway/2328/2013	1746
+	>SubCls18_1
+		>A/Vietnam/CM385/2013	1768
+	>SubCls19_1
+		>A/JiangsuGaoyou/SWL1141/2013	1726
+	>SubCls20_1
+		>A/Annaba/G687/2012	1700
+	>SubCls21_1
+		>A/Singapore/CGH001/2013	1710
+	>SubCls22_1
+		>A/HradecKralove/29/2013	1783
+	>SubCls23_1
+		>A/Lao/I766/2013	1764
+	>SubCls24_1
+		>A/England/353/2013	1738
+	>SubCls25_1
+		>A/Tokyo/32398/2013	1761
+	>SubCls26_1
+		>A/Nepal/184/2013	1743
+	>SubCls27_1
+		>A/Tbilisi/749/2013	1701
+	>SubCls28_1
+		>A/Mahajanga/1171/2013	1793
+	>SubCls29_1
+		>A/Norway/2388/2012	1796
+	>SubCls30_1
+		>A/Goroka/29/2013	1807
+	>SubCls31_1
+		>A/India/2227/2012	1749
+	>SubCls32_1
+		>A/HongKong/3972/2011	1196
+	>SubCls33_1
+		>A/Kanagawa/142/2013	1760
+	>SubCls34_1
+		>A/Toyama/65/2013	1759
+	>SubCls35_1
+		>A/Norway/2144/2012	1797
+	>SubCls36_1
+		>A/Pennsylvania/7/2013	1751
+	>SubCls37_1
+		>A/Goroka/4/2013	1808
+	>SubCls38_1
+		>A/India/2181/2012	1750
+	>SubCls39_1
+		>A/Oman/SQUH-44/2012	1674
+	>SubCls40_1
+		>A/Bangalore/3666-41/2012	1727
+	>SubCls41_1
+		>A/Texas/10/2013	1753
+	>SubCls42_1
+		>A/Kenya/259/2013	1679
+	>SubCls43_1
+		>A/Osaka/33/2013	1757
+	>SubCls44_1
+		>A/Darwin/104/2013	1802
+	>SubCls45_1
+		>A/GuangxiXixiangtang/SWL1578/2013	1780
+	>SubCls46_1
+		>A/Vietnam/184/2013	1690
+	>SubCls47_1
+		>A/Kenya/2917/2012	1774
+	>SubCls48_1
+		>A/Darwin/178/2010	1602
+	>SubCls49_1
+		>A/Bangladesh/8207/2013	1682
+	>SubCls50_1
+		>A/Missouri/3/2013	1748
+	>SubCls51_1
+		>A/Vietnam/3041/2013	1691
+	>SubCls52_1
+		>A/Lao/I177/2014	1762
+	>SubCls53_1
+		>A/Nepal/469/2013	1742
+	>SubCls54_1
+		>A/Cameroon/13V-1101/2013	1799
+	>SubCls55_1
+		>A/Hanoi/ELI13150/2013	1692
+	>SubCls56_1
+		>A/Vietnam/173/2013	1769
+	>SubCls57_1
+		>A/Helsinki/434/2013	1718
+>Cluster250_8
+	>SubCls1_1
+		>A/Brisbane/96/2012	*	1209
+	>SubCls2_1
+		>A/Auckland/64/2012	1214
+	>SubCls3_1
+		>A/KhonKaen/INS3_649/2012	1147
+	>SubCls4_1
+		>A/HongKong/7568/2012	1157
+	>SubCls5_1
+		>A/Singapore/DMS1243/2012	1139
+	>SubCls6_1
+		>A/Philippines/850/2011	1215
+	>SubCls7_1
+		>A/Thailand/KS10481/2012	1137
+	>SubCls8_1
+		>A/Yokohama/154/2012	1178
+>Cluster251_1
+	>A/Lima/INS3_678/2012	*	1146
+>Cluster252_3
+	>SubCls1_1
+		>A/SouthCarolina/NHRC361211/2012	*	1148
+	>SubCls2_1
+		>A/SouthCarolina/15/2012	1169
+	>SubCls3_1
+		>A/SouthCarolina/20/2012	1168
+>Cluster253_1
+	>A/Pernambuco/120924/2012	*	1151
+>Cluster254_1
+	>A/Grenoble/1772/2011	*	1159
+>Cluster255_1
+	>A/California/24/2011	*	1164
+>Cluster256_2
+	>SubCls1_1
+		>A/Saipan/6194/2012	*	1165
+	>SubCls2_1
+		>A/Nagano-C/3/2013	1176
+>Cluster257_1
+	>A/Idaho/16/2012	*	1170
+>Cluster258_1
+	>A/Kobe/206/2011	*	1174
+>Cluster259_1
+	>A/Kobe/636/2011	*	1175
+>Cluster260_1
+	>A/Uganda/617/2011	*	1184
+>Cluster261_1
+	>A/DominicanRepublic/6493/2012	*	1204
+>Cluster262_1
+	>A/Perth/194/2011	*	1207
+>Cluster263_38
+	>SubCls1_1
+		>A/Togo/173/2021	*	1251
+	>SubCls2_1
+		>A/Togo/312/2021	1246
+	>SubCls3_2
+		>A/Niger/8661/2020	1237
+		>A/Niger/8677/2021	1231
+	>SubCls4_1
+		>A/Togo/96/2021	1256
+	>SubCls5_1
+		>A/Togo/119/2021	1258
+	>SubCls6_1
+		>A/Togo/35/2021	1273
+	>SubCls7_3
+		>A/Niger/8673/2020	1239
+		>A/Niger/8247/2020	1233
+		>A/Niger/8309/2020	1236
+	>SubCls8_1
+		>A/Niger/8965/2021	1229
+	>SubCls9_1
+		>A/Niger/8315/2020	1238
+	>SubCls10_1
+		>A/Togo/263/2021	1248
+	>SubCls11_2
+		>A/Togo/805/2020	1261
+		>A/Nigeria/5070/2020	1221
+	>SubCls12_1
+		>A/Togo/298/2021	1249
+	>SubCls13_1
+		>A/SouthKorea/10340/2019	1275
+	>SubCls14_1
+		>A/Niger/8940/2021	1228
+	>SubCls15_1
+		>A/Ghana/138/2020	1306
+	>SubCls16_1
+		>A/Niger/8731/2021	1230
+	>SubCls17_1
+		>A/Togo/168/2021	1257
+	>SubCls18_1
+		>A/CoteDIvoire/1652/2021	1289
+	>SubCls19_1
+		>A/Niger/8327/2020	1235
+	>SubCls20_1
+		>A/Togo/495/2021	1272
+	>SubCls21_3
+		>A/Lao/472/2020	1294
+		>A/Lao/275/2020	1293
+		>A/Lao/158/2020	1295
+	>SubCls22_1
+		>A/Ghana/64/2021	1303
+	>SubCls23_1
+		>A/Togo/99/2021	1252
+	>SubCls24_1
+		>A/Togo/217/2021	1250
+	>SubCls25_1
+		>A/Tasmania/511/2020	1241
+	>SubCls26_1
+		>A/Togo/870/2020	1267
+	>SubCls27_1
+		>A/Nigeria/5072/2020	1222
+	>SubCls28_2
+		>A/Togo/284/2021	1247
+		>A/Togo/274/2021	1245
+	>SubCls29_1
+		>A/Togo/153/2021	1253
+	>SubCls30_1
+		>A/Togo/79/2021	1254
+	>SubCls31_1
+		>A/Ghana/1894/2021	1304
+>Cluster264_1
+	>A/Niger/8832/2021	*	1227
+>Cluster265_1
+	>A/Niger/8175/2020	*	1232
+>Cluster266_6
+	>SubCls1_1
+		>A/CoteDIvoire/1802/2021	*	1291
+	>SubCls2_1
+		>A/Togo/297/2021	1243
+	>SubCls3_1
+		>A/Togo/93/2021	1255
+	>SubCls4_1
+		>A/Togo/308/2021	1244
+	>SubCls5_1
+		>A/Niger/8306/2020	1234
+	>SubCls6_1
+		>A/CoteDIvoire/1502/2021	1288
+>Cluster267_1
+	>A/Niger/8318/2020	*	1240
+>Cluster268_1
+	>A/Macedonia/397/2020	*	1242
+>Cluster269_11
+	>SubCls1_10
+		>A/Togo/837/2020	1269
+		>A/Togo/869/2020	1268
+		>A/Togo/845/2020	*	1260
+		>A/Togo/858/2020	1263
+		>A/Togo/792/2020	1262
+		>A/Togo/865/2020	1264
+		>A/Togo/881/2020	1265
+		>A/Togo/852/2020	1266
+		>A/Togo/864/2020	1259
+		>A/Togo/839/2020	1270
+	>SubCls2_1
+		>A/Togo/878/2020	1271
+>Cluster270_2
+	>SubCls1_1
+		>A/SouthAfrica/R01964/2022	*	1483
+	>SubCls2_1
+		>A/Guam/11528/2020	1274
+>Cluster271_1
+	>A/Nagasaki/1/2022	*	1279
+>Cluster272_1
+	>A/Shiga/13/2020	*	1281
+>Cluster273_2
+	>SubCls1_1
+		>A/CoteDIvoire/1211/2021	*	1287
+	>SubCls2_1
+		>A/CoteDIvoire/1624/2021	1290
+>Cluster274_1
+	>A/Grenada/7222/2020	*	1292
+>Cluster275_1
+	>A/Ghana/1348/2021	*	1305
+>Cluster276_1
+	>A/ChiangMai/37/2020	*	1307
+>Cluster277_1
+	>A/India/Pun-NIV306112/2021	*	1310
+>Cluster278_1
+	>A/Nigeria/5058/2020	*	1311
+>Cluster279_3
+	>SubCls1_1
+		>A/CoteDIvoire/1953/2021	*	1352
+	>SubCls2_1
+		>A/CoteDIvoire/1448/2021	1350
+	>SubCls3_1
+		>A/Niger/8789/2021	1322
+>Cluster280_2
+	>SubCls1_1
+		>A/Mozambique/1141/2020	*	1323
+	>SubCls2_1
+		>A/CoteDIvoire/1566/2021	1454
+>Cluster281_1
+	>A/Togo/175/2021	*	1328
+>Cluster282_2
+	>A/Bahrain/578/2019	*	1332
+	>A/Bahrain/525/2019	1331
+>Cluster283_1
+	>A/Bahrain/264/2019	*	1333
+>Cluster284_2
+	>SubCls1_1
+		>A/Congo/9764/2019	*	1334
+	>SubCls2_1
+		>A/Congo/9782/2019	1335
+>Cluster285_1
+	>A/Congo/9781/2019	*	1336
+>Cluster286_2
+	>A/Nagasaki/7/2020	*	1343
+	>A/Nagasaki/8/2020	1367
+>Cluster287_1
+	>A/NorthCarolina/1/2021	*	1349
+>Cluster288_1
+	>A/CoteDIvoire/2811/2021	*	1353
+>Cluster289_1
+	>A/India/5/2020	*	1361
+>Cluster290_1
+	>A/AbuDhabi/48/2019	*	1369
+>Cluster291_1
+	>A/Malaysia/RP0053/2020	*	1394
+>Cluster292_1
+	>A/Myanmar/19M064/2019	*	1395
+>Cluster293_2
+	>A/Paris/30589/2021	*	1487
+	>A/Chambery/831/2021	1411
+>Cluster294_8
+	>SubCls1_1
+		>A/CoteDIvoire/1800/2021	*	1458
+	>SubCls2_2
+		>A/CoteDIvoire/1565/2021	1456
+		>A/CoteDIvoire/1499/2021	1452
+	>SubCls3_1
+		>A/CoteDIvoire/1620/2021	1463
+	>SubCls4_1
+		>A/CoteDIvoire/1501/2021	1455
+	>SubCls5_1
+		>A/CoteDIvoire/1650/2021	1459
+	>SubCls6_1
+		>A/Abidjan/458/2021	1412
+	>SubCls7_1
+		>A/CoteDIvoire/1270/2021	1457
+>Cluster295_1
+	>A/Niger/10073/2021	*	1415
+>Cluster296_6
+	>SubCls1_1
+		>A/California/90/2022	*	1446
+	>SubCls2_1
+		>A/SantaCatarina/22298/2022	1427
+	>SubCls3_1
+		>A/Argentina/3069/2022	1472
+	>SubCls4_1
+		>A/Argentina/3082/2022	1473
+	>SubCls5_1
+		>A/Guyane/382/2022	1451
+	>SubCls6_1
+		>A/Argentina/3065/2022	1471
+>Cluster297_1
+	>A/Zambia/4480/2022	*	1430
+>Cluster298_5
+	>A/Togo/246/2021	*	1435
+	>A/Togo/167/2021	1441
+	>A/Togo/304/2021	1434
+	>A/Togo/275/2021	1438
+	>A/Togo/285/2021	1437
+>Cluster299_1
+	>A/Togo/212/2021	*	1436
+>Cluster300_1
+	>A/Congo/8/2022	*	1443
+>Cluster301_2
+	>SubCls1_1
+		>A/Argentina/R13/2021	*	1474
+	>SubCls2_1
+		>A/Catalonia/NSVH101748606/2022	1444
+>Cluster302_1
+	>A/CoteDIvoire/1060/2021	*	1453
+>Cluster303_1
+	>A/CoteDIvoire/1618/2021	*	1462
+>Cluster304_1
+	>A/CoteDIvoire/2943/2021	*	1465
+>Cluster305_1
+	>A/Ghana/755/2021	*	1478
+>Cluster306_1
+	>A/Brisbane/50/2022	*	1482
+>Cluster307_1
+	>A/Netherlands/11660/2022	*	1491
+>Cluster308_1
+	>A/Pennsylvania/37/2022	*	1500
+>Cluster309_1
+	>A/Stockholm/27/2012	*	1515
+>Cluster310_4
+	>SubCls1_1
+		>A/Neuquen/50677674/2011	*	1592
+	>SubCls2_1
+		>A/Lima/INS3_671/2012	1538
+	>SubCls3_1
+		>A/Boras/1/2012	1516
+	>SubCls4_1
+		>A/Salta/1341/2012	1589
+>Cluster311_3
+	>SubCls1_1
+		>A/Nicaragua/AGA2-53/2011	*	1518
+	>SubCls2_1
+		>A/Nicaragua/AGA2-50/2011	1519
+	>SubCls3_1
+		>A/Nicaragua/AGA2-73/2011	1520
+>Cluster312_1
+	>A/Tennessee/F2014/2011	*	1524
+>Cluster313_1
+	>A/India/Nsk12388/2012	*	1526
+>Cluster314_4
+	>SubCls1_1
+		>A/SaoPaulo/12-7122/2013	*	1539
+	>SubCls2_1
+		>A/Kyoto-C/3/2012	1564
+	>SubCls3_1
+		>A/Para/121882/2013	1540
+	>SubCls4_1
+		>A/Osaka/UT-A01/2013	1547
+>Cluster315_3
+	>SubCls1_1
+		>A/Tanzania/2074/2012	*	1573
+	>SubCls2_1
+		>A/Taiwan/254/2012	1612
+	>SubCls3_1
+		>A/Japan/2951/2012	1542
+>Cluster316_2
+	>SubCls1_1
+		>A/Bangladesh/5011/2012	*	1548
+	>SubCls2_1
+		>A/Bangladesh/8399/2012	1550
+>Cluster317_1
+	>A/Bangladesh/5005/2012	*	1549
+>Cluster318_1
+	>A/Bangladesh/9751/2011	*	1552
+>Cluster319_7
+	>SubCls1_1
+		>A/Brazil/3479/2012	*	1569
+	>SubCls2_1
+		>A/Corrientes/69727/2012	1554
+	>SubCls3_1
+		>A/Brazil/1203/2012	1570
+	>SubCls4_1
+		>A/Catamarca/R4297/2012	1591
+	>SubCls5_1
+		>A/SantaFe/1667/2012	1588
+	>SubCls6_1
+		>A/Argentina/1033/2012	1587
+	>SubCls7_1
+		>A/Colombia/1400/2011	1609
+>Cluster320_2
+	>SubCls1_1
+		>A/Perth/382/2010	*	1604
+	>SubCls2_1
+		>A/PuertoRico/2/2011	1556
+>Cluster321_1
+	>A/Virginia/13/2012	*	1557
+>Cluster322_1
+	>A/Hawaii/5/2011	*	1558
+>Cluster323_1
+	>A/Maryland/31/2012	*	1561
+>Cluster324_1
+	>A/Saitama/80/2012	*	1566
+>Cluster325_2
+	>SubCls1_1
+		>A/Florida/38/2012	*	1580
+	>SubCls2_1
+		>A/Brazil/5672/2012	1568
+>Cluster326_2
+	>SubCls1_1
+		>A/Paraguay/114/2012	*	1575
+	>SubCls2_1
+		>A/Paraguay/177/2012	1574
+>Cluster327_1
+	>A/Kenya/4494/2011	*	1578
+>Cluster328_1
+	>A/Kenya/1179/2011	*	1579
+>Cluster329_1
+	>A/Misiones/7214/2012	*	1590
+>Cluster330_3
+	>SubCls1_1
+		>A/Fiji/4/2012	*	1593
+	>SubCls2_1
+		>A/Fiji/3/2012	1595
+	>SubCls3_1
+		>A/Fiji/2/2012	1594
+>Cluster331_1
+	>A/Georgia/484/2012	*	1596
+>Cluster332_1
+	>A/RiodeJaneiro/4/2013	*	1599
+>Cluster333_1
+	>A/RiodeJaneiro/105/2013	*	1600
+>Cluster334_2
+	>SubCls1_1
+		>A/Darwin/56/2013	*	1601
+	>SubCls2_1
+		>A/Christchurch/513/2013	1605
+>Cluster335_1
+	>A/Perth/293/2011	*	1603
+>Cluster336_1
+	>A/Taiwan/988/2012	*	1613
+>Cluster337_1
+	>A/Stockholm/28/2012	*	1614
+>Cluster338_1
+	>A/Singapore/DMS1237/2012	*	1618
+>Cluster339_1
+	>A/Lebanon/11L008/2011	*	1626
+>Cluster340_1
+	>A/Bangladesh/6382/2013	*	1627
+>Cluster341_1
+	>A/Bangladesh/3348/2012	*	1629
+>Cluster342_1
+	>A/Bangladesh/1329/2012	*	1630
+>Cluster343_1
+	>A/Bangladesh/2/2012	*	1633
+>Cluster344_4
+	>SubCls1_1
+		>A/Ethiopia/186/2012	*	1646
+	>SubCls2_1
+		>A/Indonesia/1349_S44_L001/2013	1634
+	>SubCls3_1
+		>A/Indonesia/1279_S66_L001/2012	1637
+	>SubCls4_1
+		>A/Indonesia/1269_S89_L001/2012	1636
+>Cluster345_1
+	>A/Indonesia/1224_S64_L001/2012	*	1635
+>Cluster346_1
+	>A/Indonesia/1267_S77_L001/2012	*	1638
+>Cluster347_1
+	>A/Shimane/72/2012	*	1642
+>Cluster348_2
+	>A/Indonesia/NIHRDI-PAL102/2012	*	1645
+	>A/Indonesia/Nihrdi-Pal102/2012	1653
+>Cluster349_1
+	>A/Uganda/1744/2016	*	1647
+>Cluster350_1
+	>A/Singapore/11/2012	*	1654
+>Cluster351_1
+	>A/Houston/JMM_171/2013	*	1666
+>Cluster352_1
+	>A/Houston/JMM_64/2012	*	1667
+>Cluster353_1
+	>A/Tehran/55774/2013	*	1677
+>Cluster354_1
+	>A/Kenya/262/2013	*	1681
+>Cluster355_1
+	>A/Vietnam/91/2013	*	1689
+>Cluster356_1
+	>A/Ghana/FS-14-1069/2014	*	1703
+>Cluster357_4
+	>A/Ghana/DILI-0620/2014	*	1706
+	>A/Ghana/DILI-0618/2014	1707
+	>A/Ghana/DILI-14-0582/2014	1705
+	>A/Ghana/DILI-14-0620/2014	1704
+>Cluster358_1
+	>A/Ghana/DARI-0095/2014	*	1708
+>Cluster359_2
+	>SubCls1_1
+		>A/Cameroon/6450/2013	*	1709
+	>SubCls2_1
+		>A/Sydney/7/2013	1791
+>Cluster360_1
+	>A/Skovde/3/2013	*	1714
+>Cluster361_16
+	>SubCls1_1
+		>A/Shiga/38/2013	*	1758
+	>SubCls2_1
+		>A/CoteDIvoire/1926/2013	1765
+	>SubCls3_1
+		>A/Tanzania/2131/2012	1771
+	>SubCls4_1
+		>A/Nanping/SWL1640/2013	1731
+	>SubCls5_1
+		>A/CoteDIvoire/12/2014	1766
+	>SubCls6_1
+		>A/XiaMen/SWL1352/2013	1733
+	>SubCls7_1
+		>A/Gansu-Ganzhou/SWL34/2012	1723
+	>SubCls8_1
+		>A/Kenya/128/2013	1773
+	>SubCls9_1
+		>A/Dakar/3/2013	1789
+	>SubCls10_1
+		>A/Stavropol/CRIE-41/2013	1737
+	>SubCls11_1
+		>A/Gansu-Ganzhou/35/2012	1778
+	>SubCls12_1
+		>A/Perth/111/2013	1804
+	>SubCls13_1
+		>A/Dakar/15/2013	1790
+	>SubCls14_1
+		>A/Hangzhou/A75/2013	1745
+	>SubCls15_1
+		>A/Yamagata/266/2012	1812
+	>SubCls16_1
+		>A/Vietnam/13VH1-6/2013	1715
+>Cluster362_1
+	>A/Vietnam/13VH1-5/2013	*	1716
+>Cluster363_1
+	>A/Vietnam/13VH1-1/2013	*	1717
+>Cluster364_4
+	>SubCls1_1
+		>A/Gambia/G0136336/2013	*	1719
+	>SubCls2_3
+		>A/Gambia/G0123440/2013	1720
+		>A/Gambia/G0123336/2013	1722
+		>A/Gambia/G0123340/2013	1721
+>Cluster365_1
+	>A/JiangsuNanchang/SWL1100/2013	*	1725
+>Cluster366_2
+	>SubCls1_1
+		>A/Longyan/SWL1529/2013	*	1730
+	>SubCls2_1
+		>A/Longyan/SWL1604/2013	1729
+>Cluster367_2
+	>A/Zhangzhou/SWL32/2013	*	1736
+	>A/Zhangzhou/SWL31/2013	1735
+>Cluster368_1
+	>A/Lao/O031/2013	*	1763
+>Cluster369_1
+	>A/Norway/2485/2013	*	1767
+>Cluster370_1
+	>A/Suriname/24/2013	*	1770
+>Cluster371_1
+	>A/Oman/412/2012	*	1772
+>Cluster372_1
+	>A/Utah/5/2013	*	1775
+>Cluster373_1
+	>A/Guizhou-Qingzhen/SWL1251/2013	*	1779
+>Cluster374_1
+	>A/Cameroon/3234/2013	*	1781
+>Cluster375_1
+	>A/Argentina/102/2013	*	1782
+>Cluster376_4
+	>SubCls1_1
+		>A/Dakar/6/2014	*	1785
+	>SubCls2_1
+		>A/Dakar/7/2014	1787
+	>SubCls3_1
+		>A/Dakar/8/2014	1786
+	>SubCls4_1
+		>A/Niakhar/2685/2013	1784
+>Cluster377_1
+	>A/Belgrade/1519/2013	*	1792
+>Cluster378_2
+	>SubCls1_1
+		>A/Madagascar/1708/2013	*	1794
+	>SubCls2_1
+		>A/Madagascar/1430/2013	1795
+>Cluster379_1
+	>A/Cameroon/13V-2476/2013	*	1798
+>Cluster380_1
+	>A/Singapore/GP335/2013	*	1800
+>Cluster381_1
+	>A/Brisbane/40/2013	*	1805
+>Cluster382_1
+	>A/SouthAfrica/4706/2013	*	1810
+>Cluster383_1
+	>A/Centre/1517/2013	*	1811
+>Cluster384_1
+	>A/India/P131845/2013	*	1818
+>Cluster385_1
+	>A/India/Pun1415432/2014	*	1819
+>Cluster386_1
+	>A/Tehran/53422/2013	*	1822
+>Cluster387_1
+	>A/Mozambique/IR418/2015	*	1829
+>Cluster388_1
+	>A/Bangladesh/3407/2013	*	1830
+>Cluster389_2
+	>SubCls1_1
+		>A/DistritoFederal/75593/2014	*	1918
+	>SubCls2_1
+		>A/SaoPaulo/6-15164/2014	1831
+>Cluster390_1
+	>A/SaoPaulo/3-32420/2014	*	1833
+>Cluster391_1
+	>A/Bahrain/231/2013	*	1840
+>Cluster392_1
+	>A/Austria/71/2014	*	1843
+>Cluster393_4
+	>SubCls1_2
+		>A/HongKong/8112398/2015	1880
+		>A/HongKong/8111529/2015	*	1881
+	>SubCls2_1
+		>A/Kanagawa/165/2014	1854
+	>SubCls3_1
+		>A/Kanagawa/163/2014	1876
+>Cluster394_1
+	>A/Brazil/8301/2014	*	1861
+>Cluster395_1
+	>A/Lao/830/2015	*	1870
+>Cluster396_1
+	>A/India/5964/2014	*	1874
+>Cluster397_1
+	>A/Singapore/TT1061/2013	*	1882
+>Cluster398_1
+	>A/Srilanka/61/2013	*	1892
+>Cluster399_1
+	>A/SouthAustralia/26/2015	*	1900
+>Cluster400_1
+	>A/Malaysia/2/2014	*	1910
+>Cluster401_16
+	>SubCls1_1
+		>A/Ningbo/75/2021	*	1916
+	>SubCls2_1
+		>A/Brisbane/182/2015	1990
+	>SubCls3_1
+		>A/Darwin/11/2015	1985
+	>SubCls4_1
+		>A/Stockholm/38/2015	1913
+	>SubCls5_1
+		>A/Singapore/KK751/2015	1977
+	>SubCls6_1
+		>A/Darwin/14/2015	1984
+	>SubCls7_1
+		>A/Sydney/185/2015	1970
+	>SubCls8_2
+		>A/Brisbane/137/2015	1989
+		>A/Perth/103/2015	1988
+	>SubCls9_1
+		>A/Tasmania/66/2015	1968
+	>SubCls10_1
+		>A/Israel/Q-504/2015	1982
+	>SubCls11_1
+		>A/Vietnam/6024/2016	1945
+	>SubCls12_1
+		>A/Jordan/20636/2015	1923
+	>SubCls13_1
+		>A/Indiana/21/2016	1935
+	>SubCls14_1
+		>A/Darwin/20/2015	1983
+	>SubCls15_1
+		>A/Cambodia/A0621545/2016	1997
+>Cluster402_2
+	>SubCls1_1
+		>A/Norway/2320/2015	*	2080
+	>SubCls2_1
+		>A/Bahrain/602/2014	1919
+>Cluster403_2
+	>SubCls1_1
+		>A/Jordan/20363/2014	*	1922
+	>SubCls2_1
+		>A/Lorestan/89914/2014	1972
+>Cluster404_10
+	>SubCls1_4
+		>A/Beijing-Huairou/SWL120/2016	1959
+		>A/Jiangsu-Quanshan/SWL118/2016	*	1960
+		>A/Shanghai-Jiading/1970/2015	1955
+		>A/Shanghai-Changning/SWL1988/2015	1925
+	>SubCls2_1
+		>A/Iowa/53/2015	1934
+	>SubCls3_1
+		>A/Victoria/503/2016	1986
+	>SubCls4_1
+		>A/Jiangsu-Jurong/SWL1521/2016	1957
+	>SubCls5_1
+		>A/Shanghai-Putuo/SWL1860/2015	1958
+	>SubCls6_1
+		>A/Singapore/INFTT-16-0285/2016	1975
+	>SubCls7_1
+		>A/SouthAustralia/28/2016	1999
+>Cluster405_1
+	>A/Minnesota/32/2015	*	1929
+>Cluster406_1
+	>A/Minnesota/15/2014	*	1930
+>Cluster407_1
+	>A/Minnesota/8/2014	*	1931
+>Cluster408_1
+	>A/Vietnam/6027/2016	*	1946
+>Cluster409_2
+	>SubCls1_1
+		>A/Guangdong-Dongwanbendi/SWL1188/2014	*	2139
+	>SubCls2_1
+		>A/SaudiArabia/78085/2015	1947
+>Cluster410_2
+	>A/Oman/4941/2014	*	1949
+	>A/Oman/4902/2014	1950
+>Cluster411_2
+	>SubCls1_1
+		>A/Lao/389/2015	*	1951
+	>SubCls2_1
+		>A/Brisbane/34/2014	2199
+>Cluster412_1
+	>A/India/1214/2015	*	1954
+>Cluster413_1
+	>A/Shanghai-Putuo/1860/2015	*	1956
+>Cluster414_1
+	>A/Samsun/80/2015	*	1965
+>Cluster415_1
+	>A/NewCaledonia/33/2016	*	1998
+>Cluster416_2
+	>SubCls1_1
+		>A/Taiwan/1093/2015	*	2006
+	>SubCls2_1
+		>A/Taiwan/488/2016	2005
+>Cluster417_1
+	>A/Taiwan/739/2015	*	2007
+>Cluster418_1
+	>A/Mali/90/2016	*	2017
+>Cluster419_1
+	>A/Congo/691/2016	*	2023
+>Cluster420_1
+	>A/Mie/15/2015	*	2038
+>Cluster421_1
+	>A/Morocco/161/2015	*	2044
+>Cluster422_4
+	>SubCls1_1
+		>A/Canberra/47/2015	*	2084
+	>SubCls2_1
+		>A/Norway/3023/2014	2157
+	>SubCls3_1
+		>A/Sydney/215/2015	2070
+	>SubCls4_1
+		>A/SouthAuckland/33/2015	2056
+>Cluster423_1
+	>A/Antananarivo/3825/2016	*	2076
+>Cluster424_1
+	>A/Maevatanana/4194/2015	*	2077
+>Cluster425_1
+	>A/Singapore/TT944/2015	*	2085
+>Cluster426_1
+	>A/DominicanRepublic/9333/2015	*	2086
+>Cluster427_1
+	>A/Victoria/122/2014	*	2093
+>Cluster428_2
+	>SubCls1_1
+		>A/Victoria/535/2014	*	2095
+	>SubCls2_1
+		>A/SaoPaulo/87092/2013	2136
+>Cluster429_1
+	>A/Newcaledonia/26/2014	*	2099
+>Cluster430_1
+	>A/Taiwan/681/2015	*	2106
+>Cluster431_1
+	>A/Nanping/SWL1124/2014	*	2129
+>Cluster432_1
+	>A/India/159/2014	*	2133
+>Cluster433_1
+	>A/Bahrain/575/2014	*	2140
+>Cluster434_1
+	>A/RheinlandPfalz/14/2014	*	2141
+>Cluster435_1
+	>A/Nepal/688/2015	*	2147
+>Cluster436_5
+	>SubCls1_1
+		>A/Georgia/622/2014	*	2191
+	>SubCls2_1
+		>A/Khabarovsk/6/2014	2207
+	>SubCls3_1
+		>A/Chita/655/2014	2172
+	>SubCls4_2
+		>A/Vladivostok/331/2014	2174
+		>A/Vladivostok/121/2014	2168
+>Cluster437_1
+	>A/Chita/1114/2014	*	2173
+>Cluster438_1
+	>A/Jilin-Tiexi/SWL1189/2015	*	2183
+>Cluster439_1
+	>A/Taiwan/1036/2015	*	2205
+>Cluster440_1
+	>A/Luxembourg/LNS6045131/2022	*	2214
