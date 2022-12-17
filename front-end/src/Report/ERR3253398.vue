@@ -59,7 +59,7 @@
 
       <div class="auspice1 rpc" style="margin-top:18px; margin-bottom:18px;">
         <h5> 5. The auspice page of identified strain(s)</h5>
-        <iframe src="https://strain.ee.cityu.edu.hk/HBV?s=MK720631.1，MK720628.1" scrolling="auto" frameborder="0" style="width: 100%;height: 700px;"></iframe>
+        <iframe src="https://strain.ee.cityu.edu.hk/HBV?s=MK720631.1,MK720628.1" scrolling="auto" frameborder="0" style="width: 100%;height: 700px;"></iframe>
 <!--        &nbsp;&nbsp;&nbsp;&nbsp;<b-button style="width: 10%; font-size: 18px !important;" variant="primary" v-on:click="gotosite_nextstrain()"> <i class="fa fa-arrow-right"></i>&nbsp;Go!</b-button>-->
       </div>
 
