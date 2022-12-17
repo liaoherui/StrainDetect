@@ -165,7 +165,10 @@ def detect(npz_1,npz_2,db_name):
 		map_rate=np.sum(tem*weighted_freq_arr)
 		dmap_rate[ele[0]]=map_rate
 		ds_num[ele[0]]=str(map_c)+'/'+str(raw_c)
-		dmr[ele[0]]=float(map_c)/float(raw_c)
+		if raw_c==0:
+			dmr[ele[0]]=0
+		else:
+			dmr[ele[0]]=float(map_c)/float(raw_c)
 		ds_pos[ele[0]]=tem
 		ds_freq[ele[0]]=nt
 	## Get average depth of this strain ##
@@ -603,7 +606,8 @@ def detect(npz_1,npz_2,db_name):
 					#if vm1st[n]<5:continue
 					if c>1:
 						#if dmap_rate[n]<dmap_rate[mp_strain[0]]-0.05:continue
-						if dmap_rate[n]<0.8:continue
+						if not db_name=='Dengue':
+							if dmap_rate[n]<0.8:continue
 					new_op_strain.append(n)
 					tem_c+=1
 					#input_x.append(ds_pos[n])
@@ -911,10 +915,10 @@ def detect(npz_1,npz_2,db_name):
 
 
 
-	o1=open('tem_json_1.txt','w+')
-	o1.write(str(out_json['ms_snp']['data']))
-	o2=open('tem_json_2.txt','w+')
-	o2.write(str(out_json['ms_snp']['carr']))
+	#o1=open('tem_json_1.txt','w+')
+	#o1.write(str(out_json['ms_snp']['data']))
+	#o2=open('tem_json_2.txt','w+')
+	#o2.write(str(out_json['ms_snp']['carr']))
 	return out_json,target
 	'''
 	res=sorted(dmr.items(),key=lambda d:d[1],reverse=True)

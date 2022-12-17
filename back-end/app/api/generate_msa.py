@@ -3,6 +3,7 @@ import os
 
 def gmsa(in_json,md5_code,odir,vtype):
 	in_json['msa_link']='/static/'+md5_code+'.html'
+	msa_dir='/static/'+md5_code+'.html'
 	o=open(odir+'/'+md5_code+'.html','w+')
 	tstrain=[] # Ref+MP+OP
 	tstrain.append(in_json['ref']['sid'])
@@ -124,5 +125,6 @@ def gmsa(in_json,md5_code,odir,vtype):
 	'''
 	o.write(p1+'\nvar fasta="'+out_str+'";\n'+p2)
 	o.close()
+	#return msa_dir
 
 #gmsa({'ref':{'sid':'>EPI_ISL_416632'},'mps':{'sid':'>EPI_ISL_4036644'},'ops':[]},'test','./','SCOV2')
