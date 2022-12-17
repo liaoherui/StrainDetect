@@ -19,7 +19,7 @@
 
       <div class="info rpc" style="margin-top:20px;">
         <h5> 2. Detailed information about identified strain(s)</h5>
-<!--	<b-card class="text-left" bg-variant="light">-->
+        <!--	<b-card class="text-left" bg-variant="light">-->
         <div >
           <br>
           <p style=" font-size: 20px;"> The reference strain (Ref), most possible strain (MP) and other possible strains (OP).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,9 +50,9 @@
           </vue-json-to-csv>
 
         </h5>
-      <Plotly :data="data1" :layout="layout1" ></Plotly>
-        </div>
-<!--	<b-card class="text-left" bg-variant="dark" text-variant="white">-->
+        <Plotly :data="data1" :layout="layout1" ></Plotly>
+      </div>
+      <!--	<b-card class="text-left" bg-variant="dark" text-variant="white">-->
 
       <div class="msa rpc" style="margin-top:18px;">
         <h5> 4. The msa alignment visualization of identified strain(s)</h5>
@@ -68,21 +68,21 @@
         <!--        &nbsp;&nbsp;&nbsp;&nbsp;<b-button style="width: 10%; font-size: 18px !important;" variant="primary" v-on:click="gotosite_nextstrain()"> <i class="fa fa-arrow-right"></i>&nbsp;Go!</b-button>-->
       </div>
 
-<!--      <div class="auspice rpc" style="margin-top:20px;">-->
-<!--                <h5> 5. The auspice dashboard of viral strains</h5>-->
-<!--        &nbsp;<iframe src="http://localhost:4000/ncov/SRR15224359" scrolling="auto" frameborder="0" style="width: 100%;height: 700px;"></iframe>-->
-<!--                  </div>-->
-<!--                 </b-card>-->
+      <!--      <div class="auspice rpc" style="margin-top:20px;">-->
+      <!--                <h5> 5. The auspice dashboard of viral strains</h5>-->
+      <!--        &nbsp;<iframe src="http://localhost:4000/ncov/SRR15224359" scrolling="auto" frameborder="0" style="width: 100%;height: 700px;"></iframe>-->
+      <!--                  </div>-->
+      <!--                 </b-card>-->
 
 
 
       <!--                <b-card class="text-left" bg-variant="dark" text-variant="white">-->
 
 
-<!--                 </b-card>-->
+      <!--                 </b-card>-->
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
-</div>
+  </div>
 
 </template>
 
@@ -98,36 +98,36 @@ import VueJsonToCsv from 'vue-json-to-csv'
 
 
 export default {
-name: 'Result',
-data(){
-return{
-   _beforeUnload_time:0,
-   _gap_time:0,
-   tem_json:'',
-  msaSrc: null,
-  nxtSrc: null,
-  // labelStyles: {
-  //   EPI_ISL_4036644: {
-  //     color: 'white',
-  //     background: 'red',
-  //     borderWidth: 0
-  //   },
-  //   EPI_ISL_416632: {
-  //     color: 'white',
-  //     background: 'blue',
-  //     borderWidth: 0
-  //   }
-  // },
-  // nodeStyles: {
-  //   EPI_ISL_4036644: {
-  //     size: 5,
-  //     fill: 'red'
-  //   },
-  //   EPI_ISL_416632: {
-  //     size: 5,
-  //     fill: 'blue'
-  //   }
-  // },
+  name: 'Result',
+  data(){
+    return{
+      _beforeUnload_time:0,
+      _gap_time:0,
+      tem_json:'',
+      msaSrc: null,
+      nxtSrc: null,
+      // labelStyles: {
+      //   EPI_ISL_4036644: {
+      //     color: 'white',
+      //     background: 'red',
+      //     borderWidth: 0
+      //   },
+      //   EPI_ISL_416632: {
+      //     color: 'white',
+      //     background: 'blue',
+      //     borderWidth: 0
+      //   }
+      // },
+      // nodeStyles: {
+      //   EPI_ISL_4036644: {
+      //     size: 5,
+      //     fill: 'red'
+      //   },
+      //   EPI_ISL_416632: {
+      //     size: 5,
+      //     fill: 'blue'
+      //   }
+      // },
 //    fields0:[
 //      {key: 'sid',sortable: false,'label':'Strain ID'},
 //      {key: 'sinfo',sortable: false,'label':'Metadata'},
@@ -135,19 +135,19 @@ return{
 //      {key: 'sac',sortable: false,'label':'Accession'},
 // ],
 // items0:[],
-   fields1:[
-     {key: 'stype',sortable: false,'label':'Strain Type'},
-     {key: 'sid',sortable: false,'label':'Strain ID'},
-     {key: 'cls',sortable: false,'label':'Strain Cls'},
-     {key: 'mpscore',sortable: true,'label':'Mapping score'},
-     {key: 'vmr',sortable: true,'label':'Valid map rate'},
-     {key: 'tmr',sortable: true,'label':'Total map rate'},
-     {key: 'sdepth',sortable: true,'label':'Predicted depth'},
-     {key: 'sinfo',sortable: false,'label':'Metadata'},
-     {key: 'slink',sortable: false,'label':'Download Link'},
-     {key: 'sac',sortable: false,'label':'Accession'},
-],
-items1:[],
+      fields1:[
+        {key: 'stype',sortable: false,'label':'Strain Type'},
+        {key: 'sid',sortable: false,'label':'Strain ID'},
+        {key: 'cls',sortable: false,'label':'Strain Cls'},
+        {key: 'mpscore',sortable: true,'label':'Mapping score'},
+        {key: 'vmr',sortable: true,'label':'Valid map rate'},
+        {key: 'tmr',sortable: true,'label':'Total map rate'},
+        {key: 'sdepth',sortable: true,'label':'Predicted depth'},
+        {key: 'sinfo',sortable: false,'label':'Metadata'},
+        {key: 'slink',sortable: false,'label':'Download Link'},
+        {key: 'sac',sortable: false,'label':'Accession'},
+      ],
+      items1:[],
 //  fields2:[
 //      {key: 'sid',sortable: false,'label':'Strain ID'},
 //      {key: 'cls',sortable: false,'label':'Strain Cls'},
@@ -160,108 +160,108 @@ items1:[],
 //      {key: 'sac',sortable: false,'label':'Accession'},
 // ],
 // items2:[],
-data1:[],
+      data1:[],
 
-layout1:{
-showlegend:true,
-title:'K-mer hits of most possible strain',
-xaxis:{
-	tickangle:60,
-	tickfont:{size: 8,color: '#bc6f98'},
-                 type: "category",
-	categoryorder: "array",
-	categoryarray:[]
-},
-yaxis:{title:'Hit'}
-},
-  data2:[],
-    layout2:{
-    showlegend:true,
-      title:'Predicted depth of identified strain(s)',
-      xaxis:{
-      tickangle:60,
-        tickfont:{size: 12,color: '#bc6f98'},
-      categoryorder: "array",
-        categoryarray:[]
-    },
-    yaxis:{title:'Sequencing depth'}
+      layout1:{
+        showlegend:true,
+        title:'K-mer hits of most possible strain',
+        xaxis:{
+          tickangle:60,
+          tickfont:{size: 8,color: '#bc6f98'},
+          type: "category",
+          categoryorder: "array",
+          categoryarray:[]
+        },
+        yaxis:{title:'Hit'}
+      },
+      data2:[],
+      layout2:{
+        showlegend:true,
+        title:'Predicted depth of identified strain(s)',
+        xaxis:{
+          tickangle:60,
+          tickfont:{size: 12,color: '#bc6f98'},
+          categoryorder: "array",
+          categoryarray:[]
+        },
+        yaxis:{title:'Sequencing depth'}
+      },
+      data3:[],
+      layout3:{
+        title:'Relative abundance of identified strain(s)'
+      }
+    }
   },
-  data3:[],
-    layout3:{
-    title:'Relative abundance of identified strain(s)'
-  }
-}
-},
-components:{
- 'b-table':BTable,
-  Plotly,
-  'vue-json-to-csv':VueJsonToCsv
-  // 'Phylogram':VuePhylogram
-},
-mounted(){
-window.addEventListener('beforeunload', e=>this.beforeunloadHandler(e));
-window.addEventListener('unload', e=>this.set());
-},
-destroyed(){
-window.removeEventListener('beforeunload', e=>this.beforeunloadHandler(e));
-window.removeEventListener('unload', e=>this.set());
-},
+  components:{
+    'b-table':BTable,
+    Plotly,
+    'vue-json-to-csv':VueJsonToCsv
+    // 'Phylogram':VuePhylogram
+  },
+  mounted(){
+    window.addEventListener('beforeunload', e=>this.beforeunloadHandler(e));
+    window.addEventListener('unload', e=>this.set());
+  },
+  destroyed(){
+    window.removeEventListener('beforeunload', e=>this.beforeunloadHandler(e));
+    window.removeEventListener('unload', e=>this.set());
+  },
 
-methods:{
-   set(){
-     const path="https://strain.ee.cityu.edu.hk/api/remove_json"
-     this.tem_json=this.$route.params.nxt
-     var val= this.tem_json
-     var formData = new FormData()
-     formData.append("tem_json", val)
-     this._gap_time=new Date().getTime() - this._beforeUnload_time
-     if (this._gap_time<=5){
-      axios.post(path,formData,{headers:{'Content-Type': 'multipart/form-data'}})
-     }
+  methods:{
+    set(){
+      const path="https://strain.ee.cityu.edu.hk/api/remove_json"
+      this.tem_json=this.$route.params.nxt
+      var val= this.tem_json
+      var formData = new FormData()
+      formData.append("tem_json", val)
+      this._gap_time=new Date().getTime() - this._beforeUnload_time
+      if (this._gap_time<=5){
+        axios.post(path,formData,{headers:{'Content-Type': 'multipart/form-data'}})
+      }
     },
     beforeunloadHandler(){
-     this._beforeUnload_time= new Date().getTime();
+      this._beforeUnload_time= new Date().getTime();
     },
-   getMessage(){
-     this.msg=this.$route.params
+    getMessage(){
+      this.msg=this.$route.params
 
-     if (typeof(this.msg.mps)=="undefined"){
-      this.msg=JSON.parse(localStorage.getItem("store"))
-     }
-     // let arr0=[];
-     // arr0.push(this.msg.ref);
-     // this.items0=arr0;
-     console.log(this.msg);
-     let arr1=[];
-     arr1.push(this.msg.ref);
-     arr1.push(this.msg.mps);
-     this.items1=arr1;
-     //this.items1.push(this.msg.ops)
-     //this.items2=this.msg.ops;
-     for (var i in this.msg.ops) {
-       this.items1.push(this.msg.ops[i]);
-     }
-     this.data1=this.msg.ms_snp.data;
-     this.layout1.xaxis.categoryarray=this.msg.ms_snp.carr;
+      if (typeof(this.msg.mps)=="undefined"){
+        this.msg=JSON.parse(localStorage.getItem("store"))
+      }
+      // let arr0=[];
+      // arr0.push(this.msg.ref);
+      // this.items0=arr0;
+      console.log(this.msg);
+      let arr1=[];
+      arr1.push(this.msg.ref);
+      arr1.push(this.msg.mps);
+      this.items1=arr1;
+      //this.items1.push(this.msg.ops)
+      //this.items2=this.msg.ops;
+      for (var i in this.msg.ops) {
+        this.items1.push(this.msg.ops[i]);
+      }
+      this.data1=this.msg.ms_snp.data;
+      this.layout1.xaxis.categoryarray=this.msg.ms_snp.carr;
 
 
-     // let arr2=[];
-     // for (var i in this.msg.ops) {
-     //   arr2.push(this.msg.bar_d2[i])
-     // }
-     this.data2=this.msg.bar_d2;
-     this.layout2.xaxis.categoryarray=this.msg.bar_l2;
-     this.data3=this.msg.pie_d3;
-     this.pda=this.msg.pda;
-     this.msaSrc=this.msg.msa_link;
-     this.nxtSrc=this.msg.nxt;
-     //this.layout1.xaxis.tickvals=this.msg.ms_snp.tichvals;
-     //this.layout1.xaxis.ticktext=this.msg.ms_snp.ticktext;
-},
-gotosite(producturl){
-        //window.location.href = producturl
-         window.open(producturl)
-},
+      // let arr2=[];
+      // for (var i in this.msg.ops) {
+      //   arr2.push(this.msg.bar_d2[i])
+      // }
+      this.data2=this.msg.bar_d2;
+      this.layout2.xaxis.categoryarray=this.msg.bar_l2;
+      this.data3=this.msg.pie_d3;
+      this.pda=this.msg.pda;
+      this.msaSrc=this.msg.msa_link;
+      this.nxtSrc=this.msg.nxt;
+      //this.layout1.xaxis.tickvals=this.msg.ms_snp.tichvals;
+      //this.layout1.xaxis.ticktext=this.msg.ms_snp.ticktext;
+    },
+    gotosite(producturl){
+      //window.location.href = producturl
+      window.open(producturl)
+    },
 // gotosite_nextstrain(){
 // 	this.tem_json=this.$route.params.nxt
 // 	window.open("http://localhost:4000/"+this.tem_json)
@@ -289,11 +289,11 @@ gotosite(producturl){
 // 	XLSX.utils.book_append_sheet(wb, ws, 'data')
 // 	XLSX.writeFile(wb,'report.xlsx')
 // }
-},
+  },
 
-created() {
-      this.getMessage()
- }
+  created() {
+    this.getMessage()
+  }
 }
 </script>
 

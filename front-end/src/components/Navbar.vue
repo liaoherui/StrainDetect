@@ -19,7 +19,7 @@
           <b-nav-item class="bitem" to="/"  exact exact-active-class="active"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;Home&nbsp;&nbsp;&nbsp;</b-nav-item>
           <b-nav-item class="bitem" to="/detect" exact exact-active-class="active"><i class="fa fa-search" aria-hidden="true"></i>&nbsp;Detect&nbsp;&nbsp;&nbsp;</b-nav-item>
           <b-nav-item class="bitem" to="/example" exact exact-active-class="active"><i class="fa fa-file-text-o" aria-hidden="true"></i>&nbsp;Example&nbsp;&nbsp;&nbsp;</b-nav-item>
-          <b-nav-item class="bitem" to="/mannual" exact exact-active-class="active"><i class="fa fa-info-circle" aria-hidden="true"></i>&nbsp;Mannual&nbsp;&nbsp;&nbsp;</b-nav-item>
+          <b-nav-item class="bitem" to="/manual" exact exact-active-class="active"><i class="fa fa-info-circle" aria-hidden="true"></i>&nbsp;Manual&nbsp;&nbsp;&nbsp;</b-nav-item>
           <b-nav-item class="bitem" href="https://github.com/liaoherui/StrainDetect"><i class="fa fa-github">&nbsp;GitHub</i></b-nav-item>
         </b-navbar-nav>
 

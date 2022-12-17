@@ -35,6 +35,29 @@
       </div>
       </div>
 
+<!--      Database statistics-->
+      <h2 class="heading6 fw-bold mt-5 text-pink " >Statistics of strains in pre-built databases</h2>
+      <div class="inner-container-home3">
+
+        <div class="banner-2 ">
+          <p class="font-work_sans ppart">Currently, there are 22530 strains covering 8 different human-related viruses in our pre-built databases.
+            These strains are downloaded from <a href="https://www.ncbi.nlm.nih.gov/" style="text-decoration: none">NCBI</a>, <a href="https://gisaid.org/" style="text-decoration: none">GISAID</a>, and <a href="https://www.hiv.lanl.gov/" style="text-decoration: none">HIVdb</a>, respectively. </p>
+          <div >
+            <img src="../assets/db_statistics.png"  class=" imgwf" width="850px" height="450px" alt="The database statistics">
+          </div>
+          <p></p>
+          <p class="font-work_sans ppart">For each virus, there is an <a href="https://docs.nextstrain.org/projects/auspice/en/stable/" style="text-decoration: none">auspice</a> dashboard provided by <a href="https://nextstrain.org/" style="text-decoration: none">Nextstrain team</a>, you can check these auspice pages via:
+            <a href="https://strain.ee.cityu.edu.hk/ncov/open/global/all-time" style="text-decoration: none">SARS-CoV-2</a>,
+            <a href="https://strain.ee.cityu.edu.hk/HIV?c=subtype" style="text-decoration: none">HIV</a>,
+            <a href="https://strain.ee.cityu.edu.hk/H1N1" style="text-decoration: none">H1N1</a>,
+            <a href="https://strain.ee.cityu.edu.hk/HBV" style="text-decoration: none">HBV</a>,
+            <a href="https://strain.ee.cityu.edu.hk/Dengue" style="text-decoration: none">DENV</a>,
+            <a href="https://strain.ee.cityu.edu.hk/Zika" style="text-decoration: none">Zika</a>,
+            <a href="https://strain.ee.cityu.edu.hk/Ebola" style="text-decoration: none">Ebola</a>,
+            <a href="https://strain.ee.cityu.edu.hk/Entero" style="text-decoration: none">EV-D68</a>.
+          </p>
+        </div>
+      </div>
 
 
     <!-- Other tools -->
@@ -144,6 +167,12 @@
   padding-right: 90px;
   padding-bottom: 20px;
 }
+.inner-container-home3{
+  /*width: 90%;*/
+  padding-left: 90px;
+  padding-right: 90px;
+  /*padding-bottom: 20px;*/
+}
 .ttile{
   font-size: 20px;
 }
@@ -187,6 +216,13 @@
   padding: 20px;
 }
 .heading3{
+  text-align: left;
+  font-size: 35px;
+  padding: 30px;
+  padding-left: 0px;
+
+}
+.heading6{
   text-align: left;
   font-size: 35px;
   padding: 30px;

@@ -35,13 +35,15 @@
               <input type="file" id="formfile1" class="form-control form-control-lg" />
               <label class="form-label" for="typeFile">&nbsp;Feature file 1 (named *.npz) &nbsp;&nbsp;  </label>
               <a  href="/static/SRR15224359.npz" download="SRR15224359.npz" style="text-decoration: none"> Example data (SCOV2) &nbsp;</a>
-              <a  href="/static/SRR961514.npz" download="SRR961514.npz" style="text-decoration: none"> Example data (HIV) </a>
+              <a  href="/static/SRR961514.npz" download="SRR961514.npz" style="text-decoration: none"> Example data (HIV) &nbsp;</a>
+              <a  href="/static/ERR3253398.npz" download="ERR3253398.npz" style="text-decoration: none"> Example data (HBV) </a>
             </div>
             <div class="form-outline form-white mb-3">
               <input type="file" id="formfile2" class="form-control form-control-lg" />
               <label class="form-label" for="typeFile">&nbsp;Feature file 2 (named *_sub.npz) &nbsp;&nbsp; </label>
               <a  href="/static/SRR15224359_sub.npz" download="SRR15224359_sub.npz" style="text-decoration: none"> Example data (SCOV2) &nbsp;</a>
-              <a  href="/static/SRR961514_sub.npz" download="SRR961514_sub.npz" style="text-decoration: none"> Example data (HIV) </a>
+              <a  href="/static/SRR961514_sub.npz" download="SRR961514_sub.npz" style="text-decoration: none"> Example data (HIV) &nbsp;</a>
+              <a  href="/static/ERR3253398_sub.npz" download="ERR3253398_sub.npz" style="text-decoration: none"> Example data (HBV) </a>
             </div >
             <h5>Step 2 - Choose targeted species <br><br></h5>
             <p >Please select which strain of virus you would like to identify. </p>
@@ -64,7 +66,7 @@
             <button   class="btn btn-outline-secondary btn-lg px-5" type="submit" >Detect</button>
 
             <div v-if="seen==1">
-              <p><br><img src="../assets/Loading.gif" width="40" height="40" alt="">&nbsp;&nbsp;&nbsp;The job is running. Please wait or you can access the result via <b>https://strain.ee.cityu.edu.hk/#/res</b> later.</p>
+              <p><br><img src="../assets/Loading.gif" width="40" height="40" alt="">&nbsp;&nbsp;&nbsp;The job is running. Please wait or you can access the result via <b>https://strain.ee.cityu.edu.hk/#/resload/{{uuid}}</b> later.</p>
             </div>
             <div v-else-if="seen==2">
               <p> <br><img src="../assets/error.png" width="40" height="40" alt=""> &nbsp;Something wrong. The job is failed. Please check or send emails to heruiliao2-c@my.cityu.edu.hk! </p>
@@ -90,6 +92,7 @@
 <script>
 import axios from 'axios'
 //import {Loading} from 'element-ui'
+import uuidv1 from "uuid/v1"
 
 
 
@@ -97,12 +100,14 @@ export default {
 name: 'Detect',
   data(){
     return{
-      seen: 0
+      seen: 0,
+      uuid: null
     }
   },
 methods: {
 
 onSubmit(e){
+  this.uuid=uuidv1().replaceAll('-','');
 var formData = new FormData();
 var file1 = document.querySelector('#formfile1');
 var file2 = document.querySelector('#formfile2');
@@ -110,11 +115,16 @@ var file2 = document.querySelector('#formfile2');
 var sel=document.querySelector("#vtype");
 var ind=sel.selectedIndex;
 var val=sel[ind].value;
+// var code=this.uuid
+  //window.alert(this.uuid);
 
 try{
 formData.append(file1.files[0].name, file1.files[0]);
 formData.append(file2.files[0].name,file2.files[0]);
 formData.append("vtype",val);
+formData.append("randcode",this.uuid);
+//console.log(this.uuid);
+
 if (val!="Select the species type") {
     this.seen = 1;
   }else{
@@ -125,7 +135,7 @@ if (val!="Select the species type") {
     this.seen=3;
     //console.error(error);
   }
-
+  //window.alert(this.uuid);
 const path="https://strain.ee.cityu.edu.hk/api/detect"
 
 //let loadingInstance = Loading.service(
@@ -141,7 +151,7 @@ axios.post(path, formData, {
     headers: {
       'Content-Type': 'multipart/form-data'
     }
-}).then( (response) =>{
+}).then((response) =>{
        //loadingInstance.close()
        localStorage.setItem('store',JSON.stringify(response.data))
        this.$router.push({name:"Result",params: response.data})
