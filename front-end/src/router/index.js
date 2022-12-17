@@ -2,8 +2,9 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from '@/components/Home'
 import Detect from '@/components/Detect'
-import Mannual from '@/components/Mannual'
+import Manual from '@/components/Manual'
 import Result from '@/components/Result'
+import ResultLoad from '@/components/ResultLoad'
 import Example from '@/components/Example'
 import SRR10971381 from '../Report/SRR10971381'
 import SRR15224359 from '../Report/SRR15224359'
@@ -26,9 +27,9 @@ const router = new Router({
 	   component: Detect
 	},
 	{
-		path:'/mannual',
-		name: 'Mannual',
-		component: Mannual
+		path:'/manual',
+		name: 'Manual',
+		component: Manual
 
 	},
 	{
@@ -36,6 +37,12 @@ const router = new Router({
 		name: 'Result',
 		component: Result
 	},
+    ,
+    {
+      path: '/resload/:id/',
+      name: 'ResultLoad',
+      component: ResultLoad
+    },
 	{
 		path: '/example',
 		name: 'Example',
