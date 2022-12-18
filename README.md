@@ -1,4 +1,4 @@
-# StrainDetect
+# StrainDetect - a web server that detects viral strains from raw sequencing data accurately and efficiently
 StrainDetect is an online viral strain-level analysis tool based on VirStrain. The back end of StrainDetect is implemented using Flask, and the front end is implemented using Vue.js.
 The overall worflow of StrainDetect is shown below. 
 
