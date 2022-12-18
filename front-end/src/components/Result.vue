@@ -29,6 +29,7 @@
               </b-button>
             </vue-json-to-csv></p>
 
+
         </div>
 
         <b-table style="background-color: #FFFFFF; width: 100%; font-size: 13px !important;" small striped hover :items="items1" :fields="fields1" label-sort-asc="" label-sort-desc="" label-sort-clear="">
@@ -37,7 +38,10 @@
           </template>
         </b-table>
 
-
+        <p style=" font-size: 15px; font-family: arial; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">- The columns "Strain Cls", "Mapping score", "Valid map rate", "Total map rate", and "Predicted depth" are identification metrics,
+          which are explained in the <a href="https://github.com/liaoherui/VirStrain" style="text-decoration: none">VirStrain</a> GitHub page
+          (refer to "Cls_info", "Vscore", "Valid_Map_Rate", "Total_Map_Rate", "Strain_depth").
+        </p>
       </div>
 
 
@@ -48,14 +52,16 @@
               <i class="fa fa-download"></i>&nbsp;<b>Download</b>
             </b-button>
           </vue-json-to-csv>
-
         </h5>
+        <p style=" font-size: 16px; font-family: arial; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">"SNV" refers to SNVs between the most possible strain and the reference strain.</p>
         <Plotly :data="data1" :layout="layout1" ></Plotly>
       </div>
       <!--	<b-card class="text-left" bg-variant="dark" text-variant="white">-->
 
       <div class="msa rpc" style="margin-top:18px;">
         <h5> 4. The msa alignment visualization of identified strain(s)</h5>
+        <p style=" font-size: 16px; font-family: arial; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">This page shows
+        multiple sequence alignment result of identified strains and the reference strain, provided by <a href="https://github.com/wilzbach/msa" style="text-decoration: none">MSAviewer</a>.</p>
         <div>
           <iframe v-bind:src="msaSrc"  scrolling="auto" frameborder="0" style="width: 100%;height: 200px;"></iframe>
         </div>
@@ -64,7 +70,10 @@
 
       <div class="auspice rpc" style="margin-top:18px; margin-bottom:18px;">
         <h5> 5. The auspice page of identified strain(s)</h5>
+        <p>The <a href="https://docs.nextstrain.org/projects/auspice/en/stable/" style="text-decoration: none">auspice</a> page is provided by <a href="https://nextstrain.org/" style="text-decoration: none">Nextstrain team</a>.
+          It provides beautiful, interactive visualisations of phylogenomic data. Identified strains are marked in this page by default.</p>
         <iframe v-bind:src="nxtSrc" scrolling="auto" frameborder="0" style="width: 100%;height: 700px;"></iframe>
+<!--        <p>Note: If you can not open this page suddenly while other devices (other PC or mobile phones) are ok. Then, rebooting PC can be a solution. If still failed, please send an email to heruiliao2-c@my.cityu.edu.hk to describe your case. Thanks!</p>-->
         <!--        &nbsp;&nbsp;&nbsp;&nbsp;<b-button style="width: 10%; font-size: 18px !important;" variant="primary" v-on:click="gotosite_nextstrain()"> <i class="fa fa-arrow-right"></i>&nbsp;Go!</b-button>-->
       </div>
 

@@ -118,7 +118,8 @@
       <div class="inner-container-home2">
 
         <div class="banner-2 ">
-          <p class="font-work_sans ppart">This page is provided by <a href="https://clustrmaps.com/" style="text-decoration: none">ClustrMaps</a>. More details about the website statistics can be found via <a href="https://clustrmaps.com/site/1bry1" style="text-decoration: none">here</a>.</p>
+          <p class="font-work_sans ppart">This page is provided by <a href="https://clustrmaps.com/" style="text-decoration: none">ClustrMaps</a>.</p>
+<!--            More details about the website statistics can be found via <a href="https://clustrmaps.com/site/1bry1" style="text-decoration: none">here</a>-->
           <div >
             <a href="https://clustrmaps.com/site/1bry1" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=800&t=tt&d=PhL_54NoSVmt8afCuQwe5AleWcS0eCP4YUIJ9-99vx4&co=2d78ad&ct=ffffff" /></a>
           </div>

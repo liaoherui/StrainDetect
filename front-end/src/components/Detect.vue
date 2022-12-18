@@ -10,7 +10,7 @@
           <div class="off-center">
             <p>To use StrainDetect, you may need to obtain the feature files from your sequencing data firstly.
               Thus, We have provided a user-friendly GUI tool named StrainKmer for your usage.
-              All you need to do is download StrainKmer and the associated species-specific database. Then run StrainKmer and you can easily get two required feature files (*.npz and *_sub.npz).
+              All you need to do is download StrainKmer and the associated species-specific database. Then run StrainKmer (see <router-link :to="{name: 'Manual'}" style="text-decoration: none">Manual-Step 1</router-link>) and you can easily get two required feature files (*.npz and *_sub.npz).
               Finally, you can upload these feature files to "Detect" componnet to obtain your viral strain composition analysis report. </p>
 
             <h6><b>Download GUI tools</b> </h6>
