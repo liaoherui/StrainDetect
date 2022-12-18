@@ -3,3 +3,5 @@ StrainDetect is an online viral strain-level analysis tool based on VirStrain. T
 The overall worflow of StrainDetect is shown below. 
 
 <img width="500" height="400" src="https://user-images.githubusercontent.com/22760266/208287028-ab94e92c-7c5f-45f6-9a65-054d4a4fe935.png" alt="straindetect">
+
+This reponstory includes the source code of StrainDetect. In addition, you can run StrainDetect locally by following the manual below.
