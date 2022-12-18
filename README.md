@@ -21,7 +21,7 @@ Build enviroment using the commands below:<BR/>
 Install Flask environment via [Anaconda](https://anaconda.org/):<BR/>
 `conda env create -f environment.yaml`<BR/>
 
-Install Vue environment via [npm](https://www.npmjs.com/):<BR/>
+Install Vue.js environment via [npm](https://www.npmjs.com/):<BR/>
 `cd front-end`<BR/>
 `npm install`
 
