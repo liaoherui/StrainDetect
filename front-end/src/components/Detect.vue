@@ -15,10 +15,11 @@
 
             <h6><b>Download GUI tools</b> </h6>
             <p>(Tools, test fastq data and all pre-built databases are packed in the same zip file.)</p>
-            <a href="https://strain.ee.cityu.edu.hk/strainkmer/StrainKmer_Windows.zip" style="text-decoration: none;"> Windows version (GUI tool)</a> <a href="https://strain.ee.cityu.edu.hk/strainkmer/StrainKmer_Mac.zip" style="margin-left:20px; text-decoration: none;"> Mac version (GUI tool)</a> <a href="https://github.com/liaoherui/StrainKmer" style="margin-left:20px; text-decoration: none;"> Linux version (cmd tool)</a>
+            <a href="https://strain.ee.cityu.edu.hk/strainkmer/StrainKmer_Windows.zip" style="text-decoration: none;"> Windows version (GUI tool)</a> <a href="https://strain.ee.cityu.edu.hk/strainkmer/StrainKmer_Mac.zip" style="margin-left:20px; text-decoration: none;"> Mac version (GUI tool)</a>  <a href="https://strain.ee.cityu.edu.hk/strainkmer/StrainKmer_Linux.zip" style="margin-left:20px; text-decoration: none;"> Linux version (GUI tool)</a>  <a href="https://github.com/liaoherui/StrainKmer" style="margin-left:20px; text-decoration: none;"> Linux version (cmd tool)</a>
             <p></p>
-            <p>You can also download StrainKmer via Google drive if the link above fails.</p>
-            <a href="https://drive.google.com/file/d/1xg5Vd6KajFB9CG53JNl75e8Mb-iwmEcH/view?usp=sharing" style="text-decoration: none;"> Windows version (GUI tool, Google drive)</a> <a href="https://drive.google.com/file/d/1cAzu1wjGW2Z6qE7A8VbyJetdH4MUOdwp/view?usp=sharing" style="margin-left:20px; text-decoration: none;"> Mac version (GUI tool, Google drive)</a>
+            <p>You can also download StrainKmer via <b>Google drive</b> if the link above fails.</p>
+            <a href="https://drive.google.com/file/d/1xg5Vd6KajFB9CG53JNl75e8Mb-iwmEcH/view?usp=sharing" style="text-decoration: none;"> Windows version (GUI tool)</a> <a href="https://drive.google.com/file/d/1cAzu1wjGW2Z6qE7A8VbyJetdH4MUOdwp/view?usp=sharing" style="margin-left:20px; text-decoration: none;"> Mac version (GUI tool)</a>
+            <a href="https://drive.google.com/file/d/1qsj-PKNv1zVw4Onz3HIbExLmgJaaZ-9I/view?usp=sharing" style="margin-left:20px; text-decoration: none;"> Linux version (GUI tool)</a>
             <p></p>
             <p>1. Note that opening the GUI tool may take some time, be patient please.<br>2. Note that Mac users need to open terminal and modify "~/.zshrc" file before running KMC in the StrainKmer:</p>
             <p> - vi ~/.zshrc<br>- add "ulimit -n 2048" to this file, save and quit.<br>- bash ~/.zshrc</p>
