@@ -18,13 +18,28 @@ Build enviroment using the commands below:<BR/>
 `git clone https://github.com/liaoherui/StrainDetect.git`<BR/>
 `cd StrainDetect`<BR/>
 
-Install flask environment via [Anaconda](https://anaconda.org/):
+Install Flask environment via [Anaconda](https://anaconda.org/):<BR/>
 `conda env create -f environment.yaml`<BR/>
-To activate the environment:
-`conda activate strainscan`<BR/>
 
 Install Vue environment via [npm](https://www.npmjs.com/):<BR/>
 `cd front-end`<BR/>
 `npm install`
+
+## Run StrainDetect locally
+####
+Start Flask service using the commands below:<BR/>
+`cd back-end`<BR/>
+`flask run`
+
+Start Vue.js service using the commands below:<BR/>
+`cd front-end`<BR/>
+`npm run dev`
+
+Then, you can access StrainDetect via http://localhost:8080 locally.
+
+
+
+
+
 
 
