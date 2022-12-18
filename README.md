@@ -4,3 +4,27 @@
 ![home-page](https://user-images.githubusercontent.com/22760266/208290365-a75f3e57-cc8f-4610-8205-b3e5b54421e6.png)
 
 This reponstory includes the source code of StrainDetect. In addition, you can run StrainDetect locally by following the manual below.
+
+---------------------------------------------------------------------------
+### Dependencies:
+* Python ==3.6.* (3.6.12 is recommanded)
+* node.js==v12.14.1
+* npm==8.9.3
+
+## Install
+
+Build enviroment using the commands below:<BR/>
+####
+`git clone https://github.com/liaoherui/StrainDetect.git`<BR/>
+`cd StrainDetect`<BR/>
+
+Install flask environment via [Anaconda](https://anaconda.org/):
+`conda env create -f environment.yaml`<BR/>
+To activate the environment:
+`conda activate strainscan`<BR/>
+
+Install Vue environment via [npm](https://www.npmjs.com/):<BR/>
+`cd front-end`<BR/>
+`npm install`
+
+
