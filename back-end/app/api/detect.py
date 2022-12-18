@@ -9,7 +9,7 @@ import traceback
 @bp.route('/detect',methods=["GET","POST"])
 def detect():
 	try:
-		msa_html_dir='/home/www/static'
+		msa_html_dir='../../../front-end/static'
 		data=request.form
 		vtype=data['vtype']
 		files=request.files
