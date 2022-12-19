@@ -10,6 +10,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
 import locale from '../node_modules/element-ui/lib/locale/lang/en'
+import './assets/fonts/font.css'
 // import VueSmoothScroll from 'vue3-smooth-scroll'
 
 
