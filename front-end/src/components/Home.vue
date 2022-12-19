@@ -11,7 +11,7 @@
           <h3 class="project-title fw-bold  item">Introduction</h3>
           <p class="font-work_sans ppart">
             StrainDetect is an online extension of <b><a href="https://github.com/liaoherui/VirStrain" style="text-decoration: none">VirStrain</a></b>, which can identify viral strains from sequencing data efficiently and accurately.
-            There are two major components of StrainDetect. The first component is a GUI tool called <b><font  color="#9E426E">StrainKmer</font></b>, which allows the user to extract features from raw sequencing data on a personal PC. After acquiring the feature files, the user can upload the files to the second component, the <b><font color="#667EEA">Detect</font></b> page of StrainDetect, to perform viral strain detection. <br/><b>(Statement: This website is free and open to all users and there is no login requirement.)</b>
+            There are two major components of StrainDetect. The first component is a GUI tool called <b><font  color="#9E426E" class="cfont">StrainKmer</font></b>, which allows the user to extract features from raw sequencing data on a personal PC. After acquiring the feature files, the user can upload the files to the second component, the <b><font class="cfont" color="#667EEA">Detect</font></b> page of StrainDetect, to perform viral strain detection. <br/><b>(Statement: This website is free and open to all users and there is no login requirement.)</b>
                       </p>
           <h3 class="project-title fw-bold  item">The workflow of StrainDetect</h3>
           <div class="pic">
@@ -146,6 +146,9 @@
 
 .ttile{
   color: #667EEA;
+}
+.cfont{
+  font-family: "cavolini";
 }
 /*p:first-child {*/
 /*  color: #667EEA;*/

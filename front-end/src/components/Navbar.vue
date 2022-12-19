@@ -9,7 +9,8 @@
     <div class="mtest">
 <!--    <b-navbar toggleable="lg" type="dark" variant="dark" >-->
       <b-navbar toggleable="lg" type="light" variant="light" fixed="top">
-      <b-navbar-brand to="/" class="navbar-brand"><img src="../assets/logo.png" width="85" height="55" class="d-inline-block align-top img-logo" alt="">&nbsp;<font   color="#9E426E" size=45px>Strain</font><font color="#667EEA" size=45px>Detect</font></b-navbar-brand>
+<!--      <b-navbar-brand to="/" class="navbar-brand"><img src="../assets/logo.png" width="85" height="55" class="d-inline-block align-top img-logo" alt="">&nbsp;<font   color="#9E426E" size=45px>Strain</font><font color="#667EEA" size=45px>Detect</font></b-navbar-brand>-->
+        <b-navbar-brand to="/" class="navbar-brand"><img src="../assets/logo.png" width="85" height="55" class="d-inline-block align-top img-logo" alt="">&nbsp;<font   color="#9E426E" size=45px>Strain</font><font color="#667EEA" size=45px>Detect</font></b-navbar-brand>
 
 
       <b-navbar-toggle target="nav-collapse" class="mr-auto "></b-navbar-toggle>
@@ -63,6 +64,7 @@ export default {
 
 <style  >
 @import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@500&display=swap');
+/*@import url('https://fonts.cdnfonts.com/css/cavolini?styles=62006');*/
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
 
 .bgwhite{
@@ -78,7 +80,9 @@ export default {
 }
 
 .navbar-brand{
-  font-family: 'Maven Pro', sans-serif;
+  /*font-family: 'Maven Pro', sans-serif;*/
+  font-family: cavolini;
+
   font-size: 45px;
 }
 .nav-item a.router-link-exact-active {

@@ -5,7 +5,7 @@
       <div class="inner-container1">
 
         <div class="center">
-          <h1 class="text-center fw-bold mt-5 text-pink"><font   color="#9E426E">StrainKmer</font></h1>
+          <h1 class="text-center fw-bold mt-5 text-pink"><font color="#9E426E" class="cfont">StrainKmer</font></h1>
           <div class="px-6"><hr class="mt-6"/></div>
           <div class="off-center">
             <p>To use StrainDetect, you may need to obtain the feature files from your sequencing data firstly.
@@ -19,15 +19,22 @@
             <p></p>
             <p>You can also download StrainKmer via <b>Google drive</b> if the link above fails.</p>
             <a href="https://drive.google.com/file/d/1xg5Vd6KajFB9CG53JNl75e8Mb-iwmEcH/view?usp=sharing" style="text-decoration: none;"> Windows version (GUI tool)</a> <a href="https://drive.google.com/file/d/1cAzu1wjGW2Z6qE7A8VbyJetdH4MUOdwp/view?usp=sharing" style="margin-left:20px; text-decoration: none;"> Mac version (GUI tool)</a>
-            <a href="https://drive.google.com/file/d/1qsj-PKNv1zVw4Onz3HIbExLmgJaaZ-9I/view?usp=sharing" style="margin-left:20px; text-decoration: none;"> Linux version (GUI tool)</a>
+            <a href="https://drive.google.com/file/d/1bWM-_QRwmOEdtRXUlPDQETlJc2k36zxR/view?usp=sharing" style="margin-left:20px; text-decoration: none;"> Linux version (GUI tool)</a>
             <p></p>
-            <p>1. Note that opening the GUI tool may take some time, be patient please.<br>2. Note that Mac users need to open terminal and modify "~/.zshrc" file before running KMC in the StrainKmer:</p>
-            <p> - vi ~/.zshrc<br>- add "ulimit -n 2048" to this file, save and quit.<br>- bash ~/.zshrc</p>
+            <h6><b>Important notes:</b></h6>
+            <p>1. Note that opening the GUI tool may take some time, be patient please.<br>
+              2. Space is not allowd in the file/folder name. (e.g. "Output path" X "Output_path" ✔)<br>
+              3. <b>Mac</b> and <b>Linux</b> users need to <a href="https://support.apple.com/en-hk/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac" style="text-decoration: none">open terminal</a>, then use command "chmod" to change the permissions of following files:
+              <p> - <b>Mac</b>: chmod + x StrainKmer_Mac/StrainKmer | <b>Linux</b>: chmod 777 StrainKmer_Linux/StrainKmer<br>
+              - <b>Mac</b>: chmod + x StrainKmer_Mac/bin/*  | <b>Linux</b>: chmod 777 StrainKmer_Linux/bin/*</p>
+              4. Note that <b>Mac</b> users need to <a href="https://support.apple.com/en-hk/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac" style="text-decoration: none">open terminal</a> and modify "~/.zshrc" file before running KMC in the StrainKmer:</p>
+            <p> - sudo vi ~/.zshrc<br>- add "ulimit -n 2048" to this file, save and quit.<br>- bash ~/.zshrc</p>
             <p>More details about this step can be found via <a href="https://github.com/refresh-bio/KMC" style="text-decoration: none;">KMC github page</a></p>
+
           </div>
           <div class="px-6"><hr class="mt-6"/></div>
 
-          <h1 class="text-center fw-bold mt-5 text-pink"><font color="#667EEA">Detect</font></h1>
+          <h1 class="text-center fw-bold mt-5 text-pink"><font color="#667EEA" class="cfont">Detect</font></h1>
           <div class="px-6"><hr class="mt-6"/></div>
           <h5>Step 1 - Upload the feature files</h5>
           <p >Please upload files via the buttons below.</p>

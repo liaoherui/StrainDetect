@@ -9,7 +9,7 @@
       </template>
 
     </b-table>
-  <p style="font-size: 20px;">All datasets shown in Example can be downloaded via the SRA accession.</p>
+  <p style="font-size: 20px;">All datasets shown in Example can be downloaded via the <a href="https://www.ncbi.nlm.nih.gov/sra/" style="text-decoration: none"> NCBI SRA</a> accession.</p>
   <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
   </div>
 </div>
