@@ -10,7 +10,7 @@ import traceback
 def detect():
 	try:
 		#msa_html_dir='/home/www/static'
-		msa_html_dir='/mnt/d/My_Python_Web_development/StrainDetect_Develop/VstrainDetect/front-end-optimize/static'
+		msa_html_dir='../../../front-end/static'
 		data=request.form
 		vtype=data['vtype']
 		files=request.files
