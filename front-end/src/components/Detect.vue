@@ -82,6 +82,9 @@
             <div v-else-if="seen==3">
               <p> <br><img src="../assets/error.png" width="40" height="40" alt=""> &nbsp;Please fill out all required items in the form and click "Detect" again! </p>
             </div>
+            <div v-else-if="seen==4">
+              <p> <br><img src="../assets/warn.png" width="40" height="40" alt=""> &nbsp;No viral strains can be detected mainly due to the targeted virus does not exist in your input data. </p>
+            </div>
             <div v-else>
               <p><br>The identification process usually takes 1~3 mins. You can also access the result via the given link later...</p>
             </div>
@@ -144,6 +147,7 @@ if (val!="Select the species type") {
     //console.error(error);
   }
   //window.alert(this.uuid);
+  // const path="http://127.0.0.1:5000/api/detect"
 const path="https://strain.ee.cityu.edu.hk/api/detect"
 
 //let loadingInstance = Loading.service(
@@ -161,8 +165,16 @@ axios.post(path, formData, {
     }
 }).then((response) =>{
        //loadingInstance.close()
-       localStorage.setItem('store',JSON.stringify(response.data))
-       this.$router.push({name:"Result",params: response.data})
+        this.msg=response.data;
+        //var length=this.msg.length;
+        //window.alert(length);
+        //window.alert(typeof(this.msg.nov));
+        if (typeof(this.msg.ncov)!="undefined"){
+          this.seen=4;
+        }else {
+          localStorage.setItem('store', JSON.stringify(response.data))
+          this.$router.push({name: "Result", params: response.data})
+        }
 }).catch ((error)=>{
   console.log(error);
   //window.alert(11);
